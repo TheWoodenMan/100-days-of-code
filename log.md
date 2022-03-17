@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 16, 2022
+### Day 1: March 16, 2022
 ##### 
 **Today's Progress**: Finished Guess the Number Project, last commit to github done and project made project.
 Moving on to the next exercise which is about modal windows operated by buttons which change class using 
@@ -21,7 +21,7 @@ do that, I'm going to adapt one of the freecodeacademy projects I finished to do
 _______________________________________________________________________
 
 
-### Day 1: March 17, 2022
+### Day 2: March 17, 2022
 
 **Today's Progress**:
 1. I completed 2 pages of the 30 days of JavaScript, primarily as revision but also because I've realised that different developers and tutors put different emphasis on coding fundamentals, or have different projects or exercises which will help me with knowledge retention. I can skip the parts I know and focus on the extra detail.  the 30 days course is very comprehensive and as it's in written format, it's easy to digest quickly. 
@@ -47,7 +47,7 @@ I much prefer working with visual studio code, it is intuitive and keeps me on t
 
 _______________________________________________________________________
 
-### Day 2: March 18, 2022
+### Day 3: March 18, 2022
 
 **Today's Progress**:
 
