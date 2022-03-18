@@ -50,6 +50,42 @@ _______________________________________________________________________
 ### Day 3: March 18, 2022
 
 **Today's Progress**:
+1. Finished the L3 exercises in Day 2 and started Day 3 of 30 Days of JavaScript
+2. started the Regular Expressions (regex) part of freecodecamp, I will work my way through this but it's unlikely i'll finish today.
+3. I started reading "the javascript way" as revision on the recommendation of a fellow 100 days student :) it reads well and gets straight to the point which I like a lot.
+
+**Thoughts**
+
+1. Day 2 of 30 days was good because it covered things I haven't seen yet, but day 3 seems like mostly maths, boolean and operators that i've seen before. I'll skim through and skip to the exercises and try to do them blind as a challenge. confirm() was new, time functions were also new to me.
+2. Most of the exercises were ok, I had to backtrack and check time functions because they're new to me. I am actually good on writing conditional functions on the fly now, I just need to make sure I alternate between arrow functions, ternary operators and different variations on things in general so I can diversify my range a bit and not just fall into the same functions all the time.
+3. 
+
+**Link(s) to work**
+
+1. https://github.com/TheWoodenMan/30-Days-of-Javascript-Exercises
+
+_______________________________________________________________________
+### Day 4: March 19, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 5: March 20, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 3: March 18, 2022
+
+**Today's Progress**:
 
 **Thoughts**
 
