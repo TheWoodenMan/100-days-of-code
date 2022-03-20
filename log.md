@@ -96,8 +96,11 @@ _______________________________________________________________________
 ### Day 5: March 20, 2022
 
 **Today's Progress**:
+1. Started codewars - Worked through some of the introductory challenges and graded in at X kyu.
 
 **Thoughts**
+1. I picked up more JS than I realised, when presented with a problem, I have been able to leverage quite a few different techniques and to come at the problem from different angles if needed.
+2. If i'm rushed or interrupted for any reason, family or w/e I make more mistakes
 
 **Link(s) to work**
 
