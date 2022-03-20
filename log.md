@@ -58,7 +58,6 @@ _______________________________________________________________________
 
 1. Day 2 of 30 days was good because it covered things I haven't seen yet, but day 3 seems like mostly maths, boolean and operators that i've seen before. I'll skim through and skip to the exercises and try to do them blind as a challenge. confirm() was new, time functions were also new to me.
 2. Most of the exercises were ok, I had to backtrack and check time functions because they're new to me. I am actually good on writing conditional functions on the fly now, I just need to make sure I alternate between arrow functions, ternary operators and different variations on things in general so I can diversify my range a bit and not just fall into the same functions all the time.
-3. 
 
 **Link(s) to work**
 
@@ -68,10 +67,30 @@ _______________________________________________________________________
 ### Day 4: March 19, 2022
 
 **Today's Progress**:
+1. Completed the regular expressions section of freecodecamp, this was quite difficult!
+2. Finished the exercises at the end of day 3 for 30 days of JS which were quite easy - I'm getting good at functions!
+3. Started debugging section of freecodecamp.
 
 **Thoughts**
+1. it's good to have worked through reg expressions in a methodical way, I understand the syntax now but maybe dont see how I could use this usefully yet.
+2. the "restrict possible usernames" problem on freecodecamp is currently blowing my mind, and from the comments I can see Im not the only one. I am 99% done and determined not to look up spoilers! haha i did it!
+
+<code>let username = "JackOfAllTrades";</code><br/>
+<code>let userCheck = /^[a-z]+([a-z]+|[\d][\d]+)\d*$/i; // Change this line</code></br>
+<code>let result = userCheck.test(username);</code></br>
+
+3. I have a little experience at debugging already from the jonas.io bootcamp and I quite enjoy it. Looking forward to seeing how freecodecamp recommend you do it.
+4. practical applications of regex are more apparent now, restricting usernames and passwords for example, already in use all over the world. The ability to extract only the information you need, there are a few good excel projects i've worked on that would love the specificity of that function.
+5. i'm getting curious about some of the various frameworks attached to JS, react.js and vue.js for example. I'm interested in how these can enhance the already quite fluid functionality.
+6. I need to revise time operations, I still don't 100% understand the maths of it, unix time and formatting for example.
+
+7. Repeating capture groups really kicked my ass to be honest, I found the syntax kind of unintuitive initially, but honestly it's completely logical, and whenever I looked up a solution it was always totall understandable. I will keep going on this and need to explore the exact definitions more to gain aptitude on it. 
 
 **Link(s) to work**
+
+1. https://github.com/TheWoodenMan/30-Days-of-Javascript-Exercises
+2. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions
+
 
 _______________________________________________________________________
 ### Day 5: March 20, 2022
