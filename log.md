@@ -96,16 +96,24 @@ _______________________________________________________________________
 ### Day 5: March 20, 2022
 
 **Today's Progress**:
-1. Started codewars - Worked through some of the introductory challenges and graded in at X kyu.
+1. Started codewars - Worked through some of the introductory challenges and graded in at 8th kyu.
+2. Started and COMPLETED! the Data Structures part of freecodecamp and am now more than half way through.
 
 **Thoughts**
 1. I picked up more JS than I realised, when presented with a problem, I have been able to leverage quite a few different techniques and to come at the problem from different angles if needed.
 2. If i'm rushed or interrupted for any reason, family or w/e I make more mistakes
+3. always check spelling/typo/bracket errors first because these are by far the most common.
+4. Slice() and Splice() are functionally very different and the inputs can be deceptively similar, 
+remember: splice(x, y) x is the index, y is the number to remove. slice(x, y) x is the start index and y is the end index (up to, not including).
+4. freecodecamp is like a dictionary-like step-by-step run through of Javascript fundamentals, but it doesn't really test applications. I need to flip back to project work to really learn some of this stuff in practice.
+5. I gained a lot of confidence in working with arrays and objects todays, one of the problems in particular was very difficult but I managed to research my way out of it. 
+6. I seem to have a tendancy of overcomplicating challenges *slightly* I sometimes mis-read the question and either add in features that aren't 100% needed, or just see the potential for those features and try to add them in as a bonus. I need to be better at sticking to the brief, so I'll be adding assignment objectives to my code to keep me focused on the end-goals so I don't waste any time.
 
 **Link(s) to work**
-
+1. https://github.com/TheWoodenMan/Bootcamp-Exercises
+2. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures
 _______________________________________________________________________
-### Day 3: March 18, 2022
+### Day 6: March 21, 2022
 
 **Today's Progress**:
 
@@ -114,3 +122,67 @@ _______________________________________________________________________
 **Link(s) to work**
 
 _______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+
