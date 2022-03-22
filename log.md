@@ -139,11 +139,19 @@ _______________________________________________________________________
 ### Day 6: March 21, 2022
 
 **Today's Progress**:
+1. Started codewars problem "Persistence"
+2. Started "how does javascript work" section of complete javascript course '22
 
 **Thoughts**
 
+1. hoo boy is this a hard one, I spent a few hours on persistence and wrote some good functions. one checks if an array only has one digit or not, another converts a number to a string, then an array - BUT I learned that it's possible to just do this with toString.split("");
+2. I've noticed 2 more tendencies I need to iron out - 1) I have a tendency to overcomplicate things (and that there is usually a javascript command to shortcut common functions. and 2) READ THE QUESTION CAREFULLY. For this problem I had been trying to report the single digit number at the end - but the question asks for a count of the number of steps!!
+3. despite my setbacks, I learned more in detail about recursion, toString, .slice and .map so it's not all bad news! persistence is the name of the game ;)
+
 **Link(s) to work**
 
+1. https://github.com/TheWoodenMan/Bootcamp-Exercises/blob/main/codewars.js
+2. 
 _______________________________________________________________________
 ### Day 6: March 21, 2022
 
