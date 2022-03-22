@@ -117,9 +117,22 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
+1. Completed the "Categorize new Member" kata on codewars.
+2. Ran through the "pig game" project on Complete Javascript '22
+3. Completely Finished pig-game and committed it to github!
+4. Gained aptitude in eventlisteners and changing elements using queryselector/getelementid
+5. Learned about toggle/add/remove to change class elements.
+
 **Thoughts**
+1. I was able to solve the categorise problem really easily with a simple for loop, if statement and push.
+2. I think it would be healthy to at least try one codewar problem per day, even If i can't solve it, it's good to see what code i'm able to leverage intuitively.
+3. The pace of the Jonas' javascript course on udemy is a little slow but it's extremely good at explaining the detail of what is going on, I always retain the knowledge of what is being explained.
+4. I have been trying to pause the videos at the beginning of every new feature so I can try and do it myself and although I didn't follow the exact same path of the instructor - I was able to produce a working product at each step which was fantastic.
 
 **Link(s) to work**
+
+1. https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/solutions/javascript/me/best_practice
+2. https://github.com/TheWoodenMan/Pig-Game---Basic-Dice-Game
 
 _______________________________________________________________________
 ### Day 6: March 21, 2022
