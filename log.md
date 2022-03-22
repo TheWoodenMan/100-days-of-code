@@ -122,6 +122,7 @@ _______________________________________________________________________
 3. Completely Finished pig-game and committed it to github!
 4. Gained aptitude in eventlisteners and changing elements using queryselector/getelementid
 5. Learned about toggle/add/remove to change class elements.
+6. Started Basic Algorithm Scripting Chapter of Freecodeacademy.
 
 **Thoughts**
 1. I was able to solve the categorise problem really easily with a simple for loop, if statement and push.
