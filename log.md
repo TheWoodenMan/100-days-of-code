@@ -136,17 +136,20 @@ _______________________________________________________________________
 2. https://github.com/TheWoodenMan/Pig-Game---Basic-Dice-Game
 
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 7: March 22, 2022
 
 **Today's Progress**:
 1. Started codewars problem "Persistence"
 2. Started "how does javascript work" section of complete javascript course '22
+3. Made a little progress in FCC algorithms solving the "Return Largest Number in Arrays" problem and "confirm the ending"
 
 **Thoughts**
 
 1. hoo boy is this a hard one, I spent a few hours on persistence and wrote some good functions. one checks if an array only has one digit or not, another converts a number to a string, then an array - BUT I learned that it's possible to just do this with toString.split("");
 2. I've noticed 2 more tendencies I need to iron out - 1) I have a tendency to overcomplicate things (and that there is usually a javascript command to shortcut common functions. and 2) READ THE QUESTION CAREFULLY. For this problem I had been trying to report the single digit number at the end - but the question asks for a count of the number of steps!!
 3. despite my setbacks, I learned more in detail about recursion, toString, .slice and .map so it's not all bad news! persistence is the name of the game ;)
+4. Largest arrays was largely revision but I did have to nest a for loop, (which caused a few issues) and deal with negative numbers.
+5. confirm the ending was pleasantly easy and probably a good point to spot at :)
 
 **Link(s) to work**
 
