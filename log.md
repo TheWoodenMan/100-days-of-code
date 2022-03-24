@@ -154,13 +154,20 @@ _______________________________________________________________________
 **Link(s) to work**
 
 1. https://github.com/TheWoodenMan/Bootcamp-Exercises/blob/main/codewars.js
-2. 
+2. https://github.com/TheWoodenMan/Bootcamp-Exercises/blob/main/fccalgorithms.js
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 8: March 23, 2022
 
 **Today's Progress**:
+1. Completed the first 10 exercises of regexone
+2. Completely finished the algorithm section of freecodecamp.
 
 **Thoughts**
+
+1. my regex comprehension is only going to get better if I find ways to either implement it more or use practice exercises to develop it.
+2. Algorithms was a huge undertaking, I spent around 6 hours on this but stayed on it til it was done. Some of the challenges I solved easily in a few minutes.  Other challenges I spent a few hours on trying out various techniques I already knew and reading up and trying new ones where i didn't.
+3. It takes longer to do this way but I would rather stay on it instead of looking up the answer directly, both as a way to test my skills and to reinforce my ability to quickly work out how to do something.
+4. I'm noticing that a lot of the "core" systems in Javascript often have shortcut commands that can abbreviate them quickly and easily, I will often reach for function building and for loops to iterate through arrays and solve problems as a default, but I need to diversify and learn more techniques.
 
 **Link(s) to work**
 
