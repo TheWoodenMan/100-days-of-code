@@ -177,7 +177,8 @@ _______________________________________________________________________
 **Today's Progress**:
 
 1. Day 5 of 30 Days of Javascript, and exercises level 1
-2. Regexone lessons 10-12
+2. Regexone lessons 10-15 Completing the introduction.
+3. Continued - how does javascript work? - Complete Javascript Course '22 
 
 **Thoughts**
 1. Day 4 of 30 Days was already done and was mainly about conditionals which I know quite well, so i've moved to day 5 which is about Arrays. I'm using the 30 days as revision and practice exercises mainly so it's not a big deal if it doesn't match up with the 100 days schedule. 
