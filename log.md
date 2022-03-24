@@ -176,10 +176,11 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
-1. Day 5 of 30 Days of Javascript
+1. Day 5 of 30 Days of Javascript, and exercises level 1
 
 **Thoughts**
 1. Day 4 of 30 Days was already done and was mainly about conditionals which I know quite well, so i've moved to day 5 which is about Arrays. I'm using the 30 days as revision and practice exercises mainly so it's not a big deal if it doesn't match up with the 100 days schedule. 
+2. I self tested on Array commands and got 14/16, needed to look up .fill and .lastIndexOf which I hadn't encountered yet. I got .splice and .toString, but was a little fluffy on syntax so I re-read them.
 
 **Link(s) to work**
 
