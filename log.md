@@ -172,13 +172,19 @@ _______________________________________________________________________
 **Link(s) to work**
 
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 9: March 24, 2022
 
 **Today's Progress**:
 
+1. Day 5 of 30 Days of Javascript
+
 **Thoughts**
+1. Day 4 of 30 Days was already done and was mainly about conditionals which I know quite well, so i've moved to day 5 which is about Arrays. I'm using the 30 days as revision and practice exercises mainly so it's not a big deal if it doesn't match up with the 100 days schedule. 
 
 **Link(s) to work**
+
+1. https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/05_Day_Arrays/05_day_arrays.md
+2. https://github.com/TheWoodenMan/Bootcamp-Exercises
 
 _______________________________________________________________________
 ### Day 6: March 21, 2022
