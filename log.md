@@ -191,11 +191,17 @@ _______________________________________________________________________
 2. https://github.com/TheWoodenMan/Bootcamp-Exercises
 
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 10: March 25, 2022
 
 **Today's Progress**:
 
+1. Watched the explanation videos on .this functionality on Complete Javascript '22
+2. Started Object Oriented Programming on freecodecamp.
+
 **Thoughts**
+
+1. "how javascript works" is incredibly dry, but it's also already proved very useful. I just need to break it up with exercises.
+2. I totally forgot about the "persistence" challenge on codewars and need to get back to it.
 
 **Link(s) to work**
 
