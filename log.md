@@ -206,11 +206,19 @@ _______________________________________________________________________
 **Link(s) to work**
 
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 11: March 26, 2022
 
 **Today's Progress**:
 
+1. Continued the freecodecamp section on Object Oriented Programming
+2. Completed! Object Oriented Programming,
+
 **Thoughts**
+
+1. Object Oriented is going quickly and it's quite intiuitive, need to slow down a little to make sure I am properly comprehending and retaining the information.
+2. I slowed it down a LOT and am going through step by step, I need a challenge to really get this stuff to stick to my brain though.
+3. This makes a lot of sense and I understand the structure of whats happening, but I need practice so I don't forget the specific syntax of how this works,
+4. Before I move onto functional programming, I will go back to complete javascript on udemy and work on OOP.
 
 **Link(s) to work**
 
