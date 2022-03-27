@@ -243,7 +243,7 @@ _______________________________________________________________________
  <code>function checkLength(number) {</code></br>
  <code>return number.toString().length;}</code></br>
  
- - a function to convert any number into a string of numbers in an array:</br>
+ - a function to convert any number into a series of individual numbers in an array:</br>
   <code>function numberToArray(number) {</code></br>
   <code>let tempArray = number.toString().split("");</code></br>
   <code>const numArray = tempArray.map((x) => parseInt(x));</co</br>de></br>
