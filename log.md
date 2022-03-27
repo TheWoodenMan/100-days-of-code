@@ -246,14 +246,15 @@ _______________________________________________________________________
  - a function to convert any number into a series of individual numbers in an array:</br>
   <code>function numberToArray(number) {</code></br>
   <code>let tempArray = number.toString().split("");</code></br>
-  <code>const numArray = tempArray.map((x) => parseInt(x));</co</br>de></br>
+  <code>const numArray = tempArray.map((x) => parseInt(x));</code></br>
   <code>return numArray}</code></br>
   
 These both worked well and did the job, but the part I am struggling with comes next where I have to factorise the array and count each step, outputting the number of steps it takes to get to one digiet. I suspect i have to use recursion which isn't fully understood yet. I will sleep on it for now and come back to it fresh later.
 this challenge is 6th kyu and i'm 8th so it is probably supposed to be quite difficult.
 
 2. I went into detail on for loops, main differences between do and do while is in whether the expression gets executed before or after the condition is checked for repeat. Whenever I do revision like this I find I am picking up more and more detail each time, especially when I go to different instructors who focus on different things.
-3. 
+3. This section is broadening my understanding of maths in javascript, use of Math.trunc Math.random and the modulus character to generate or determine certain numbers.
+
  
 
 **Link(s) to work**
