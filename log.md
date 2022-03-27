@@ -228,11 +228,31 @@ _______________________________________________________________________
 3.https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md 
 
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 12: March 21, 2022
 
 **Today's Progress**:
 
+1. Made another attempt at codewars "persistance"
+2. Revised for loops.
+
 **Thoughts**
+
+1. this is a tough one, I tried a new angle, made a little progress. I broke the problem down into steps and sucecssfully made a few functions to help.
+ -  a function to get the length of any number
+ <code>function checkLength(number) {</code>
+ <code>return number.toString().length;}</code>
+ - a function to convert any number into a string of numbers in an array:
+ <code>function numberToArray(number) {</code>
+  <code>let tempArray = number.toString().split("");</code>
+  <code>const numArray = tempArray.map((x) => parseInt(x));</code>
+  <code>return numArray;</code>
+}
+These both worked well and did the job, but the part I am struggling with comes next where I have to factorise the array and count each step, outputting the number of steps it takes to get to one digiet. I suspect i have to use recursion which isn't fully understood yet. I will sleep on it for now and come back to it fresh later.
+this challenge is 6th kyu and i'm 8th so it is probably supposed to be quite difficult.
+
+2. I went into detail on for loops, main differences between do and do while is in whether the expression gets executed before or after the condition is checked for repeat. Whenever I do revision like this I find I am picking up more and more detail each time, especially when I go to different instructors who focus on different things.
+3. 
+ 
 
 **Link(s) to work**
 
