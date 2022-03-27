@@ -238,14 +238,16 @@ _______________________________________________________________________
 **Thoughts**
 
 1. this is a tough one, I tried a new angle, made a little progress. I broke the problem down into steps and sucecssfully made a few functions to help.
- -  a function to get the length of any number
- <code>function checkLength(number) {</code>
- <code>return number.toString().length;}</code>
- - a function to convert any number into a string of numbers in an array:
- <code>function numberToArray(number) {</code>
-  <code>let tempArray = number.toString().split("");</code>
-  <code>const numArray = tempArray.map((x) => parseInt(x));</code>
-  <code>return numArray;</code>
+ 
+ -  a function to get the length of any number</br>
+ <code>function checkLength(number) {</code></br>
+ <code>return number.toString().length;}</code></br>
+ 
+ - a function to convert any number into a string of numbers in an array:</br>
+ <code>function numberToArray(number) {</code></br>
+  <code>let tempArray = number.toString().split("");</code></br>
+  <code>const numArray = tempArray.map((x) => parseInt(x));</co</br>de></br>
+  <code>return numArray;</code></br>
 }
 These both worked well and did the job, but the part I am struggling with comes next where I have to factorise the array and count each step, outputting the number of steps it takes to get to one digiet. I suspect i have to use recursion which isn't fully understood yet. I will sleep on it for now and come back to it fresh later.
 this challenge is 6th kyu and i'm 8th so it is probably supposed to be quite difficult.
