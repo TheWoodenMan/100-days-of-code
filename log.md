@@ -212,6 +212,7 @@ _______________________________________________________________________
 
 1. Continued the freecodecamp section on Object Oriented Programming
 2. Completed! Object Oriented Programming,
+3. Started Day 6 of 30 Days of JS - Loops
 
 **Thoughts**
 
@@ -221,6 +222,10 @@ _______________________________________________________________________
 4. Before I move onto functional programming, I will go back to complete javascript on udemy and work on OOP.
 
 **Link(s) to work**
+
+1.https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming
+2.https://github.com/TheWoodenMan/Bootcamp-Exercises
+3.https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md 
 
 _______________________________________________________________________
 ### Day 6: March 21, 2022
