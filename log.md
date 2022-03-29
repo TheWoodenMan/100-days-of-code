@@ -228,7 +228,7 @@ _______________________________________________________________________
 3.https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md 
 
 _______________________________________________________________________
-### Day 12: March 21, 2022
+### Day 12: March 27, 2022
 
 **Today's Progress**:
 
@@ -255,10 +255,36 @@ this challenge is 6th kyu and i'm 8th so it is probably supposed to be quite dif
 2. I went into detail on for loops, main differences between do and do while is in whether the expression gets executed before or after the condition is checked for repeat. Whenever I do revision like this I find I am picking up more and more detail each time, especially when I go to different instructors who focus on different things.
 3. This section is broadening my understanding of maths in javascript, use of Math.trunc Math.random and the modulus character to generate or determine certain numbers.
 
- 
+**Link(s) to work**
+
+1. https://www.codewars.com/users/TheWoodenMan/completed
+2. https://github.com/TheWoodenMan/30-days-of-javascript-exercises
+_______________________________________________________________________
+### Day 13: March 28, 2022
+
+**Today's Progress**:
+
+1. 30 days of javascript day 6 exercises 2
+2.
+
+**Thoughts**
+
+1. The difficulty has ramped up a little with these and I am having to research other commands i've not used yet (charAt) and working in different character types like hexadecimal, uft-16 and what they mean, but thats kind of healthy.
+2. I made an observation about my coding learning, I have probably been a little too stubborn in doing things myself, probably wasting a lot of time on things that I could have just looked up or that have simpler ways of solving. I need to recognise that i'm still at the start of my coding journey and likely will need a lot of help and lookups from others.
+3. A good example of this is in the 30 days exercise where i had to make a RNG alpha-numeric generator, last week I probably would have stayed on this for a few hours but after maybe 30 mins I just looked up how to do it, saving a lot of time and frustration and then learning about new commands. Immediately after that I was able ot adapt the code and made a nice little function to generate a random hex color which i'm really quite happy about! (and then another one that randomizes an RGB):
+  
+  <code>function randHex() {</code></br>
+  <code>let output = "";</code></br>
+  <code>let hexChar = "";</code></br>
+  <code>for (let i = 0; i < 3; i++) {</code></br>
+  <code>  hexChar = Math.floor(Math.random() * 255).toString(16);</code></br>
+  <code>  output += hexChar}</code></br>
+  <code>return `#${output}`}</code></br>
 
 **Link(s) to work**
 
+ 1. https://github.com/TheWoodenMan/30-days-of-javascript-exercises
+ 2. https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md
 _______________________________________________________________________
 ### Day 6: March 21, 2022
 
@@ -269,4 +295,45 @@ _______________________________________________________________________
 **Link(s) to work**
 
 _______________________________________________________________________
+
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+
+### Day 6: March 21, 2022
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+_______________________________________________________________________
+
 
