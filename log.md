@@ -280,6 +280,9 @@ _______________________________________________________________________
   <code>  hexChar = Math.floor(Math.random() * 255).toString(16);</code></br>
   <code>  output += hexChar}</code></br>
   <code>return `#${output}`}</code></br>
+  
+4. I picked up an amazing little detail that has been causing bugs - if you empty a subArray for reuse - it resets all copies and instances of that array!! 
+5. https://blog.greenroots.info/ways-to-empty-an-array-in-javascript-and-the-consequences Thanks to this blog link that explains it I managed to modify my code. The two ways I know to empty an array have different consequences, array.length = 0 mutates the original which references all instances of that array. array = []; only works if the array is defined using let and allows the array to be updated independantly from it's original reference, this solved the problem and gave me some valuable information. 
 
 **Link(s) to work**
 
