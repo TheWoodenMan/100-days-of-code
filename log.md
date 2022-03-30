@@ -312,14 +312,20 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 6: March 21, 2022
+### Day 15: March 21, 2022
 
 **Today's Progress**:
+
+1. I forked, created a branch, cloned a repository, changed it, commited it, then compared and submitted a pull request all in github.
+2. I am following a guide on how to contribute to open source for absolute beginners https://www.firsttimersonly.com/
+3. I completed the "How does Javascript work?" part of the complete javascrpt bootcamp. all about primitives vs reference types.
 
 **Thoughts**
 
 **Link(s) to work**
 
+1. https://github.com/firstcontributions/first-contributions
+2. 
 _______________________________________________________________________
 
 ### Day 6: March 21, 2022
