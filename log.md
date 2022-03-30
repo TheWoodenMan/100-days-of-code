@@ -320,6 +320,7 @@ _______________________________________________________________________
 2. I am following a guide on how to contribute to open source for absolute beginners https://www.firsttimersonly.com/ there are a bunch of really interesting open source projects on here that I could contribute to in the future when I get more skill.
 3. I completed the "How does Javascript work?" part of the complete javascrpt bootcamp. all about primitives vs reference types. Moving on now to section 9 - "Data Structures, Modern Operators and Strings"
 4. I went back to codewars and completed "Merge two sorted arrays into one"
+5. I ranked up to 7th kyu on codewars.
 
 **Thoughts**
 
