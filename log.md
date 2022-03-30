@@ -289,13 +289,26 @@ _______________________________________________________________________
  1. https://github.com/TheWoodenMan/30-days-of-javascript-exercises
  2. https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md
 _______________________________________________________________________
-### Day 6: March 21, 2022
+### Day 14: March 29, 2022
 
 **Today's Progress**:
 
+1. Attended #100devs live stream with @Leonnoel.
+2. Completed a number of live challenges coding along with the stream.
+3. Started Microsoft "What is Github?" Training.
+4. Read through the documentation about git. 
+
 **Thoughts**
 
+1. Ive been using github for a while but didn't really use every feature thats available, until I start contributing to projects maybe it won't be so possible. I am reading the full guide so I can pick up on fork, clone, branch etc and really understand what is going on.
+2. I coded along with a dev-stream, it was really good! I learned a bunch of stuff as well as revised things I already know. 
+3. I got some practice creating objects, creating them manually and also via constructor.
+
 **Link(s) to work**
+
+1. https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/1-introduction
+2. https://docs.github.com/en/get-started/using-git/about-git
+3. https://github.com/TheWoodenMan/100Devs
 
 _______________________________________________________________________
 
