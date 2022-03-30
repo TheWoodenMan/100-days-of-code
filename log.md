@@ -319,7 +319,7 @@ _______________________________________________________________________
 1. I forked, created a branch, cloned a repository, changed it, commited it, then compared and submitted a pull request all in github. This is in line with the first-contributions guide on github and linked from microsoft.
 2. I am following a guide on how to contribute to open source for absolute beginners https://www.firsttimersonly.com/ there are a bunch of really interesting open source projects on here that I could contribute to in the future when I get more skill.
 3. I completed the "How does Javascript work?" part of the complete javascrpt bootcamp. all about primitives vs reference types. Moving on now to section 9 - "Data Structures, Modern Operators and Strings"
-4. I went back to codewars and completed "Merge two sorted arrays into one", "Sum of Positive"
+4. I went back to codewars and completed "Merge two sorted arrays into one", "Sum of Positive", "Square(n) Sum".
 5. I ranked up to 7th kyu on codewars.
 6. I joined a stream with 100 devs rufio and coded along in codewars.
 
@@ -327,11 +327,13 @@ _______________________________________________________________________
 
 1.  While completing the first codewars task I learned about some new techniques, firstly the Set() constructor, which creates an object that is a set of elements, can be primitives or object references.  Set checks equality and so each value is not duplicated if it already exists, so it can be good for merging two arrays if the elements need to be unique. Set accepts add, clear, delete methods. 
 2. when using sort() if you leave it blank it will sort in ascending order, but as if they were strings, which means numbers like 10 will be sorted like 1, 10, 2, 3 etc to counteract this, we can add parameters to sort to specify how we want it to be processed. e.g. <br>
-3. I came up with a totally different method to solve "sum of positive" than the streamer but it still worked out, the coding style was much shorter though, almost a one liner.
 
 <code>(a,b) => a-b)</code> 
 
 will sort the subject of sort with an arrow function in ascending format as if they were numbers.
+
+3. I came up with a totally different method to solve "sum of positive" than the streamer but it still worked out, the coding style was much shorter though, almost a one liner.
+4. I respond well to pressure, I will maybe try doing codewars on a timer in future since doing it before the streamer got a chance to explain seemed to really click for me.
 
 **Link(s) to work**
 
