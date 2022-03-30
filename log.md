@@ -249,7 +249,7 @@ _______________________________________________________________________
   <code>const numArray = tempArray.map((x) => parseInt(x));</code></br>
   <code>return numArray}</code></br>
   
-These both worked well and did the job, but the part I am struggling with comes next where I have to factorise the array and count each step, outputting the number of steps it takes to get to one digiet. I suspect i have to use recursion which isn't fully understood yet. I will sleep on it for now and come back to it fresh later.
+These both worked well and did the job, but the part I am struggling with comes next where I have to factorise the array and count each step, outputting the number of steps it takes to get to one digit. I suspect i have to use recursion which isn't fully understood yet. I will sleep on it for now and come back to it fresh later.
 this challenge is 6th kyu and i'm 8th so it is probably supposed to be quite difficult.
 
 2. I went into detail on for loops, main differences between do and do while is in whether the expression gets executed before or after the condition is checked for repeat. Whenever I do revision like this I find I am picking up more and more detail each time, especially when I go to different instructors who focus on different things.
@@ -281,7 +281,7 @@ _______________________________________________________________________
   <code>  output += hexChar}</code></br>
   <code>return `#${output}`}</code></br>
   
-4. I picked up an amazing little detail that has been causing bugs - if you empty a subArray for reuse - it resets all copies and instances of that array!! 
+4. I picked up an amazing little detail that has been causing bugs - if you empty a subArray for reuse - it resets all copies and instances of that array!! (edit - because of references staying the same when you use const to define an array, use let to create a new memory reference that is independant of the source array)
 5. https://blog.greenroots.info/ways-to-empty-an-array-in-javascript-and-the-consequences Thanks to this blog link that explains it I managed to modify my code. The two ways I know to empty an array have different consequences, array.length = 0 mutates the original which references all instances of that array. array = []; only works if the array is defined using let and allows the array to be updated independantly from it's original reference, this solved the problem and gave me some valuable information. 
 
 **Link(s) to work**
@@ -316,16 +316,25 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
-1. I forked, created a branch, cloned a repository, changed it, commited it, then compared and submitted a pull request all in github.
-2. I am following a guide on how to contribute to open source for absolute beginners https://www.firsttimersonly.com/
-3. I completed the "How does Javascript work?" part of the complete javascrpt bootcamp. all about primitives vs reference types.
+1. I forked, created a branch, cloned a repository, changed it, commited it, then compared and submitted a pull request all in github. This is in line with the first-contributions guide on github and linked from microsoft.
+2. I am following a guide on how to contribute to open source for absolute beginners https://www.firsttimersonly.com/ there are a bunch of really interesting open source projects on here that I could contribute to in the future when I get more skill.
+3. I completed the "How does Javascript work?" part of the complete javascrpt bootcamp. all about primitives vs reference types. Moving on now to section 9 - "Data Structures, Modern Operators and Strings"
+4. I went back to codewars and completed "Merge two sorted arrays into one"
 
 **Thoughts**
+
+1.  While completing the first codewars task I learned about some new techniques, firstly the Set() constructor, which creates an object that is a set of elements, can be primitives or object references.  Set checks equality and so each value is not duplicated if it already exists, so it can be good for merging two arrays if the elements need to be unique. Set accepts add, clear, delete methods. 
+2. when using sort() if you leave it blank it will sort in ascending order, but as if they were strings, which means numbers like 10 will be sorted like 1, 10, 2, 3 etc to counteract this, we can add parameters to sort to specify how we want it to be processed. e.g. <br>
+
+<code>(a,b) => a-b)</code> 
+
+will sort the subject of sort with an arrow function in ascending format as if they were numbers.
 
 **Link(s) to work**
 
 1. https://github.com/firstcontributions/first-contributions
-2. 
+2. https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript
+3.
 _______________________________________________________________________
 
 ### Day 6: March 21, 2022
