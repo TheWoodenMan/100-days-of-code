@@ -312,7 +312,7 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 15: March 21, 2022
+### Day 15: March 30, 2022
 
 **Today's Progress**:
 
@@ -352,14 +352,20 @@ this was all it took:<br>
 4. https://github.com/TheWoodenMan/30-days-of-javascript-exercises/blob/main/codewars.js
 _______________________________________________________________________
 
-### Day 6: March 21, 2022
+### Day 16: March 31, 2022
 
 **Today's Progress**:
+ 
+ 1. Completed the "Introduction to Github" module on Microsoft Learn
 
 **Thoughts**
+ 
+ 
 
 **Link(s) to work**
 
+ 1. https://docs.microsoft.com/en-gb/learn/modules/introduction-to-github/
+ 
 _______________________________________________________________________
 
 ### Day 6: March 21, 2022
