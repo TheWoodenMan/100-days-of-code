@@ -337,12 +337,12 @@ will sort the subject of sort with an arrow function in ascending format as if t
 4. I respond well to pressure, I will maybe try doing codewars on a timer in future since doing it before the streamer got a chance to explain seemed to really click for me.
 5. I'd been stuck on alphabetical grid for the last 3 days on codewars, the problem was with what happens to the grid when you go beyond the first 26 characters of the alphabet, it needs to repeat again. Basically I solved the problem by a) taking a break from it. b) thinking really carefully about the math required to get the correct number and building a short if statement that screens for values > 26 of i
 
-this was all it took:
-<code>if (i + j < 27) {                                  </code> 
-<code>     sumRef = i + j;                               </code>
-<code>  } else if (i + j >= 27) {                        </code>
-<code>    sumRef = i + j - 26 * Math.floor((i + j) / 26);</code>
-<code>  }                                                </code>
+this was all it took:<br>
+<code>if (i + j < 27) {                                  </code><br>
+<code>     sumRef = i + j;                               </code><br>
+<code>  } else if (i + j >= 27) {                        </code><br>
+<code>    sumRef = i + j - 26 * Math.floor((i + j) / 26);</code><br>
+<code>  }                                                </code><br>
 
 **Link(s) to work**
 
