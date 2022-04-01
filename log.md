@@ -357,10 +357,14 @@ _______________________________________________________________________
 **Today's Progress**:
  
  1. Completed the "Introduction to Github" module on Microsoft Learn
+ 2. Attended https://www.twitch.tv/learnwithleon dev stream.
+ 3. installed gitbash and ubuntu wl, spent a good amount of time revising the terminal basic commands.
 
 **Thoughts**
  
- 
+ 1. I actually learned terminal CLI over 20 years ago with MS DOS 3.0, 3.22 6.22 Etc I've used linux before, ubunto, debian,
+ raspbian and linuxmint. I also used knoppix before as a boot disk and UI so this is all pretty familiar to me.
+ 2. although the basics of navigating terminal is known to me, I appreciated the git terminal commands, status, init, commit, (esc : wq enter to submit) branch, checkout (branch), merge (branch)
 
 **Link(s) to work**
 
