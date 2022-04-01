@@ -372,14 +372,25 @@ _______________________________________________________________________
  
 _______________________________________________________________________
 
-### Day 6: March 21, 2022
+### Day 17: March 21, 2022
 
 **Today's Progress**:
-
+ 
+ 1. Installed Anki - a card based memorisation aid for helping with information retention esp on commands/syntax.
+ 2. Revised git/github terminal commands
+ 3. Continued Complete Javascript '22 looking at Destructoring arrays.
+ 
 **Thoughts**
 
+ 1. Feel like I ran out of steam a bit over the last few days, despite getting the minimum time in, I dont think I made as much progress as I would like.
+ 2. I have to balance my time between coding learning and work demands to be honest, it's just the way it's going to be, on days when work is heavy i'll schedule revision instead of picking up on new information so I can commit to better retention.
+ 3. I found a pre-build card pack for anki and it looks pretty useful to me, lets see how it goes.
+ 
 **Link(s) to work**
 
+ 1. https://kbroman.org/github_tutorial/pages/init.html
+ 2.
+ 
 _______________________________________________________________________
 
 ### Day 6: March 21, 2022
