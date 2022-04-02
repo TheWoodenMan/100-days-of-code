@@ -372,7 +372,7 @@ _______________________________________________________________________
  
 _______________________________________________________________________
 
-### Day 17: March 21, 2022
+### Day 17: April 1, 2022
 
 **Today's Progress**:
  
@@ -393,13 +393,23 @@ _______________________________________________________________________
  
 _______________________________________________________________________
 
-### Day 6: March 21, 2022
+### Day 6: April 2, 2022
 
 **Today's Progress**:
 
+1. Downloaded,, installed & completed a set of anki cards on basic javascript
+2. Enrolled for the Odin Project
+ 
+ 
 **Thoughts**
+ 
+1. The anki card system is really good for helping with command and theory retention, it challenges me to "explain" things I "just know" which will help me develop depth of knowledge in the subject.
+2. The odin project has a lot of "mindset" style prep right at the start of it which is honestly excellent, many of the other learning sources I have focus only on the code/skills so I can tell this is going to add another dimension to my learning.
 
 **Link(s) to work**
+
+1. https://ankiweb.net/shared/info/216021904
+2.
 
 _______________________________________________________________________
 
