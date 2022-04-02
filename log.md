@@ -393,12 +393,13 @@ _______________________________________________________________________
  
 _______________________________________________________________________
 
-### Day 6: April 2, 2022
+### Day 18: April 2, 2022
 
 **Today's Progress**:
 
 1. Downloaded,, installed & completed a set of anki cards on basic javascript
 2. Enrolled for the Odin Project
+3. Installed Ubuntu to dual boot with windows so I can have a linux runtime environment.
  
  
 **Thoughts**
@@ -409,7 +410,7 @@ _______________________________________________________________________
 **Link(s) to work**
 
 1. https://ankiweb.net/shared/info/216021904
-2.
+2. https://www.theodinproject.com/lessons/foundations-installation-overview
 
 _______________________________________________________________________
 
