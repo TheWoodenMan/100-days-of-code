@@ -397,7 +397,7 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
-1. Downloaded,, installed & completed a set of anki cards on basic javascript
+1. Downloaded, installed & completed a set of anki cards on basic javascript knowledge.
 2. Enrolled for the Odin Project
 3. Installed Ubuntu to dual boot with windows so I can have a linux runtime environment.
  
@@ -406,6 +406,7 @@ _______________________________________________________________________
  
 1. The anki card system is really good for helping with command and theory retention, it challenges me to "explain" things I "just know" which will help me develop depth of knowledge in the subject.
 2. The odin project has a lot of "mindset" style prep right at the start of it which is honestly excellent, many of the other learning sources I have focus only on the code/skills so I can tell this is going to add another dimension to my learning.
+3. I used ubuntu before years ago and liked it generally despite how it lined up for gaming etc, for coding it seems to be much more suitable and I spent a few hours configuring vscode and installing supporting programs like gitcola etc.
 
 **Link(s) to work**
 
