@@ -426,21 +426,27 @@ _______________________________________________________________________
 
  1. Another fairly light day, I have a backlog of videos to watch now on git/hub so hoping to get some of that done maybe tomorrow
  2. the git explanations go into way more depth than i've seen so far, I think it's worth looking at this properly now
+ 3. 04/04 - Man I was absolutely shattered yesterday, I'm just happy I managed to get at least some absolute basics done so I could keep up the momentum.
  
 **Link(s) to work**
 
  1. https://www.theodinproject.com/paths/foundations/courses/foundations
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 20: April 4, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Continued with and completed Odin Project Intro to Github.
+ 2. Started HTML/CSS
+ 
  
 **Thoughts**
 
- 1. 
+ 1. I feel comfortat hoestlble with git commands in terminal now
+ 2. I covered HTML/CSS in freecodecamp but honestly wasnt 100% proficient in their use, looking forward to refinding that now.
+ 3. I'm pushing everything I do on odin to github by terminal commands, its a little tricky, e.g. after renaming the repo on github, I had to look up how to push to that repository from my lcoal. <code> git remote set-url origin git://<newurl></code> did the job
+ 
 **Link(s) to work**
 
  1. 
