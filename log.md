@@ -424,11 +424,12 @@ _______________________________________________________________________
  
 **Thoughts**
 
- 1. 
+ 1. Another fairly light day, I have a backlog of videos to watch now on git/hub so hoping to get some of that done maybe tomorrow
+ 2. the git explanations go into way more depth than i've seen so far, I think it's worth looking at this properly now
  
 **Link(s) to work**
 
- 1. 
+ 1. https://www.theodinproject.com/paths/foundations/courses/foundations
  
 _______________________________________________________________________
 ### Day 19: April 3, 2022
