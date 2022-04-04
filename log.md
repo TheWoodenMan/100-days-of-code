@@ -439,7 +439,7 @@ _______________________________________________________________________
  
  1. Continued with and completed Odin Project Intro to Github.
  2. Started and working through HTML/CSS
- 3. Started the recipes project to make a simple website.
+ 3. Started and finished the recipes project to make a simple website.
  
  
 **Thoughts**
@@ -460,10 +460,11 @@ _______________________________________________________________________
 -Use the body to explain what and why vs. how*/
 
  5. I have a few recipes I can actually share and this is a really nice project that I can put something into (finally!)
+ 6. I found a much better way of displaying fractions in html <code>&frac12;</code> 
  
 **Link(s) to work**
 
- 1. 
+ 1. https://thewoodenman.github.io/odin-recipes/
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
