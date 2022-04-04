@@ -395,7 +395,7 @@ _______________________________________________________________________
 
 ### Day 18: April 2, 2022
 
-**Today's Progress**:
+**Today's Progressni 
 
 1. Downloaded, installed & completed a set of anki cards on basic javascript knowledge.
 2. Enrolled for the Odin Project
@@ -414,5 +414,104 @@ _______________________________________________________________________
 2. https://www.theodinproject.com/lessons/foundations-installation-overview
 
 _______________________________________________________________________
+### Day 19: April 3, 2022
 
+**Today's Progress**:
+ 
+ 1. 💪 20 mins Anki practice ✔️
+ 2. Odin Project Introduction to Git started
+ 
+ 
+**Thoughts**
 
+ 1. 
+ 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
