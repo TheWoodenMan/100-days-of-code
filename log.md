@@ -445,7 +445,19 @@ _______________________________________________________________________
 
  1. I feel comfortat hoestlble with git commands in terminal now
  2. I covered HTML/CSS in freecodecamp but honestly wasnt 100% proficient in their use, looking forward to refinding that now.
- 3. I'm pushing everything I do on odin to github by terminal commands, its a little tricky, e.g. after renaming the repo on github, I had to look up how to push to that repository from my lcoal. <code> git remote set-url origin git://<newurl></code> did the job
+ 3. I'm pushing everything I do on odin to github by terminal commands, its a little tricky, e.g. after renaming the repo on github, I had to look up how to push to that repository from my lcoal. <code> git remote set-url origin git://<newurl></code> did the job.
+ 4. I realised that my earlier github commits weren't really very well described so i'm going to make sure the messaging fits from now.
+ 
+ /* 7 Features of a good Git Commit Message:
+
+-Separate subject from body with a blank line
+-Limit the subject line to 50 characters
+-Capitalize the subject line
+-Do not end the subject line with a period
+-Use the imperative mood in the subject line
+-Wrap the body at 72 characters
+-Use the body to explain what and why vs. how*/
+ 
  
 **Link(s) to work**
 
