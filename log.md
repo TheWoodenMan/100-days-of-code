@@ -461,6 +461,7 @@ _______________________________________________________________________
 
  5. I have a few recipes I can actually share and this is a really nice project that I can put something into (finally!)
  6. I found a much better way of displaying fractions in html <code>&frac12;</code> 
+ 7. I played around a bit with some javascript on the receipe site just to see how it would fit in. Had an idea to replace any 1/2 with &frac12; automatically by making a function that replaces that exact text with the super/subscript version. it's an interesting little problem, I may give it further thought.
  
 **Link(s) to work**
 
