@@ -468,18 +468,22 @@ _______________________________________________________________________
  1. https://thewoodenman.github.io/odin-recipes/
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 21: April 5, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Attended 100 Devs skills and marketing development session
+ 2. Fired through anki cards for the day
+ 3. continued Odin project section on CSS
  
 **Thoughts**
 
- 1. 
+ 1. I actually spent several hours on the 100 devs twitch stream it was valuable advice but more career oriented, so although I didn't pick up any coding experience, I gained perspective in industry knowledge.
+ 2. I'm not great a CSS and looking forward to refining my skills here.
+
 **Link(s) to work**
 
- 1. 
+ 1. https://www.theodinproject.com/lessons/foundations-css-foundations
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
