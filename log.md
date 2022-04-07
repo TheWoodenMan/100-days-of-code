@@ -504,15 +504,19 @@ _______________________________________________________________________
  1. https://github.com/TheWoodenMan/css-exercises
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 23: April 7, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki Cards
+ 2. Ran through the documentation and exercises for chrome dev-tools
+ 3. completed the inspect html/css section of odin
+ 4. started the box model on odin
  
 **Thoughts**
 
- 1. 
+ 1. Anki cards are taking a little longe to do each time, I need to factor that into my time management, they are getting more complex though too which is great. it's a good way to test and increase my knowledge.
+ 2. 
 **Link(s) to work**
 
  1. 
