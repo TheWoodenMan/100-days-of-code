@@ -486,18 +486,22 @@ _______________________________________________________________________
  1. https://www.theodinproject.com/lessons/foundations-css-foundations
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 22: April 6, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Completd odin project css 
+ 2. Started reading css inspections
  
 **Thoughts**
 
- 1. 
+ 1. CSS was difficult before, it's good to see a fairly logical explanation. 
+ 2. Anytime CSS doesn't work it's not broken, it's just doing what you told it and theres some issues you dont know about 
+
+
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/css-exercises
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
