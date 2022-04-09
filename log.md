@@ -541,6 +541,22 @@ _______________________________________________________________________
  2. https://www.youtube.com/watch?v=vd2dtkMINIw
  
 _______________________________________________________________________
+ ### Day 25: April 9, 2022
+
+**Today's Progress**:
+ 
+ 1. Started a learning tracker on github
+ 
+**Thoughts**
+
+ 1. I felt like I was starting to get a bit fragmented in my focus, I had started lots of new learning sources(there are a lot out there!) but hadn't made much solid progress. I took a little time to organise my studies a bit and have a learning tracker to complement the 100 days of code
+ 2. This means I'll be able to keep better track of what I'm actually working on and see my progress as I complete things and move on.
+ 3.  
+**Link(s) to work**
+
+ 1. https://github.com/TheWoodenMan/My-Learning-Tracker/blob/master/README.md
+ 
+_______________________________________________________________________
  ### Day 19: April 3, 2022
 
 **Today's Progress**:
@@ -555,3 +571,89 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+
+
