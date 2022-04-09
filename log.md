@@ -546,6 +546,8 @@ _______________________________________________________________________
 **Today's Progress**:
  
  1. Started a learning tracker on github
+ 2. anki cards - javascript
+ 3. Started flexboxfroggy to revise css flex
  
 **Thoughts**
 
@@ -555,6 +557,7 @@ _______________________________________________________________________
 **Link(s) to work**
 
  1. https://github.com/TheWoodenMan/My-Learning-Tracker/blob/master/README.md
+ 2. http://flexboxfroggy.com/
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
