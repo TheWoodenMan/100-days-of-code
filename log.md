@@ -444,7 +444,7 @@ _______________________________________________________________________
  
 **Thoughts**
 
- 1. I feel comfortat hoestlble with git commands in terminal now
+ 1. I feel pretty comfortable with git commands in terminal now
  2. I covered HTML/CSS in freecodecamp but honestly wasnt 100% proficient in their use, looking forward to refinding that now.
  3. I'm pushing everything I do on odin to github by terminal commands, its a little tricky, e.g. after renaming the repo on github, I had to look up how to push to that repository from my lcoal. <code> git remote set-url origin git://<newurl></code> did the job.
  4. I realised that my earlier github commits weren't really very well described so i'm going to make sure the messaging fits from now.
