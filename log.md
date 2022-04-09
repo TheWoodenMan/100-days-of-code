@@ -533,7 +533,8 @@ _______________________________________________________________________
 **Thoughts**
 
  1. focused mode vs diffuse mode for brain states learning is interesting dovetails well with pomodoro and explains why it works for me.
- 2. 
+ 2. Regular testing, use of flashcards (anki) to memorise. Use of recall rather than underlining - type out the code - no copy/pasting.
+ 3.
 **Link(s) to work**
 
  1. https://www.learnenough.com/command-line-tutorial
