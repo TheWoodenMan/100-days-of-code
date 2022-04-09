@@ -547,7 +547,7 @@ _______________________________________________________________________
  
  1. Started a learning tracker on github
  2. anki cards - javascript
- 3. Started flexboxfroggy to revise css flex
+ 3. Started and finished flexboxfroggy to revise css flex
  
 **Thoughts**
 
