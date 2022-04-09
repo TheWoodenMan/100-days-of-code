@@ -522,18 +522,22 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 24: April 8, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. anki cards, never skip
+ 2. ran through some basic command line tutorials on learnenough
+ 3. Watched "Learn how to learn" by Barbara Oakley which comes highly recommended by other tech students.
  
 **Thoughts**
 
- 1. 
+ 1. focused mode vs diffuse mode for brain states learning is interesting dovetails well with pomodoro and explains why it works for me.
+ 2. 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.learnenough.com/command-line-tutorial
+ 2. https://www.youtube.com/watch?v=vd2dtkMINIw
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
