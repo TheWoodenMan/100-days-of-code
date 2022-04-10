@@ -564,14 +564,17 @@ _______________________________________________________________________
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki cards
+ 2. Codewars Exercise
+ 3. 100 Devs Catch up Crew
  
 **Thoughts**
 
- 1. 
+ 1. I need to ask for help when stuck earlier. I got help with codewars from someone on discord and had typoed the function parameter which meant that even though I had code that works - I wasn't getting the output to validate vs the test. 
+ 2. 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.codewars.com/kata/5ab52526379d20736b00000e/javascript
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
