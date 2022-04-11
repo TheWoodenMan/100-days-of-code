@@ -560,13 +560,14 @@ _______________________________________________________________________
  2. http://flexboxfroggy.com/
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 26: April 3, 2022
 
 **Today's Progress**:
  
  1. Anki cards
  2. Codewars Exercise
  3. 100 Devs Catch up Crew
+ 4. Started Learning how to Learn on coursera
  
 **Thoughts**
 
@@ -575,6 +576,9 @@ _______________________________________________________________________
 **Link(s) to work**
 
  1. https://www.codewars.com/kata/5ab52526379d20736b00000e/javascript
+ 2. https://www.coursera.org/learn/learning-how-to-learn/home/welcome
+
+
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
