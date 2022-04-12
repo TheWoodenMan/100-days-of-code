@@ -560,13 +560,13 @@ _______________________________________________________________________
  2. http://flexboxfroggy.com/
  
 _______________________________________________________________________
- ### Day 26: April 3, 2022
+ ### Day 26: April 10, 2022
 
 **Today's Progress**:
  
  1. Anki cards
  2. Codewars Exercise
- 3. 100 Devs Catch up Crew
+ 3. 100 Devs Catch up Crew - Day 1
  4. Started Learning how to Learn on coursera
  
 **Thoughts**
@@ -576,23 +576,28 @@ _______________________________________________________________________
 **Link(s) to work**
 
  1. https://www.codewars.com/kata/5ab52526379d20736b00000e/javascript
- 2. https://www.coursera.org/learn/learning-how-to-learn/home/welcome
+ 2. https://drive.google.com/file/d/1dW17kVIweEExBb3ux_ODw1F31WLVRlib/view
+ 3. https://www.coursera.org/learn/learning-how-to-learn/home/welcome
 
 
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 29: April 11, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. 20 minutes of anki cards
+ 2. Finished Week 1 of learning how to learn
  
 **Thoughts**
 
- 1. 
+ 1. Learning how to learn is pretty intensive, but is clear this is very important stuff and will impact my learning approach fundamentally.
+ 2. That being the case - Everything else is on hold until this gets done. 
+ 3. I'll keep going with the javascript anki cards though to keep up the coding knowledge retention.
+ 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.coursera.org/learn/learning-how-to-learn/home/welcome
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
