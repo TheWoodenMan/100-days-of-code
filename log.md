@@ -631,6 +631,8 @@ _______________________________________________________________________
 
  1. The final project is to create a learning resource about learning for others, I have a few work related ideas which might be useful.
  2. It's kind of apt that I'm scoring high on the learning course by using the very same techniques it teaches.
+ 3. Updating both github and twitter is kind of a pain, it would be good if I could automate twitter somehow.
+ 4. Alternatively updating github by mobile would be good, while working every day it's been difficult to get it done
  
 **Link(s) to work**
 
