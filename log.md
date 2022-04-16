@@ -600,32 +600,41 @@ _______________________________________________________________________
  1. https://www.coursera.org/learn/learning-how-to-learn/home/welcome
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 30-34: April 12-15, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Learning how to learn Weeks 1-3
+ 2. Anki javascript cards
+ 3. Added six sigma project material to anki so I can learn that at the same time
  
 **Thoughts**
 
- 1. 
+ 1. I've been working through this course in a pretty focused way each night while working during the day. Making good progress to be honest and scoring high on the assessments
+ 2. I haven't been able to do much coding but have kept up on the anki javascript cards to try to keep it as fresh as possible for when I go back. 
+ 3. I submitted the last 4 days as a block because i've been at work - but i've managed to at least update twitter every day even though I couldnt get to github.
+
 **Link(s) to work**
 
- 1. 
+ 1. https://www.coursera.org/learn/learning-how-to-learn/home/welcome
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 35: April 16, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Went back to Javascript complete course by jonas.io completed destructuring objects and started on the spread operator
+ 2. Started week 4 on "Learning how to Learn" and signed up for the honours course and final project.
+ 3. Anki cards being done every day, updated learning how to learn cards up to week 3 content.
  
 **Thoughts**
 
- 1. 
+ 1. The final project is to create a learning resource about learning for others, I have a few work related ideas which might be useful.
+ 2. It's kind of apt that I'm scoring high on the learning course by using the very same techniques it teaches.
+ 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648535#overview
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
