@@ -639,15 +639,19 @@ _______________________________________________________________________
  1. https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648535#overview
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 33: April 17, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki Cards
+ 2. Revision of string commands, Split, Substr, Splice, 
+ 3. Revision of JS/HTML commands, write, delete, innerHTML, `<string>` 
+ 4. Continue Learning to Learn
+ 5. Continue with complete javascript on udemy
  
 **Thoughts**
 
- 1. 
+ 1. I had an idea that I would take notes of which anki cards I struggle with and rather than just memorising them more frequently, do small side exercises with them to really get them to stick.  Some of the ones I get mixed up are subtley similar to each other and I think that by just practicing I will be able to remember better.
 **Link(s) to work**
 
  1. 
