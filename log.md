@@ -657,18 +657,26 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________
- ### Day 19: April 3, 2022
+ ### Day 34: April 18, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. 30 days of javascript day 7 - functions exercise 1
+ 2. Anki cards
+ 3. short circuiting on jonas.io
+ 4. Refreshed my ssh key on github since it was glitching out for some reason
  
 **Thoughts**
 
- 1. 
+ 1. I need to remember to commit my github log early so it doesn't time out, it's messing up my days order.
+ 2. I absolutely blasted through 30 days day 7, really fun, I obviously have a good grip on arrays, function and looping.
+ 3. I used the last example as an opportunity to learn more about objects and iteration using the Object keys and entries commands, really useful.
+ 4. 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/30-Days-Of-JavaScript/blob/master/07_Day_Functions/07_day_functions.md
+ 2. https://attacomsian.com/blog/javascript-iterate-objects
+ 3. 
  
 _______________________________________________________________________
  ### Day 19: April 3, 2022
