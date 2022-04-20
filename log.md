@@ -679,6 +679,26 @@ _______________________________________________________________________
  3. 
  
 _______________________________________________________________________
+ ### Day 35: April 19, 2022
+
+**Today's Progress**:
+
+ 1. Completed "Learning how to Learn"
+ 2. Jonas.io - nullish coalescing operator
+ 3. Jonas.io - logical assignment operators 
+ 
+**Thoughts**
+
+ 1. Learning how to learn is a fantastic course, it has given me so many effective learning techniques.
+ 2. I keep forgetting to save my github log and lose the previous days work.  I need to save it when I chance focus so I don't forget.
+ 3. 
+**Link(s) to work**
+
+ 1. https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648559#overview
+ 2. https://www.coursera.org/account/accomplishments/certificate/2H2D2QJPANF8
+ 3. 
+ 
+_______________________________________________________________________
  ### Day 19: April 3, 2022
 
 **Today's Progress**:
@@ -692,6 +712,122 @@ _______________________________________________________________________
 
  1. 
  
-_______________________________________________________________________
+_______________________________________________________________________ ### Day 19: April 3, 2022
 
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________ ### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. 
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
 
