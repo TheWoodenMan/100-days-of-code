@@ -716,15 +716,19 @@ _______________________________________________________________________
  2. https://www.theodinproject.com/lessons/foundations-the-box-model
  
 _______________________________________________________________________ 
-### Day 19: April 3, 2022
+### Day 37: April 21, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki cards
+ 2. 2 hours of Leon Noel's Class 2 #catchupcrew
+ 3. shaehowe css/thml
  
 **Thoughts**
 
- 1. 
+ 1. I keep losing my update work to github crashes :(( need to commit more frequently
+ 2. I'm using the odin recipes page to practice CSS, I'll also be using this as an IRL receipe repo for my own records
+ 3. 
 **Link(s) to work**
 
  1. 
@@ -734,7 +738,9 @@ _______________________________________________________________________
 
 **Today's Progress**:
  
- 1. 
+ 1. https://www.youtube.com/watch?v=eCRbEILXXmE&t=4s
+ 2. https://learn.shayhowe.com/html-css/getting-to-know-html/
+ 3. 
  
 **Thoughts**
 
