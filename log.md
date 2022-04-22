@@ -721,8 +721,8 @@ _______________________________________________________________________
 **Today's Progress**:
  
  1. Anki cards
- 2. 2 hours of Leon Noel's Class 2 #catchupcrew
- 3. shaehowe css/thml
+ 2. Finished 100devs Class 2 #catchupcrew
+ 3. shaehowe css/thml first 3 sections done
  
 **Thoughts**
 
