@@ -731,15 +731,15 @@ _______________________________________________________________________
  3. 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.youtube.com/watch?v=eCRbEILXXmE&t=4s
+ 2. https://learn.shayhowe.com/html-css/getting-to-know-html/
  
 _______________________________________________________________________ 
 ### Day 19: April 3, 2022
 
 **Today's Progress**:
  
- 1. https://www.youtube.com/watch?v=eCRbEILXXmE&t=4s
- 2. https://learn.shayhowe.com/html-css/getting-to-know-html/
+ 1. 
  3. 
  
 **Thoughts**
