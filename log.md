@@ -735,16 +735,18 @@ _______________________________________________________________________
  2. https://learn.shayhowe.com/html-css/getting-to-know-html/
  
 _______________________________________________________________________ 
-### Day 19: April 3, 2022
+### Day 38: April 22, 2022
 
 **Today's Progress**:
  
- 1. 
- 3. 
+ 1. Completed the first 3 sections of the CAPM Project Management course
+ 2. Started the code challenge on jonas.io javascript 2022
+ 3. 30 mins of anki cards
  
 **Thoughts**
 
- 1. 
+ 1. Getting to be quite the pile of anki cards to work on!
+ 2. I'm developing my existing project management skills using CAPM training with pmi, it's helpful stuff and can be linked to coding quite easily.  I was surpised how much of the structure of PM matches actually. What they call chunk transfer in learning to learn.
 **Link(s) to work**
 
  1. 
