@@ -740,13 +740,14 @@ _______________________________________________________________________
 **Today's Progress**:
  
  1. Completed the first 3 sections of the CAPM Project Management course
- 2. Started the code challenge on jonas.io javascript 2022
+ 2. Started and completed the code challenge on jonas.io javascript 2022
  3. 30 mins of anki cards
  
 **Thoughts**
 
  1. Getting to be quite the pile of anki cards to work on!
  2. I'm developing my existing project management skills using CAPM training with pmi, it's helpful stuff and can be linked to coding quite easily.  I was surpised how much of the structure of PM matches actually. What they call chunk transfer in learning to learn.
+ 3. I chewed through the coding challenge, found rest/spread operator work easy now and have been able to destructure arrays/objects with a little referencing.  Short circuiting I didn't find intuitive but more practice with it would help that out I think.
 **Link(s) to work**
 
  1. 
