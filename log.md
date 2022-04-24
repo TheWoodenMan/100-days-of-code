@@ -753,18 +753,25 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________ 
-### Day 19: April 3, 2022
+### Day 39: April 23, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Section 4 of CAPM
+ 2. Anki cards
+ 3. Jonas.io - for of loops, enhanced obj literals, optional chaining, looping keys/values/entries, coding challenge
+ 4. Section 4+ of shaehowe css site
  
 **Thoughts**
 
- 1. 
+ 1. Today worked out more efficient overall. I need to set finish times more in advance like learning how to learn advised. 
+ 2. anki cards were a lot shorter today, I think thats a good sign.
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/jonasio
+ 2. https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648589#notes
+ 3. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408314#overview
+ 4. https://learn.shayhowe.com/html-css/opening-the-box-model/
  
 _______________________________________________________________________ 
 ### Day 19: April 3, 2022
