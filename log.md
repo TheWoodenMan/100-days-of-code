@@ -760,18 +760,20 @@ _______________________________________________________________________
  1. Section 4 of CAPM
  2. Anki cards
  3. Jonas.io - for of loops, enhanced obj literals, optional chaining, looping keys/values/entries, coding challenge
- 4. Section 4+ of shaehowe css site
+ 4. Section 4-6 of shaehowe css site
  
 **Thoughts**
 
  1. Today worked out more efficient overall. I need to set finish times more in advance like learning how to learn advised. 
  2. anki cards were a lot shorter today, I think thats a good sign.
+ 3. The recipe site is coming a long a bit, I have a rough idea of how I want it but for now it's just a sandbox for testing out css stuff.
 **Link(s) to work**
 
  1. https://github.com/TheWoodenMan/jonasio
  2. https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648589#notes
  3. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408314#overview
  4. https://learn.shayhowe.com/html-css/opening-the-box-model/
+ 5. https://thewoodenman.github.io/odin-recipes/
  
 _______________________________________________________________________ 
 ### Day 19: April 3, 2022
