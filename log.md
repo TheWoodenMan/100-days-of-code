@@ -776,29 +776,34 @@ _______________________________________________________________________
  5. https://thewoodenman.github.io/odin-recipes/
  
 _______________________________________________________________________ 
-### Day 19: April 3, 2022
+### Day 40: April 24, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki Cards
+ 2. Started Functional Programming on freecodecamp
  
 **Thoughts**
 
- 1. 
+ 1. A bit of a shorter day today but Got my practice in to keep up good habits.
 **Link(s) to work**
 
  1. 
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 41: April 25, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki Cards
+ 2. Section 5 of CAPM complete
+ 3. 71% of Functional Programming
  
 **Thoughts**
 
- 1. 
+ 1. I got a lot of work done today and also very happy to finally learn about .map .replace and .filter properly.
+ 2. I also got more of a chance to work with .slice .splice and .concat
+ 3. Learned more about mutation and how to avoid it inside functions.
 **Link(s) to work**
 
  1. 
