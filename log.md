@@ -809,15 +809,20 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________ 
-## Day 19: April 3, 2022
+## Day 42: April 26, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki Cards
+ 2. Section 6 of CAPM
+ 3. 100% complete on functional programming!
  
 **Thoughts**
 
- 1. 
+ 1. There were quite a few interesting new functions to learn in functional programming, I definitely improved my undersanding of .map .filter .reduce and .sort .every .some were totally new to me
+ 2. I managed to complete the currying part of the cource but still don't 100% understand it and will need to review. 
+ 3. CAPM is extremely straight forward with a few technical terms that will need to be learned but i'm confident with anki it will be great.
+
 **Link(s) to work**
 
  1. 
