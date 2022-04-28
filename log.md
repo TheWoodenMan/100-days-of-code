@@ -828,18 +828,22 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________ 
-### Day 19: April 3, 2022
+### Day 43: April 27, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki Cards JS/Learning how to learn/CAPM
+ 2. Sections 1-3 of the Agile guide
+ 3. Started freecodecamp Intermediate Algorithm Scripting
  
 **Thoughts**
 
- 1. 
+ 1. Spent quite a bit more time on the project management side today.
+ 2. I've been trying to refactor my work and was happy with how it worked out.
+ 3. 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
  
 _______________________________________________________________________ 
 ### Day 19: April 3, 2022
