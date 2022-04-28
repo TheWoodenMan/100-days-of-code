@@ -846,25 +846,32 @@ _______________________________________________________________________
  1. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
  
 _______________________________________________________________________ 
-### Day 19: April 3, 2022
+### Day 44: April 28, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. Anki
+ 2. Freecodecamp pushing on with algorithms
+ 3. Agile guide, finished part 3, started part 4 and entered 1-3 into Anki
  
 **Thoughts**
 
- 1. 
+ 1. Sometimes with freecodecamp it gets quite difficult.
+ 2. I dont have full confidence in the syntax of ES6 array functions like map, replace, filter yet
+ 3. Recursion continues to kick my ass, I have yet to implement a single successful example.
+ 4. I knew agile before but the level of detail i'm going into now with CAPM and Agile guide is next level.
+ 5. 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy
+ 2. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
  
 _______________________________________________________________________ 
 ### Day 19: April 3, 2022
 
 **Today's Progress**:
  
- 1. 
+ 1. https://github.com/TheWoodenMan/freecodecamp-exercises
  
 **Thoughts**
 
