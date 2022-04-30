@@ -865,8 +865,26 @@ _______________________________________________________________________
 
  1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy
  2. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
+ 3. 
  
 _______________________________________________________________________ 
+### Day 45: April 29, 2022
+
+**Today's Progress**:
+ 
+ 1. Anki js/agile
+ 2. freecodecamp "wherefore art thou" algorithm problem
+ 3. Section 7 of CAPM nearly all of it.
+ 
+**Thoughts**
+
+ 1. Project management CAPM has a lot of crossovers with the agile guide which has been really good for interleaving, I feel like i'm learning a lot of it
+ 2. I need to work on object iteration, I know for in loops and Object.keys/values/entries but struggled to iterate them to solve the problem, will try again tomorrow.
+**Link(s) to work**
+
+ 1. 2. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
+ 
+_______________________________________________________________________
 ### Day 19: April 3, 2022
 
 **Today's Progress**:
@@ -881,4 +899,61 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________
+### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+### Day 19: April 3, 2022
+
+**Today's Progress**:
+ 
+ 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 
+**Thoughts**
+
+ 1. 
+**Link(s) to work**
+
+ 1. 
+ 
+_______________________________________________________________________
+
 
