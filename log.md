@@ -885,32 +885,39 @@ _______________________________________________________________________
  1. 2. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 46: April 30, 2022
 
 **Today's Progress**:
  
- 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 1. Anki
+ 2. Jonas.io Overview of Sets Completed and working throuhg Maps
+ 3. CAPM Section 7 completd
  
 **Thoughts**
 
- 1. 
+ 1. I much prefer doing the coding work and debugging compared to doing videos which I find a little too passive.
+ 2. CAPM is coming along well, an hour each day or to the next assignment, quiz or section end seems to be perfect pace for me.
 **Link(s) to work**
 
- 1. 
+ 1. https://www.udemy.com/course/the-complete-javascript-course
+ 2. https://www.udemy.com/course/capm-pmbok6/
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 47: May 1, 2022
 
 **Today's Progress**:
  
- 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 1. More detail on sets, including .add .delete .has .size - I NEED to practice these since sets keep coming up and I want to commit this to memory.
+ 2. Completed CAPM section 7
+ 3. Submitted my final project for Learning how to Learn.
  
 **Thoughts**
 
- 1. 
+ 1. I actually put a lot of effort into learning how to learn, but submitted it at the last minute (typically).
+ 2. I was worried about the project but having reviewed a few other entries that were just lists - feel a bit better about it.
 **Link(s) to work**
 
- 1. 
+ 1. (https://docs.google.com/document/d/1zH1XKFRXKj5DLPfCCGzqHCHzAMLH0n5xG6Kl4NQmM8U/ "Enhancing your Karate Practice by Learning how to Learn")
  
 _______________________________________________________________________
 ### Day 19: April 3, 2022
