@@ -917,15 +917,15 @@ _______________________________________________________________________
  2. I was worried about the project but having reviewed a few other entries that were just lists - feel a bit better about it.
 **Link(s) to work**
 
- 1. (https://docs.google.com/document/d/1zH1XKFRXKj5DLPfCCGzqHCHzAMLH0n5xG6Kl4NQmM8U/ "Enhancing your Karate Practice by Learning how to Learn")
+ 1. [Enhancing your Karate Practice by Learning how to Learn](https://docs.google.com/document/d/1zH1XKFRXKj5DLPfCCGzqHCHzAMLH0n5xG6Kl4NQmM8U/ "Enhancing your Karate Practice by Learning how to Learn")
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 48: May 2, 2022
 
 **Today's Progress**:
  
- 1. https://github.com/TheWoodenMan/freecodecamp-exercises
- 
+ 1. CAPM Section 8 up to the assignment
+ 2.  
 **Thoughts**
 
  1. 
