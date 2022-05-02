@@ -840,7 +840,7 @@ _______________________________________________________________________
 
  1. Spent quite a bit more time on the project management side today.
  2. I've been trying to refactor my work and was happy with how it worked out.
- 3. 
+ 
 **Link(s) to work**
 
  1. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
@@ -860,7 +860,7 @@ _______________________________________________________________________
  2. I dont have full confidence in the syntax of ES6 array functions like map, replace, filter yet
  3. Recursion continues to kick my ass, I have yet to implement a single successful example.
  4. I knew agile before but the level of detail i'm going into now with CAPM and Agile guide is next level.
- 5. 
+ 
 **Link(s) to work**
 
  1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy
@@ -880,6 +880,8 @@ _______________________________________________________________________
 
  1. Project management CAPM has a lot of crossovers with the agile guide which has been really good for interleaving, I feel like i'm learning a lot of it
  2. I need to work on object iteration, I know for in loops and Object.keys/values/entries but struggled to iterate them to solve the problem, will try again tomorrow.
+
+
 **Link(s) to work**
 
  1. 2. https://github.com/TheWoodenMan/freecodecamp-exercises/blob/main/script.js
@@ -897,6 +899,8 @@ _______________________________________________________________________
 
  1. I much prefer doing the coding work and debugging compared to doing videos which I find a little too passive.
  2. CAPM is coming along well, an hour each day or to the next assignment, quiz or section end seems to be perfect pace for me.
+
+
 **Link(s) to work**
 
  1. https://www.udemy.com/course/the-complete-javascript-course
@@ -915,6 +919,7 @@ _______________________________________________________________________
 
  1. I actually put a lot of effort into learning how to learn, but submitted it at the last minute (typically).
  2. I was worried about the project but having reviewed a few other entries that were just lists - feel a bit better about it.
+ 
 **Link(s) to work**
 
  1. [Enhancing your Karate Practice by Learning how to Learn](https://docs.google.com/document/d/1zH1XKFRXKj5DLPfCCGzqHCHzAMLH0n5xG6Kl4NQmM8U/ "Enhancing your Karate Practice by Learning how to Learn")
