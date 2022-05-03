@@ -930,10 +930,16 @@ _______________________________________________________________________
 **Today's Progress**:
  
  1. CAPM Section 8 up to the assignment
- 2.  
+ 2. Freecodecamp - Made a little progress on "Wherefore art thou?"
+ 3.  
 **Thoughts**
 
- 1. 
+ 1. Ultimately had to look up the solution for wherefore art thou, I was getting nowhere and felt like my learning was roadblocked.
+ 2. So to try to get the most out of this example this is what I missed in pseudocode:
+ 3. <code>Object.keys(source);</code> - this gave the "key" for the listed object.
+ 4. <code>collection.filter((obj) =></code> - this iterated over the array of objects applying a logical check to each element (obj)
+ 5. <code>sourceKeys.every((key) =></code> - this is the main component of the check, only returning "true" if every element meets the logic.
+ 6. <code>obj.hasOwnProperty(key) && obj[key] === source[key]</code> - the logical check, does the object contain the element (the keys from the source) AND do the values match?
 **Link(s) to work**
 
  1. 
