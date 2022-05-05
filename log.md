@@ -945,32 +945,61 @@ _______________________________________________________________________
  1. 
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 49: May 3, 2022
 
 **Today's Progress**:
  
- 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 1. Anki
+ 2. Pushed through Freecodecamp
+ 3. Started https://learnlayout.com/ to 8/19
+ 4. CAPM S8 Assignment done.
  
 **Thoughts**
 
- 1. 
+ 1. I wrote up my notes to Day 49 then lost them to a crash :/
+ 2. Need to save as soon as written and update more.
 **Link(s) to work**
 
  1. 
  
 _______________________________________________________________________
-### Day 19: April 3, 2022
+### Day 50: May 4, 2022
 
 **Today's Progress**:
  
- 1. https://github.com/TheWoodenMan/freecodecamp-exercises
+ 1. Anki
+ 2. Finished Learn Layout
+ 3. CAPM - finished Section 8 :)
+ 4. 
  
 **Thoughts**
 
- 1. 
+ 1. I've been busy with work so really only had time to keep the learning going with review.
+ 2. I'm doing around half a CAPM section per day at the minute which means I will clear the course in around another 2 weeks which is ideal.
+ 3. I need to get back to technical learning again, too much PM and the CSS stuff has been all theoretical, need a weekend project!
 **Link(s) to work**
 
- 1. 
+ 1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408908#overview
+ 2. 
+ 
+_______________________________________________________________________
+### Day 51: May 5, 2022
+
+**Today's Progress**:
+
+ 1. Anki: JS/Agile
+ 2. Back to shaehowe, picking up from lesson 7
+ 3. CAPM - finished Section 8 :)
+ 4. 
+ 
+**Thoughts**
+
+ 1. I've been busy with work so really only had time to keep the learning going with review.
+ 2. I'm doing around half a CAPM section per day at the minute which means I will clear the course in around another 2 weeks which is ideal.
+**Link(s) to work**
+
+ 1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408908#overview
+ 2. https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
  
 _______________________________________________________________________
 
