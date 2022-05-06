@@ -990,12 +990,13 @@ _______________________________________________________________________
  1. Anki: JS/Agile
  2. Back to shaehowe, picking up from lesson 7
  3. CAPM - finished Section 8 :)
- 4. 
+ 4. CSS - Practiced applying to odin-receipes site.
  
 **Thoughts**
 
  1. I've been busy with work so really only had time to keep the learning going with review.
  2. I'm doing around half a CAPM section per day at the minute which means I will clear the course in around another 2 weeks which is ideal.
+ 3. I like working on the receipe site and really want to get on to look at things like bootstrap and tailwind because I am currenlty kinda bad at CSS!
 **Link(s) to work**
 
  1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408908#overview
