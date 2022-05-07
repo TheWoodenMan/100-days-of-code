@@ -1007,7 +1007,7 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. Anki: JS/CAPM
+ 1. Anki: JS/CAPM, agile
  2. CAPM - Started Section 9 and halfway through.
  3. CSS - Practiced applying to odin-receipes site.
  
