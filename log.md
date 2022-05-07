@@ -1003,5 +1003,24 @@ _______________________________________________________________________
  2. https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
  
 _______________________________________________________________________
+### Day 52: May 6, 2022
+
+**Today's Progress**:
+
+ 1. Anki: JS/CAPM
+ 2. CAPM - Started Section 9 and halfway through.
+ 3. CSS - Practiced applying to odin-receipes site.
+ 
+**Thoughts**
+
+ 1. A lighter day today generally.
+ 2. Had a problem with anki sync, but think it's because windows didn't autosync it.
+ 3. Started refining the CAPM anki deck
+**Link(s) to work**
+
+ 1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408908#overview
+ 2. 
+ 
+_______________________________________________________________________
 
 
