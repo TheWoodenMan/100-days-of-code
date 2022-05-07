@@ -1021,5 +1021,25 @@ _______________________________________________________________________
  2. 
  
 _______________________________________________________________________
+### Day 53: May 7, 2022
+
+**Today's Progress**:
+
+ 1. Anki: JS/CAPM/Learning how to learn
+ 2. CAPM  Finished Section 19 and the quiz.
+ 3. Reconfigured my ubuntu audio drivers.
+ 
+**Thoughts**
+
+ 1. Ate my frogs and did CAPM section 9 first thing 
+ 2. Need to make sure I go back over power types and leadership vs management since I only got 13/30 on the end of section test. :/
+ 3. I think looking stuff up on stack exchange for javascrip helped me out a lot with fixing the ubuntu crackles that were driving me crazy!
+ 4. 
+**Link(s) to work**
+
+ 1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408908#overview
+ 2. https://askubuntu.com/questions/1398966/crackling-sound-about-every-second-on-headphones-steelseries-when-audio-starts
+ 
+_______________________________________________________________________
 
 
