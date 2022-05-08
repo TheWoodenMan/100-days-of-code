@@ -942,7 +942,8 @@ _______________________________________________________________________
  6. <code>obj.hasOwnProperty(key) && obj[key] === source[key]</code> - the logical check, does the object contain the element (the keys from the source) AND do the values match?
 **Link(s) to work**
 
- 1. 
+ 1. https://bobbyhadz.com/blog/javascript-split-by-capital-letter#:~:text=Split%20a%20String%20on%20Capital%20Letters%20in%20JavaScript%20%23,an%20array%20of%20the%20substrings.
+ 2. https://github.com/TheWoodenMan/freecodecamp-exercises
  
 _______________________________________________________________________
 ### Day 49: May 3, 2022
