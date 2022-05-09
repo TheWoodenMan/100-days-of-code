@@ -1069,6 +1069,28 @@ _______________________________________________________________________
 
 
 _______________________________________________________________________
+### Day 55: May 9, 2022
+
+**Today's Progress**:
+
+
+ 2. Keybr
+ 
+**Thoughts**
+
+ 1. I managed 77 wpm top speed but my mistakes are too high when I type too fast. 
+ 2. my wpm drops to 55 when you take into account the errors. (typing test)
+ 3. Need to work on accuracy and get more practice
+ 4. typing tupor 
+
+**Link(s) to work**
+
+ 1. https://www.keybr.com/
+ 2. https://www.typingtest.com/
+
+
+_______________________________________________________________________
+
 
 
 
