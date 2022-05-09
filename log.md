@@ -1027,7 +1027,7 @@ _______________________________________________________________________
 **Today's Progress**:
 
  1. Anki: JS/CAPM/Learning how to learn
- 2. CAPM  Finished Section 19 and the quiz.
+ 2. CAPM  Finished Section 9 and the quiz.
  3. Reconfigured my ubuntu audio drivers.
  4. Shaehoew - finished reading the 12 sections
  5. 100Devs - class 3
@@ -1046,5 +1046,29 @@ _______________________________________________________________________
 
 
 _______________________________________________________________________
+### Day 54: May 8, 2022
+
+**Today's Progress**:
+
+
+ 2. CAPM  Started Section 10
+ 3. Reinstalled my ubuntu keyboard drivers to reduce latency
+ 4. 100Devs - class 4
+ 5. CSS Homework for 100devs
+ 6. Anki html/css added a few cards
+ 
+**Thoughts**
+
+ 1. I need to start reading the pmbok alongside the CAPM course because it covers things the videos don't mention.
+ 2. I feel a lot better about CSS having tested myself on the 100devs content.
+
+**Link(s) to work**
+
+ 1. https://www.youtube.com/watch?v=Q1Obtn29twk
+ 2. https://github.com/TheWoodenMan/100Devs
+
+
+_______________________________________________________________________
+
 
 
