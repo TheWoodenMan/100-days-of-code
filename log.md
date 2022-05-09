@@ -1074,19 +1074,22 @@ _______________________________________________________________________
 **Today's Progress**:
 
 
+ 1. Typing Test
  2. Keybr
+ 3. pushing FCC Int Algorithms
  
 **Thoughts**
 
  1. I managed 77 wpm top speed but my mistakes are too high when I type too fast. 
  2. my wpm drops to 55 when you take into account the errors. (typing test)
  3. Need to work on accuracy and get more practice
- 4. typing tupor 
+ 4. Im pushing on FCC and it's great :) deepened my understanding of .forEach() , .join() , .split() and .replace()
 
 **Link(s) to work**
 
  1. https://www.keybr.com/
  2. https://www.typingtest.com/
+ 3. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing
 
 
 _______________________________________________________________________
