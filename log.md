@@ -1125,24 +1125,23 @@ _______________________________________________________________________
  1. Keybr ✅
  2. Typing Test✅
  3. Anki ✅
- 4. ShaeHowe Responsive Web Design
+ 4. ShaeHowe Responsive Web Design ✅
  5. 100devs class 6 ✅
  6. 
-
-
 
 **Thoughts**
 
  1. I'm better at Keybr rather than typing test because there are no captital letter or punctuation.
  2. also, typing test ends the test when you click "backspace" and I DEFINITELY self correct a lot more than I realised before.
  3. Average speed on typing test was 77, 85% accuracy and adjusted to 65
- 4. 
+ 4. Responsive web design has 3 main areas - flexible design, media queries and Flexible media.
 
 **Link(s) to work**
 
  1. https://www.keybr.com/
  2. https://github.com/TheWoodenMan/100Devs
  3. https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+ 4. https://alistapart.com/article/creating-intrinsic-ratios-for-video/ - How to make a video scale to size.
 
 
 _______________________________________________________________________
