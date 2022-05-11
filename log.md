@@ -1098,10 +1098,10 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. Keybr
- 2. Anki
- 3. 100devs class 5
- 4. 100devs class 5 homework
+ 1. Keybr ✅
+ 2. Anki ✅
+ 3. 100devs class 5 ✅
+ 4. 100devs class 5 homework ✅
 
 
 **Thoughts**
@@ -1118,6 +1118,33 @@ _______________________________________________________________________
 
 
 _______________________________________________________________________
+### Day 57: May 11, 2022
 
+**Today's Progress**:
+
+ 1. Keybr ✅
+ 2. Typing Test✅
+ 3. Anki ✅
+ 4. ShaeHowe Responsive Web Design
+ 5. 100devs class 6 ✅
+ 6. 
+
+
+
+**Thoughts**
+
+ 1. I'm better at Keybr rather than typing test because there are no captital letter or punctuation.
+ 2. also, typing test ends the test when you click "backspace" and I DEFINITELY self correct a lot more than I realised before.
+ 3. Average speed on typing test was 77, 85% accuracy and adjusted to 65
+ 4. 
+
+**Link(s) to work**
+
+ 1. https://www.keybr.com/
+ 2. https://github.com/TheWoodenMan/100Devs
+ 3. https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+
+
+_______________________________________________________________________
 
 
