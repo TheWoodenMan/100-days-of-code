@@ -1094,6 +1094,30 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
+### Day 56: May 10, 2022
+
+**Today's Progress**:
+
+ 1. Keybr
+ 2. Anki
+ 3. 100devs class 5
+ 4. 100devs class 5 homework
+
+
+**Thoughts**
+
+ 1. I managed 90 wpm top speed and got my accuracy up to 95%! 
+ 2. Average was around 70
+ 3. Class 5 was CSS layouts using float and honestly that all makes so much sense now!!
+ 4. Im going to go back to codewars for a bit from tomorrow to see if I can push up
+
+**Link(s) to work**
+
+ 1. https://www.keybr.com/
+ 2. https://github.com/TheWoodenMan/100Devs
+
+
+_______________________________________________________________________
 
 
 
