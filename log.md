@@ -1145,5 +1145,28 @@ _______________________________________________________________________
 
 
 _______________________________________________________________________
+### Day 58: May 12, 2022
+
+**Today's Progress**:
+
+ 1. Keybr ✅
+ 2. Anki ✅ 
+ 3. Reading ShaeHowe CSS Advanced-Performance Organisation.✅ 
+
+**Thoughts**
+
+ 1. I'm going to ease off the keybr for a bit, happy to sit in the 60-70 wpm bracket.
+ 2. more than anything, I need to improve my accuracy because i'm fast but make a lot of mistakes.
+ 3. Anki Cards - Reviewed HTML/CSS, 
+ 4. It's hard to keep focused on the reading stuff but I'm pushing through.
+ 5. Read all of CSS Advanced and Anki-carded it, took around an hour and a half.
+
+**Link(s) to work**
+
+ 1. https://www.keybr.com/
+ 2. https://learn.shayhowe.com/advanced-html-css/performance-organization/
+ 3. 
+
+_______________________________________________________________________
 
 
