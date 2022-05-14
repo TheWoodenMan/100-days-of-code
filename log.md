@@ -1196,8 +1196,9 @@ _______________________________________________________________________
 
  1. I just realised i've hit css-tricks a few times already in my studies because it's a popular google search for flexbox.
  2. This time running through i'm going to add it all to anki.
- 3. I've never really been able to get flexbox working til now..! Wegnt back to my recipe site and flexing with the best of them!
- 4. 
+ 3. I've never really been able to get flexbox working til now..! Wegnt back to my recipe site and flexing with the best of them
+ 4. Finished css-tricks first pass, but theres still a lot of detail in there. Need to apply even more of this to really chunk it.
+ 5. 
 
 **Link(s) to work**
 
