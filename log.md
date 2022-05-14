@@ -1185,5 +1185,25 @@ _______________________________________________________________________
 
 
 _______________________________________________________________________
+### Day 60: May 14, 2022
 
+**Today's Progress**:
+
+ 1. Anki
+ 2. Css-tricks
+
+**Thoughts**
+
+ 1. I just realised i've hit css-tricks a few times already in my studies because it's a popular google search for flexbox.
+ 2. This time running through i'm going to add it all to anki.
+ 3. I've never really been able to get flexbox working til now..! Wegnt back to my recipe site and flexing with the best of them!
+ 4. 
+
+**Link(s) to work**
+
+ 1. https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
+ 2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ 3. https://github.com/TheWoodenMan/odin-recipes
+
+_______________________________________________________________________
 
