@@ -35,7 +35,7 @@ There are a bunch of math/string options that haven't really been properly explo
 I'm currently alternating my learning between three main sources, **jonas.io Complete Javascript Bootcamp** which has already covered the fundamentals and is now project based which is good but it's quite carefully led, **freecodecamp** which tends to be heavily scripted, fairly technical and rigid - but very challenging. and **30 Days of Javascript** which is text based, but very well explained, the exercises at the end let you practice what you need to learn but it's fluid and free-form.
 
 I've come to the conclusion that I learn less from freecodecamp than I do when im writing my own code examples. freecodecamp has good detail but it feels more like 
-"crossword puzzle" style challenges that need to be solved so you can pass to the next, I need practical application to really learn and remember. There is a lot of great content in there however and it's structured in a sensible, methodical way that builds up over time. I need to devise projects that implement the code structures I learned in freecodecamp JS ES6 - I feel like I have good awareness but not aptitude yet - I need more direct experience.
+"crossword puzzle" style challenges that need to be solved so you can pass to the next, I need practical application to really learn and remember. There is a lot of great content in there however and it's structured in a sensible, methodical way that builds up over time. I need to devise projects that implement the code structures I learned in freecodecamp JS ES6 - I feel like I have good awareness but not aptitude yet - I need more direct exhttps://stackoverflow.com/questions/31250174/css-flexbox-difference-between-align-items-and-align-content#:~:text=The%20align%2Ditems%20property%20applies,overridden%20for%20individual%20flex%20items.perience.
 
 I much prefer working with visual studio code, it is intuitive and keeps me on the right path 99% of the time.
 
@@ -1152,7 +1152,7 @@ _______________________________________________________________________
  1. Keybr ✅
  2. Anki ✅ 
  3. Reading ShaeHowe CSS Advanced-Performance Organisation.✅ 
-
+ 4. I found a great overview of css-flexbox on stackoverflow.
 **Thoughts**
 
  1. I'm going to ease off the keybr for a bit, happy to sit in the 60-70 wpm bracket.
@@ -1165,7 +1165,23 @@ _______________________________________________________________________
 
  1. https://www.keybr.com/
  2. https://learn.shayhowe.com/advanced-html-css/performance-organization/
- 3. 
+ 3. https://stackoverflow.com/questions/31250174/css-flexbox-difference-between-align-items-and-align-content#:~:text=The%20align%2Ditems%20property%20applies,overridden%20for%20individual%20flex%20items.
+
+_______________________________________________________________________
+### Day 59: May 13, 2022
+
+**Today's Progress**:
+
+ 1. Flexbox Froggy
+
+**Thoughts**
+
+ 1. I did flexbox frog before (and grid garden), but this time i'm also adding the info to anki cards for review.
+
+**Link(s) to work**
+
+ 1. http://flexboxfroggy.com/
+
 
 _______________________________________________________________________
 
