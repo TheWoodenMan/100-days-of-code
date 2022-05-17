@@ -1212,11 +1212,14 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. 
+ 1. Anki: Agile/CSS
+ 2. 100 Devs: Class 07 2/3 complete
 
 **Thoughts**
 
- 1.  
+ 1.  I picked good sleep hygiene over finishing the 100devs class which is great because usually it's the opposite.
+ 2.  100 Devs class 07 is all about networking. I have a good amount of connections on twitter already so I'll try some outreach.
+ 3.  
 
 **Link(s) to work**
 
@@ -1224,7 +1227,7 @@ _______________________________________________________________________
 
 ** Plan for tomorrow**
 
-1.
+1.  Finish class 07 minimum
 
 
 _______________________________________________________________________
@@ -1233,19 +1236,20 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. 
+ 1. Anki: CAPM/HTML/CSS 44 cards
+ 2. 100 Devs: class 07
 
 **Thoughts**
 
- 1.  
+ 1.  Self care - When the yawning starts - I need to stop :)
 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.youtube.com/watch?v=k8r3B0JGMt4
 
 ** Plan for tomorrow**
 
-1.
+1. just anki, I have a full schedule.
 
 
 _______________________________________________________________________
