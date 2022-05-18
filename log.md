@@ -1232,12 +1232,12 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 62: May 15, 2022
 
 **Today's Progress**:
 
  1. Anki: CAPM/HTML/CSS 44 cards
- 2. 100 Devs: class 07
+ 2. 100 Devs: class 07 - Finished
 
 **Thoughts**
 
@@ -1254,23 +1254,26 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 63: May 16, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Anki cards: CAPM
+ 2. Pushed through 1.5 hours of CAPM
 
 **Thoughts**
 
- 1.  
+ 1.  Currently working through CAPM integrating project management section - this one touches every process group in the project so it's a huge section.
+ 2.  Pushed on hard and completed assignment 9 which was about change control management.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/12789517#notes
 
 ** Plan for tomorrow**
 
-1.
+1.  Another busy day but I will try and squeeze more CAPM in before work starts
+2.  I want to try the coursework for class 08 100devs tomorrow.
 
 
 _______________________________________________________________________
