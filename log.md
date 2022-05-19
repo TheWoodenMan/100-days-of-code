@@ -1278,23 +1278,25 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 64: May 17, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Anki: CSS/HTML 66 cards
+ 2. CAPM: Finished Section 10 and quiz
 
 **Thoughts**
 
- 1.  
+ 1.  A lighter day since I had a full day of work.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.udemy.com/course/capm-pmbok6/learn/lecture/8409126#overview
 
 ** Plan for tomorrow**
 
-1.
+1.  Anki work on PMBOK guide
+2.  Try and start class 08 100devs
 
 
 _______________________________________________________________________
@@ -1303,7 +1305,7 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. 
+ 1. Pushed through part 4 of the PMBOK guide which is on project integration management.
 
 **Thoughts**
 
