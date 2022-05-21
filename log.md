@@ -1232,7 +1232,7 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 62: May 15, 2022
+### Day 62: May 16, 2022
 
 **Today's Progress**:
 
@@ -1254,7 +1254,7 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 63: May 16, 2022
+### Day 63: May 17, 2022
 
 **Today's Progress**:
 
@@ -1278,7 +1278,7 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 64: May 17, 2022
+### Day 64: May 18, 2022
 
 **Today's Progress**:
 
@@ -1301,15 +1301,18 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 65: May 19, 2022
 
 **Today's Progress**:
 
  1. Pushed through part 4 of the PMBOK guide which is on project integration management.
+ 2. Attended Class 35 of 100Devs
 
 **Thoughts**
 
- 1.  
+ 1.  The 100Devs class is way beyond me in theory but I was able to follow along anyway.
+ 2.  I learned about the nature of webAPIs and the DOM as well as an explanation of promises.
+ 3.  Async/await was also covered, but think it's a little beyond me for now.
 
 **Link(s) to work**
 
@@ -1322,15 +1325,15 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 66: May 20, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Anki Cards for HTML/CSS  
 
 **Thoughts**
 
- 1.  
+ 1.  That was all I managed, mainly because I had a full day of calls and karate instruction.
 
 **Link(s) to work**
 
@@ -1338,12 +1341,12 @@ _______________________________________________________________________
 
 ** Plan for tomorrow**
 
-1.
+1.  Class 08 100Devs
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 67: May 21, 2022
 
 **Today's Progress**:
 
