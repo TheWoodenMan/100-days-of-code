@@ -1350,24 +1350,28 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. 
+ 1. Anki
+ 2. Class 08 
 
 **Thoughts**
 
- 1.  
+ 1.  Got a lot more done today, wrote a lot of CSS and coded along, 
+ 2.  my typing accuracy really improved after using keybr, going to try and fit some typing in tomorrow again.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/100Devshttps://github.com/TheWoodenMan/100Devs
 
 ** Plan for tomorrow**
 
-1.
+1. Watch independence day
+2. keybr.com
+3. 15 minutes of pain
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 68: May 22, 2022
 
 **Today's Progress**:
 
