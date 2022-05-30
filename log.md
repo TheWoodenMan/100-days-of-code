@@ -1375,53 +1375,64 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. 
+ 1. Completed Class 08 homework of 100 Devs
+ 2. Watched Independence Day
 
 **Thoughts**
 
- 1.  
+ 1.  Next 5 days were actually very tough because I was travelling constantly throughout.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/100Devs
 
 ** Plan for tomorrow**
 
-1.
+1.  Do anki for 5 days and somehow keep it going
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 69-73 : May 23-May 27 , 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Did anki every day..
+ 2. Managed to push CAPM on day 71 section 11
+ 3. 
 
 **Thoughts**
 
- 1.  
+ 1.  I have to be realistic that when travelling around i'm not going to get much done since I work early til late every day and am usually with other people.
+ 2.  I don't get any downtime, except on public transport and a few mins before sleep - thats the time to push anki and thats how I fit it all in.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://ankiweb.net/decks/
 
 ** Plan for tomorrow**
 
-1.
+1.  I plan to finish the homework for class 08 over the next few days
+2.  I also plan to start class 09
+3.  I'm pushing hard on CAPM generally and want to get it finished, but not too quickly - I need to retain the knowledge.
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 74: May 28, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Pushed CAPM section 11
+ 2. Worked on typing on keybr.com
+ 3. Created a WBS for CAPM exercises
+ 4. 
 
 **Thoughts**
 
- 1.  
+ 1.  I'm going to keep going with the typing practice, being able to see my mistakes in real time is really helping me to see where i'm going wrong.
+ 2.  I've worked up to 80 wpm with 97% accuracy :)
+ 3.  
 
 **Link(s) to work**
 
@@ -1434,28 +1445,32 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 75: May 29, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Installation and Update of foundryvtt
+ 2. practice with ssh, filezilla and ubuntu updates
+ 3. CSS/Media Queries for class 08 assignment 100Devs
 
 **Thoughts**
 
- 1.  
+ 1.  Media queries starting to make sense, site looks quite good too!
+ 2.  I was quite happy that I was able to confidently debug and fix the foundry issues.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/100Devs
 
 ** Plan for tomorrow**
 
-1.
+1. Lots of Project work planned as well as a PMI webinar
+2. Try and finish class 08 homework
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 75: May 30, 2022
 
 **Today's Progress**:
 
