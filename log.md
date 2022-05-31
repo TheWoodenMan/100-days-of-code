@@ -1470,23 +1470,36 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 75: May 30, 2022
+### Day 76: May 30, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. pushed CAPM section 11
+ 2. Finished Class 08 100Devs homework
+ 3. Finished class 09 100Devs
+ 4. Attended PMI UK/PT EVM Webinar
+ 5. keybr typing
 
 **Thoughts**
 
- 1.  
+ 1.  What a great day of self-awareness/training!!
+ 2.  I achieved so much, to be honest what was different was in the scheduling (and in not travelling)
+ 3.  The class 08 layouts had been beating me up a little but I realised what I was doing wrong, I was really happy with the fake bbc site I had to make, proud of it - it looked goood! 
+ 4.  I probably spent a bit too much time on class 08 homework but I really didn't want to go forward without working out what had been going wrong - I had to manually re-set the height of a div/section because as the screen size reduced it caused that element to wrap - which caused it to overlap another element. Forcing that element to be a bigger size that fit all the content solved the problem
+ 5.  I networked a LOT at the PMI event and made a few great connections with some interesting people :)
+ 6.  I felt a little awkward talking about myself beecause I actually had no idea how to explain who I was and what I did to project managers. (since my primary is Operations)
 
 **Link(s) to work**
 
- 1. 
+ 1. ![image](https://user-images.githubusercontent.com/85075266/171071546-e89a7fce-6caf-4e27-ab3c-96a3f0c38a24.png)
+ 2. https://github.com/TheWoodenMan/100Devs
+
 
 ** Plan for tomorrow**
 
-1.
+1.  Guess I'm pushing class 10 :)
+2.  keep up keyb practice
+3.  Push on with CAPM section 11 - 1 hour in the morning.
 
 
 _______________________________________________________________________
