@@ -1477,7 +1477,7 @@ _______________________________________________________________________
  1. pushed CAPM section 11
  2. Finished Class 08 100Devs homework
  3. Finished class 09 100Devs
- 4. Attended PMI UK/PT EVM Webinar
+ 4. Attended PMI UK/PT EVM Webinar (Training/Networking)
  5. keybr typing
 
 **Thoughts**
@@ -1504,44 +1504,51 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 77: May 14, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Class 10 100Devs
+ 2. 
 
 **Thoughts**
 
- 1.  
+ 1.  Class 10 Finished, I have a bunch of layouts to push on with!
+ 2.  I'm going to park the CAPM training until I have at least half the layouts done
 
 **Link(s) to work**
 
- 1. 
+ 1. https://www.youtube.com/watch?v=WftjV2L7oyk
 
 ** Plan for tomorrow**
 
-1.
+1. Push through with html/css layouts as much as I can do.
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 78: June 1, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Finished layout 4 - Level Ground
+ 2. Started Layout 5 - source wireframe
 
 **Thoughts**
 
- 1.  
+ 1.  I put a lot of work into layout 4, maybe too much? I need to work on trading off speed vs quality
+ 2.  I started layout 5 which was much faster, but when I went back to look at layout 4, I noticed a bunch of things that annoyed me.
+ 3.  I fixed most of the things, main thing I missed is that text was overflowing when the device was in landscape - I need to resize sites in a variety of ways, not just left to right - to make sure they're looking great for every user.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/100Devs
+ 2. ![carrylogs](https://user-images.githubusercontent.com/85075266/171522123-689f3f92-0d92-43d8-aa8c-2b2f2d976d71.gif)
+
 
 ** Plan for tomorrow**
 
-1.
+1.  I need to push on and finish layout 5 and maybe start layout 6, if I have time I'll push section 11 of CAPM
 
 
 _______________________________________________________________________
