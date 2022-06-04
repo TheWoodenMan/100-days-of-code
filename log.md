@@ -1612,15 +1612,20 @@ _______________________________________________________________________
 
 **Today's Progress**:
 
- 1. 
+ 1. 90% done on the html/css for layout 6
+ 2. Watched Class 11 - Flexbox
 
 **Thoughts**
 
- 1.  
+ 1.  The cuisine layout looks pretty good, definitely happy to be working with a more visual/photographic design.
+ 2.  It was a long site with a lot of complications but I learned a lot from putting it together.
+ 3.  I think media queries are going to be kind of tricky to handle on this one because of all the media.
 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/100Devs
+ 2. ![image](https://user-images.githubusercontent.com/85075266/172025911-04a9bdc9-e20f-4fb1-a9a9-01476f25246f.png)
+
 
 ** Plan for tomorrow**
 
