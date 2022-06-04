@@ -1553,11 +1553,41 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
+### Day 79: June 2, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. CAPM Section 12 - Schedule Management 1/2 Way through
+ 2. Finished layout 4
+ 3. Started layout 5
+
+**Thoughts**
+
+ 1.  I enjoy doing the layouts and it's getting easier!
+ 2.  I'm probably spending too much time on these and could go ahead with a rougher version
+
+**Link(s) to work**
+
+ 1. https://github.com/TheWoodenMan/100Devs
+ 2. ![debug-css](https://user-images.githubusercontent.com/85075266/171994536-fda1cae1-74f3-45d2-bffe-3ba41168db28.gif)
+
+
+** Plan for tomorrow**
+
+1. Finish layout 5
+2. Start layout 6
+3. Think about class 11
+
+
+_______________________________________________________________________
+
+### Day 80: June 3, 2022
+
+**Today's Progress**:
+
+ 1. Finished layout 5
+ 2. Started Layout 6
+ 3. Signed up to stack overflow and answered a few questions :)
 
 **Thoughts**
 
@@ -1565,37 +1595,20 @@ _______________________________________________________________________
 
 **Link(s) to work**
 
- 1. 
+ 1. https://github.com/TheWoodenMan/100Devs
+ 2. ![sourcegif](https://user-images.githubusercontent.com/85075266/171994585-c6f262f7-fe44-478d-910c-570756152385.gif)
+
 
 ** Plan for tomorrow**
 
-1.
+1. Continue layout 6
+2. must do class 11
+3. 
 
 
 _______________________________________________________________________
 
-### Day 60: May 14, 2022
-
-**Today's Progress**:
-
- 1. 
-
-**Thoughts**
-
- 1.  
-
-**Link(s) to work**
-
- 1. 
-
-** Plan for tomorrow**
-
-1.
-
-
-_______________________________________________________________________
-
-### Day 60: May 14, 2022
+### Day 81: June 4, 2022
 
 **Today's Progress**:
 
