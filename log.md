@@ -1630,7 +1630,9 @@ _______________________________________________________________________
 
 ** Plan for tomorrow**
 
-1.
+1.  Finish restaurant layout
+2.  start salon layout - try to do it all in flexbox
+3.  start javascript crash course
 
 
 _______________________________________________________________________
