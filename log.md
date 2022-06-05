@@ -1625,6 +1625,7 @@ _______________________________________________________________________
 
  1. https://github.com/TheWoodenMan/100Devs
  2. ![image](https://user-images.githubusercontent.com/85075266/172025911-04a9bdc9-e20f-4fb1-a9a9-01476f25246f.png)
+ 3. https://www.youtube.com/watch?v=qEj0pXGVwjY
 
 
 ** Plan for tomorrow**
