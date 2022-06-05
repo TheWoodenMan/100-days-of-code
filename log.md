@@ -1634,6 +1634,225 @@ _______________________________________________________________________
 2.  start salon layout - try to do it all in flexbox
 3.  start javascript crash course
 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. Flexbox Zombies Chapters 1-3
+ 2. Traversy Media JS Crash Course for Beginners
+
+
+**Thoughts**
+
+ 1.  Pushing on with javascript, a lot of this is revision and I hope to push on quickly. 
+ 2.  I already did quite a bit of basic javascript on freecodecamp, jonas.io and codewars.
+ 3.  I'm going to do the last layout in flexbox just to get the practice. I actually feel more comfortable with floats than I do with flexbox!
+ 4.  Caught up with anki a bit, there were some JS cards as well as HTML
+
+**Link(s) to work**
+
+ 1. https://mastery.games/flexboxzombies/ Chapters 1-3
+ 2. https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+
+** Plan for tomorrow**
+
+1. I'm going to be travelling all day tomorrow but will still have some time in hotel tomorrow night to push a bit of work out. 
+2. 
 
 _______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+1. 
+
+
+** Plan for tomorrow**
+
+
+1. https://www.youtube.com/watch?v=hdI2bqOjy3c
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+1. 
 
