@@ -1642,6 +1642,7 @@ _______________________________________________________________________
 
  1. Flexbox Zombies Chapters 1-3
  2. Traversy Media JS Crash Course for Beginners
+ 3. Continuing with layout 6 - media queries
 
 
 **Thoughts**
@@ -1650,6 +1651,7 @@ _______________________________________________________________________
  2.  I already did quite a bit of basic javascript on freecodecamp, jonas.io and codewars.
  3.  I'm going to do the last layout in flexbox just to get the practice. I actually feel more comfortable with floats than I do with flexbox!
  4.  Caught up with anki a bit, there were some JS cards as well as HTML
+ 5.  media queries and photos are quite a bit more difficult to handle together, need to explore this more to find better solutions.
 
 **Link(s) to work**
 
@@ -1660,7 +1662,7 @@ _______________________________________________________________________
 ** Plan for tomorrow**
 
 1. I'm going to be travelling all day tomorrow but will still have some time in hotel tomorrow night to push a bit of work out. 
-2. 
+2. will do the hair salon layout with flexbox tomorrow if possible
 
 _______________________________________________________________________
 
