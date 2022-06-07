@@ -1666,11 +1666,13 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 83: June 6, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Big Anki Day with over 60 cards coming up
+ 2. Flexbox Zombies ch 4 - align-self
+ 3. 
 
 **Thoughts**
 
@@ -1688,23 +1690,30 @@ _______________________________________________________________________
 1. https://www.youtube.com/watch?v=hdI2bqOjy3c
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 84: June 7, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Layout 6 More media queries
+ 2. Flexbox zombies - Ch 5
 
 **Thoughts**
 
- 1.  
+ 1.  Hard to code on the side while working constantly at the minute
+ 2.  Happy to squeeze a little coding in at night :)
+ 3.  Flexbox zombies got hard real quick haha. I'm going to push a class per day to let the info settle in.
+ 4.  Media queries for Layout 6 is quite tough, I'm probably going to push ahead with layout 7 in the meantime and double back when I get inspiration.
 
 **Link(s) to work**
 
-
+1. https://mastery.games/flexboxzombies/chapter/5/level/23
+2. https://twm-7layouts-layout-6.glitch.me
+3. https://github.com/TheWoodenMan/100Devs
 
 ** Plan for tomorrow**
 
-1. 
+1.  Probably do anki only, I have a full day of meetings scheduled.
+
 _______________________________________________________________________
 
 ### Day 82: June 5, 2022
