@@ -1782,23 +1782,32 @@ _______________________________________________________________________
 4. Anki
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 88: June 11, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Flexbox Zombies Ch 6 done.
+ 2. Class 12 100Devs - Javascript 
+ 3. Worked on Layout 7 more
+ 4. Anki - 19 HTML/CSS 11 JS
 
 **Thoughts**
 
- 1.  
+ 1.  I'm trying to space out the flexbox zombies stuff a bit, one of the things I did wrong with freecodecamp was to binge through the content, clear the tests and then not really have a solid understanding because I didn't remember. Doing one per day should be different.
+ 2.  I already have quite a bit of anki dedicated to flexbox, next step I think is just using it for real-deal examples.
+ 3.  Class 12 was good, largely revision with the exception of focus on the DOM stuff, which I have seen before but not really practiced as much as I need to.
+ 4.  Looking forward to javascript homework :)
 
 **Link(s) to work**
 
-
+1. https://www.youtube.com/watch?v=_A20kVsaqIk
+2. 
 
 ** Plan for tomorrow**
 
-1. 
+1. Write out the background picker and add a few event listeners.
+2. Update the weekday checker update the dom regardless of the case sensitivity of what got typed
+3. 
 _______________________________________________________________________
 
 ### Day 82: June 5, 2022
