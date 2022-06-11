@@ -1716,15 +1716,15 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 85: June 8, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Only Anki 
 
 **Thoughts**
 
- 1.  
+ 1.  Difficult to fit in any real coding while working full time on deployment, but I can at least do anki on the breaks. :)
 
 **Link(s) to work**
 
@@ -1735,37 +1735,43 @@ _______________________________________________________________________
 1. 
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 86: June 9, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Finished layout 6 media queries
+ 2. Anki for Javascript/css/html
 
 **Thoughts**
 
- 1.  
+ 1.  layout 6 is looking 90% done now, Got to resist being a perfectionist now and move on to the next one.
 
 **Link(s) to work**
 
-
+1. https://twm-7layouts-layout-6.glitch.me
 
 ** Plan for tomorrow**
 
-1. 
+1. start layout 7
+2. more flexbox zombies if time
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 87: June 10, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Started layout 7
+ 2. Anki catchup
 
 **Thoughts**
 
- 1.  
+ 1.  I'm using flexbox more now so getting good practice in, so far it's 100% the best way to make a working nav
+ 2.  layout 7 is probably the most challenging yet, lots of images to use and a few tricky css hacks needed like rotate text and styling circles for buttons.
 
 **Link(s) to work**
 
+1. https://github.com/TheWoodenMan/100Devs
+2. ![image](https://user-images.githubusercontent.com/85075266/173164354-4c220750-8788-4998-8494-d01d98aae944.png)
 
 
 ** Plan for tomorrow**
