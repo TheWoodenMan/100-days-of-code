@@ -1810,23 +1810,27 @@ _______________________________________________________________________
 3. 
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 89: June 12, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Read js variables + tasks
+ 2. Read js functions + tasks
+ 3. type out the class 12 JS again/delete and again
 
 **Thoughts**
 
- 1.  
+ 1.  Basic javascript is essentially revision and I am learning a lot through interleaving, but also the approach is different with a bigger focus on applications, so different things are focused on.
 
 **Link(s) to work**
 
-
+1. https://javascript.info/variables
+2. https://github.com/TheWoodenMan/100Devs
 
 ** Plan for tomorrow**
 
-1. 
+1. class 13
+2. flexbox zombies ch.7
 _______________________________________________________________________
 
 ### Day 82: June 5, 2022
