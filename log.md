@@ -1833,18 +1833,23 @@ _______________________________________________________________________
 2. flexbox zombies ch.7
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 90: June 13, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Flexbox Zombies - Ch.7 - Flex-basis
+ 2. Worked on starfinder character creation aid for races/classes/themes
 
 **Thoughts**
 
- 1.  
+ 1.  I can see straight away this side-project could become a monster if I don't contain the scope of it.
+ 2.  It's super fun to be able to visualise the utility possible - then go implement it immediately :)
+ 3.  I've been looking into fair use and copywrite generally because a lot of the assets are either from paizo rulebooks or googled assets online.  It's for personal use/learning and I don't intend to publish so I should be ok.
 
 **Link(s) to work**
 
+1. https://mastery.games/flexboxzombies/
+2. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
 
 ** Plan for tomorrow**
@@ -1852,23 +1857,27 @@ _______________________________________________________________________
 1. 
 _______________________________________________________________________
 
-### Day 82: June 5, 2022
+### Day 91: June 14, 2022
 
 **Today's Progress**:
 
- 1. 
+ 1. Continued with the starfinder character creation project
 
 **Thoughts**
 
- 1.  
+ 1.  It's going well, a few niggles but debugging picked it up as well as an accidental click
+ 2.  The problem I had was that I overlooked the slight naming differences between some of the classes android/android(s) for example. that and I needed to be more discrete in the differences between thumbnail refs and info-section refs.
 
 **Link(s) to work**
 
+![Peek 2022-06-15 03-21](https://user-images.githubusercontent.com/85075266/173724242-0b31c9a3-b90e-4982-8d77-f267a64daa70.gif)
 
 
 ** Plan for tomorrow**
 
-1. 
+1. javascript.info reading/tasks
+2. continue content work
+3. flexbox zombies ch 8 if time
 _______________________________________________________________________
 
 ### Day 82: June 5, 2022
