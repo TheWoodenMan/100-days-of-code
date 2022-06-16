@@ -1880,6 +1880,192 @@ _______________________________________________________________________
 3. flexbox zombies ch 8 if time
 _______________________________________________________________________
 
+### Day 92: June 15, 2022
+
+**Today's Progress**:
+
+ 1. Worked to bring sf-character-choice-tool to a first draft
+
+**Thoughts**
+
+ 1.  I've learned so much with this project, handling iframes, managing overflow, git ssh and the effect sudo has on it, how to correct mass-duplicated errors in html and css usind ctrl+D and basic recurring patterns. More flexbox, practice with queryselector/all practice with eventlisteners. my first homemade UI/UX, content, copywrite, prioritising stucture first over content/art. community/fair use. User feedback etc etc. 
+ 2.  It's a huge list and when people say "you will learn more if you do a project" I can now see what they mean. 
+ 3.  I brought the project to a basic, workable level, I still have a few things to do but I need to go back to javascript.info and push for class 14 now.
+ 4.  To-Do for character choice tool: media queries for mobile with collapsable menu for selectors, content/art for alien archives I/II, classes/themes, tidy up the iframe definitively.
+
+**Link(s) to work**
+
+1. https://thewoodenman.github.io/sf-character-choice-tool/
+2. https://twitter.com/Andynwood79/status/1537250341124726784
+
+
+
+** Plan for tomorrow**
+
+1. javascript.info
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
+### Day 82: June 5, 2022
+
+**Today's Progress**:
+
+ 1. 
+
+**Thoughts**
+
+ 1.  
+
+**Link(s) to work**
+
+
+
+** Plan for tomorrow**
+
+
+
+_______________________________________________________________________
+
 ### Day 82: June 5, 2022
 
 **Today's Progress**:
@@ -1897,4 +2083,3 @@ _______________________________________________________________________
 ** Plan for tomorrow**
 
 1. 
-
