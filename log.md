@@ -2010,7 +2010,10 @@ this was all it took:<br>
 
 ** Plan for tomorrow**
 
----
+1. Javascript.info tasks - redo them again and submit
+2. Pick one business area from my local - apply a template to a fictional business and upload it.
+3. Anki as usual.
+4. Outreach to a few people who might want a website built for them.
 
 ### Day 82: June 5, 2022
 
