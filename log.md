@@ -1992,17 +1992,21 @@ this was all it took:<br>
 3. More anki
 4. Revisit old layouts and see if I can make them tidyer or interactive.
 
-### Day 82: June 5, 2022
+### Day 96: June 19, 2022
 
 **Today's Progress**:
 
-1.
+1. FreeCodeCamp - Algorithms - missing letters
+2. Worked on my portfolio!
 
 **Thoughts**
 
-1.
+1. FCC Algorithms are rightly, difficult. I'm still stuck on this one but at least I made a good attempt.
+2. Worked on my portfolio
 
 **Link(s) to work**
+
+1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters
 
 ** Plan for tomorrow**
 
