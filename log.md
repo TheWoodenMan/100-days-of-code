@@ -2015,21 +2015,33 @@ this was all it took:<br>
 3. Anki as usual.
 4. Outreach to a few people who might want a website built for them.
 
-### Day 82: June 5, 2022
+### Day 97: June 5, 2022
 
 **Today's Progress**:
 
-1.
+1.  Updated and submitted the js.info exercises
+2.  I went through a directory of local businesses and categorised them.
+3.  Made contact with a client interested in web development :)
+4.  Edited and activated a responsive website for a driving school with content and copy.
+5.  Refreshed a previous layout I had for a Gym with new content.
+6.  Uploaded to netlify and hooked up github repos for each one.
+7.  Updated my portfolio with the new layouts.
+8.  Flexbox Zombies - Ch 8.
 
 **Thoughts**
 
-1.
+1.  Overall a very productive day, I did a lot of heavy lifting on my portfolio.
+2.  I also managed to attend the 100devs technical intervieweing stream.
+3.  The number one local business in my area - Driving Schools, then - Web Developers! (ha!) after that it's Cleaners, Computer Repairs, Electricians, Security, Builders, Roofers and other tradesmen. that being the case, I decided to write up a driving school website for my portfolio and next will add one for mobile cleaners and finally generic tradesmen site.
 
 **Link(s) to work**
 
 ** Plan for tomorrow**
 
----
+1.  Create mock ups for a mobile cleaning company and tradesman company (electricians)
+2.  Update my portfolio with these and add them in.
+3.  Look at deleting and re-doing the javascript exercises again
+4.  Push for Class 16
 
 ### Day 82: June 5, 2022
 
