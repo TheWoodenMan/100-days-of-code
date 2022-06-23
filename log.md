@@ -2015,7 +2015,7 @@ this was all it took:<br>
 3. Anki as usual.
 4. Outreach to a few people who might want a website built for them.
 
-### Day 97: June 5, 2022
+### Day 97: June 22, 2022
 
 **Today's Progress**:
 
@@ -2043,21 +2043,34 @@ this was all it took:<br>
 3.  Look at deleting and re-doing the javascript exercises again
 4.  Push for Class 16
 
-### Day 82: June 5, 2022
+### Day 98: June 23, 2022
 
 **Today's Progress**:
 
-1.
+1.  Started AND Finished a responsive site for a mobile cleaning company
+2.  Completed and uploaded to github javascript.info tasks
+3.  Updated my Portfolio.
+4.  Submitted SSL certs for my site and set up domain forwarding.
+5.  Got minecraft working on the raspberry pi :)))
+6.  Read documentation on review carousels and payment gateways.
+7.  Updated profile on freelancer.com and researched available contracts.
+8.  Delete and repeat for 2 javascript exercises.
 
 **Thoughts**
 
-1.
+1.  I'm pretty sure i'm not the only one who hates fiddling around with SSL certs
+2.  I'm getting pretty quick at putting sites together
+3.  I wasn't as smooth at the javascript as I liked, mixing up queryselectors and elementbyID, need to do more practice still.
 
 **Link(s) to work**
 
 ** Plan for tomorrow**
 
----
+1.  Push on to Class 16
+2.  Put the shout out on twitter to hook up for Coffee Chats! (be brave!)
+3.  Complete a site for a bar with payment gateway and event booking form.
+4.  Update one of the other sites with a review carousel
+5.  If I can't 100% do the above, I need to at least get the documentation together.
 
 ### Day 82: June 5, 2022
 
