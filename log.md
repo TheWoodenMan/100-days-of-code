@@ -2015,7 +2015,7 @@ this was all it took:<br>
 3. Anki as usual.
 4. Outreach to a few people who might want a website built for them.
 
-### Day 97: June 22, 2022
+### Day 97: June 20, 2022
 
 **Today's Progress**:
 
@@ -2043,7 +2043,7 @@ this was all it took:<br>
 3.  Look at deleting and re-doing the javascript exercises again
 4.  Push for Class 16
 
-### Day 98: June 23, 2022
+### Day 98: June 21, 2022
 
 **Today's Progress**:
 
@@ -2072,11 +2072,14 @@ this was all it took:<br>
 4.  Update one of the other sites with a review carousel
 5.  If I can't 100% do the above, I need to at least get the documentation together.
 
-### Day 82: June 5, 2022
+### Day 99: June 22, 2022
 
 **Today's Progress**:
 
-1.
+1.  Researched SEO
+2.  Built a new site for a bar in Leeds
+3.  100Devs - Class 16
+4.  Set up calendly for coffee chats
 
 **Thoughts**
 
@@ -2084,9 +2087,13 @@ this was all it took:<br>
 
 **Link(s) to work**
 
+1. https://ahrefs.com/blog/seo-basics/
+
 ** Plan for tomorrow**
 
----
+1. opening hours, google maps and event booking form for bar website. (paypal deposit?)
+2. coffee chats..
+3. Bring it on again homework.
 
 ### Day 82: June 5, 2022
 
