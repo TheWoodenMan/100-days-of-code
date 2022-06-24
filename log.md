@@ -2105,6 +2105,34 @@ this was all it took:<br>
 
 1.
 
+<code>
+
+function \_100DaysOfCode() {
+let codingKnowledge = 0;
+let codingSkill = 0;
+let programmerBehaviour = 0;
+const learningArray = [];
+let effort;
+
+for (let day = 0; day < 100; day++) {
+effort = "yes";
+learningArray.push(effort);
+if (effort === "yes") {
+codingKnowledge++;
+codingSkill++;
+programmerBehaviour++;
+} else {
+console.log("at least do anki before bed! 😭");
+}
+console.log(codingKnowledge);
+console.log(codingSkill);
+console.log(programmerBehaviour);
+console.log(learningArray);
+}
+}
+
+</code>
+
 **Link(s) to work**
 
 ** Plan for tomorrow**
