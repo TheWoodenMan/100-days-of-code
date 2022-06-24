@@ -2083,7 +2083,8 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
+1. I like building websites! the bar website was great to build if a little fiddly, I struggled at first with the custom CSS shapes, but use of margin-top: -6em; sorted out the issues with image borders.
+2. Many businesses on freelancer want payment gateways, and through my own research I can see that many commercial websites have review carousels and google maps api integration - Its a little out of my tech range atm but I need these skills.
 
 **Link(s) to work**
 
@@ -2095,43 +2096,18 @@ this was all it took:<br>
 2. coffee chats..
 3. Bring it on again homework.
 
-### Day 82: June 5, 2022
+### Day 100: June 24, 2022
 
 **Today's Progress**:
 
-1.
+1.  FCC Pushed through 5 algorithms
+2.  Reading - the js way sections 1 - 5 (revision)
 
 **Thoughts**
 
-1.
-
-<code>
-
-function \_100DaysOfCode() {
-let codingKnowledge = 0;
-let codingSkill = 0;
-let programmerBehaviour = 0;
-const learningArray = [];
-let effort;
-
-for (let day = 0; day < 100; day++) {
-effort = "yes";
-learningArray.push(effort);
-if (effort === "yes") {
-codingKnowledge++;
-codingSkill++;
-programmerBehaviour++;
-} else {
-console.log("at least do anki before bed! 😭");
-}
-console.log(codingKnowledge);
-console.log(codingSkill);
-console.log(programmerBehaviour);
-console.log(learningArray);
-}
-}
-
-</code>
+1.  I've been stuck on the missing character algo on FCC for weeks now, the problem I had was that I am stubborn and don't want to give up - honestly this is not helpful and I need to get over it.
+2.  I was able to research the problem and found that it needed some JS commands I had never heard of yet - so this would have been literally impossible to bust through - imagine If i'd looked it up sooner!
+3.  CharAt and CharCodeat functions convert strings to ASCII 128 character code and back again, this means you can process letters as numbers in series - which is ultimately what was needed to solve the problem.
 
 **Link(s) to work**
 
