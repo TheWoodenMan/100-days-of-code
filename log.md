@@ -2102,6 +2102,8 @@ this was all it took:<br>
 
 1.  FCC Pushed through 5 algorithms
 2.  Reading - the js way sections 1 - 5 (revision)
+3.  Typed out angry parent again, but with switch function instead
+4.
 
 **Thoughts**
 
