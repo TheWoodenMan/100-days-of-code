@@ -2103,29 +2103,34 @@ this was all it took:<br>
 1.  FCC Pushed through 5 algorithms
 2.  Reading - the js way sections 1 - 5 (revision)
 3.  Typed out angry parent again, but with switch function instead
-4.
+4.  Learned about chmod in linux
 
 **Thoughts**
 
 1.  I've been stuck on the missing character algo on FCC for weeks now, the problem I had was that I am stubborn and don't want to give up - honestly this is not helpful and I need to get over it.
 2.  I was able to research the problem and found that it needed some JS commands I had never heard of yet - so this would have been literally impossible to bust through - imagine If i'd looked it up sooner!
 3.  CharAt and CharCodeat functions convert strings to ASCII 128 character code and back again, this means you can process letters as numbers in series - which is ultimately what was needed to solve the problem.
+4.  Chmod caused a whole heap of trouble during configuration of my minecraft server. it can be configured by number 0 to 7 or letter R recursive, x execute, r read, w write and typically uses a - or + to add or remove the perms.
 
 **Link(s) to work**
 
 ** Plan for tomorrow**
 
----
+1.  Finish reading the js way 1-5
+2.  Start reading eloquent javascript
+3.  Anki
 
-### Day 82: June 5, 2022
+### Day 101: June 25, 2022
 
 **Today's Progress**:
 
-1.
+1.  Started with a huge anki dump, over 100 cards
+2.  Read a little about kubernetes, choco, npm and yarn.
+3.  Finished reading the js way 1-5 which was mainly revision.
 
 **Thoughts**
 
-1.
+1. I need to start doing anki more daily so that it doesn't build up, I set an alarm at the end of the day but I forget - I'll change the time to midnight and see if that helps.
 
 **Link(s) to work**
 
