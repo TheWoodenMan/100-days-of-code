@@ -2127,13 +2127,17 @@ this was all it took:<br>
 1.  Started with a huge anki dump, over 100 cards
 2.  Read a little about kubernetes, choco, npm and yarn.
 3.  Finished reading the js way 1-5 which was mainly revision.
+4.  Finished subprimes on FCC
 
 **Thoughts**
 
 1. I need to start doing anki more daily so that it doesn't build up, I set an alarm at the end of the day but I forget - I'll change the time to midnight and see if that helps.
+2. I really like functional programming, it's like playing with lego technics. Need to remember to send all arguments into the formula, always end in a return and don't change anything
 
 **Link(s) to work**
 
 ** Plan for tomorrow**
 
-1.
+1. Continue reading eloquent javascript
+2. Take a crack at the next FCC problem
+3. Watch traversy media course on git/github
