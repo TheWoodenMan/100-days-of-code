@@ -2141,3 +2141,389 @@ this was all it took:<br>
 1. Continue reading eloquent javascript
 2. Take a crack at the next FCC problem
 3. Watch traversy media course on git/github
+
+### Day 102: June 26, 2022
+
+**Today's Progress**:
+
+1. Read chapter 1 of eloquent javascript
+2. FCC attempting smallest commons
+
+**Thoughts**
+
+1.  I thought I'd solved smallest commons, giving the first number that is divisible by both elements, but I didn't read the question properly - it wants the number thats divisible by all elements between the two numbers (including the two numbers)
+2.  I need to read the question better, in fact it would have been caught by writing out the pseudocode from the brief - I need to remember to do that each time.
+
+**Link(s) to work**
+
+1.  https://eloquentjavascript.net/01_values.html
+2.  https://github.com/TheWoodenMan/freecodecamp-exercises
+3.  https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+** Plan for tomorrow**
+
+1.  Read eloquent javascript ch.2
+2.  go back to some of the layours and tidy up a bit.
+3.  look at adding pdf support to the lounge bar side (menus)
+4.  Keep pushing freecode camp
+5.  do a few more codecademy exercises
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
+
+### Day 101: June 25, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+** Plan for tomorrow**
+
+1.
