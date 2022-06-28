@@ -2168,23 +2168,31 @@ this was all it took:<br>
 4.  Keep pushing freecode camp
 5.  do a few more codecademy exercises
 
-### Day 101: June 25, 2022
+### Day 103: June 27, 2022
 
 **Today's Progress**:
 
-1.
+1. Read eloquent javascript chapter 2
+2. Updated and finished my bar website
+3. Read the documentation for google maps api and implemented it in practice
+4. Read the documentation for gdocs pdf api and implemented it in practice.
 
 **Thoughts**
 
-1.
+1. Eloquent javascript is a hard read and mostly revision, but there are some details that are coming out of it that are new to me, so it's worth it.
+2. You can use continue/break outside of a switch statement (e.g. in an if conditional or for loop)
+3. I really liked how the bar site came together and was proud to share it in the community :)
 
 **Link(s) to work**
 
-1.
+1.  https://eloquentjavascript.net/02_program_structure.html
+2.  https://bizzicks-bar-grill-portfolio.netlify.app/
 
 ** Plan for tomorrow**
 
-1.
+1.  I have a full day of work tomorrow so may struggle to fit a lot in.
+2.  Minimum I will do anki.
+3.  I will try and fit in ch.3 of eloquent javascript.
 
 ### Day 101: June 25, 2022
 
