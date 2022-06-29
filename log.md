@@ -2193,24 +2193,34 @@ this was all it took:<br>
 1.  I have a full day of work tomorrow so may struggle to fit a lot in.
 2.  Minimum I will do anki.
 3.  I will try and fit in ch.3 of eloquent javascript.
+4.  Flexbox zombies continues.
 
-### Day 101: June 25, 2022
+### Day 104: June 28, 2022
 
 **Today's Progress**:
 
-1.
+1.  Finished reading Eloquent Javascript Ch.3
+2.  Read about the call stack
+3.  Joined a project with another dev to make a clicker game
 
 **Thoughts**
 
-1.
+1.  The biggest hurdle to starting the project was working out how to collaborate, setting things up with git/github and
+    making sure that our local copies were the same.
+2.  The directory structure kept corrupting but we were able to fix it with a bit of experimentation.
 
 **Link(s) to work**
 
-1.
+1.  https://eloquentjavascript.net/03_functions.html
+2.  https://github.com/JoeSangine/GravityClicker
+3.  https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
 
 ** Plan for tomorrow**
 
-1.
+1.  Contribute to Gravity Clicker
+2.  Flexbox Zombies
+3.  anki
+4.  review starfinder project and do a little content work on it.
 
 ### Day 101: June 25, 2022
 
