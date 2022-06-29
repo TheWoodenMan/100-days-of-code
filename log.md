@@ -2222,23 +2222,27 @@ this was all it took:<br>
 3.  anki
 4.  review starfinder project and do a little content work on it.
 
-### Day 101: June 25, 2022
+### Day 105: June 29, 2022
 
 **Today's Progress**:
 
-1.
+1.  Reading through git from the bottom up.
+2.  Did a bit of organisational work on GravityClicker
+3.  Passed the streamroller algorithm on freecodecamp
 
 **Thoughts**
 
-1.
+1.  Git from the bottom up is kind of incomprehensible to me on the first pass, there's a lot of tech references, and I understand like 40% of it. I need to look into blobs, hashes and trees in particular.
+2.  I wasn't able to add a huge amount of coding to GravityClicker today, I'm waiting for feedback from the project lead - however I was able to organise the features into a series of issues on github so we can assign work next time we speak.
+3.  Freecodecamp algo was hard, I had a crack and got like 80% of the way there, my solution used foreach since i'm trying to gain familiarity in that but the hint said I should use a loop. I knew to use recursion and got that right - but I missed out on the use of the rest operator which pushed every element in the string not just the first one. All clear and learned my lesson from last time - don't struggle - look it up.
 
 **Link(s) to work**
 
-1.
+1.  https://jwiegley.github.io/git-from-the-bottom-up/
 
 ** Plan for tomorrow**
 
-1.
+1.  It's time for super sunday - 9 hours of review - lets go!
 
 ### Day 101: June 25, 2022
 
