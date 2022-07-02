@@ -2293,11 +2293,14 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  Finished Super Review 💪
+2.  Flexbox Zombies Ch.9 🧟
+3.  Worked on GravityClicker 🪐
 
 **Thoughts**
 
-1.
+1.  The super review was a grind but great for spaced repetition and recall.
+2.
 
 **Link(s) to work**
 
