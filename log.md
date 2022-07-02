@@ -2244,7 +2244,51 @@ this was all it took:<br>
 
 1.  It's time for super sunday - 9 hours of review - lets go!
 
-### Day 101: June 25, 2022
+### Day 106: June 30, 2022
+
+**Today's Progress**:
+
+1.  Watched first half of 100Devs super review
+2.  Did a bunch of work on the group project, GravityClicker
+3.  Pushed 3 algorithms on FCC
+
+**Thoughts**
+
+1.  The super review is definitely revision but still picking up details on the second pass.
+2.  I did a lot of work on Gravity Clicker today including adding in random rolls for an asteroid to appear, making it disappear on click and add it's mass to the black hole.
+
+**Link(s) to work**
+
+1.  https://github.com/TheWoodenMan/freecodecamp-exercises
+2.  https://github.com/JoeSangine/GravityClicker
+
+** Plan for tomorrow**
+
+1.
+
+### Day 107: July 1, 2022
+
+**Today's Progress**:
+
+1.  Wrestled with addTogether algorithm on FCC
+2.  got in my anki practice
+
+**Thoughts**
+
+1.  A day of work, karate practice and running PF2e meant I got basically the minimum coding done, been a little while since I had a day like this but got to keep pushing.
+2.  The FCC algorithm is a tough one and involves currying which I don't know enough about tbh, I pushed ab it on my own but tomorrow i'll get a hint and see if that helps more.
+
+**Link(s) to work**
+
+1.  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional
+
+** Plan for tomorrow**
+
+1.  Finish Super review
+2.  Start reading class 19
+3.  solve addTogether FCC algorithm
+
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2262,7 +2306,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2280,7 +2324,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2298,7 +2342,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2316,7 +2360,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2334,7 +2378,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2352,7 +2396,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2370,7 +2414,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2388,7 +2432,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2406,7 +2450,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2424,7 +2468,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2442,7 +2486,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2460,7 +2504,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2478,7 +2522,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2496,7 +2540,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
@@ -2514,25 +2558,7 @@ this was all it took:<br>
 
 1.
 
-### Day 101: June 25, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-** Plan for tomorrow**
-
-1.
-
-### Day 101: June 25, 2022
+### Day 108: July 2, 2022
 
 **Today's Progress**:
 
