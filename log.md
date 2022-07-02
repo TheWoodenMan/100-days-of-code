@@ -2287,6 +2287,7 @@ this was all it took:<br>
 1.  Finish Super review
 2.  Start reading class 19
 3.  solve addTogether FCC algorithm
+4.  Flagged for revision - rest operator,
 
 ### Day 108: July 2, 2022
 
