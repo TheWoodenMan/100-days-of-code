@@ -2345,6 +2345,7 @@ this was all it took:<br>
 3.  Read js.info array methods https://javascript.info/array-methods
 4.  Do another 4-5 sections of sf character choice
 5.  Flexbox Zombies Ch.10?
+6.  Don't forget to stretch https://simpleprogrammer.com/ergonomic-stretches-for-programmers/
 
 ### Day 110: July 4, 2022
 
