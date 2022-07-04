@@ -2287,7 +2287,7 @@ this was all it took:<br>
 1.  Finish Super review
 2.  Start reading class 19
 3.  solve addTogether FCC algorithm
-4.  Flagged for revision - rest operator,
+4.  Flagged for revision - rest operator
 
 ### Day 108: July 2, 2022
 
@@ -2296,39 +2296,57 @@ this was all it took:<br>
 1.  Finished Super Review 💪
 2.  Flexbox Zombies Ch.9 🧟
 3.  Worked on GravityClicker 🪐
+4.  Finished thejsway ch6. - Objects. 📥
+5.  Started working on an auto form filler program. 📝
+6.  Anki to finish 👍
 
 **Thoughts**
 
 1.  The super review was a grind but great for spaced repetition and recall.
-2.
+2.  I've mostly been playing around today, it's been fun!
 
 **Link(s) to work**
 
-1.
+1. https://github.com/TheWoodenMan/100Devs
+2. https://mastery.games/flexboxzombies/
+3. https://github.com/JoeSangine/GravityClicker/tree/Gravity-Clicker
+4. https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
 
 ** Plan for tomorrow**
 
-1.
+1.  watch class 19
+2.  have another crack at FCC
+3.  Push on with sf character picking - it's a grind but get some of it done
 
-### Day 108: July 2, 2022
+### Day 109: July 3, 2022
 
 **Today's Progress**:
 
-1.
+1.  Completed my contract/proposal autofiller program. 📝
+2.  Class 19 #100Devs. ✊
+3.  Pushed a little to the sf project, it's a grind. 🌟
+4.  Completed 8th Kyu codewars 💻
+5.  Updated my portfolio with autofiller program and added cute CSS animations!
 
 **Thoughts**
 
-1.
+1.  Researching more css animations is pretty fun, i'm about to mod my portfolio to have flip cards.
+2.  The array work from 100devs is revision but i'm using it as an opportunity to practice more .foreach and arrow functions instead of older styles.
 
 **Link(s) to work**
 
-1.
+1.  https://github.com/TheWoodenMan/codewars-exercises
+2.
 
 ** Plan for tomorrow**
 
-1.
+1.  Codewars 8th Kyu
+2.  Read jsway ch7 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md
+3.  Read js.info array methods https://javascript.info/array-methods
+4.  Do another 4-5 sections of sf character choice
+5.  Flexbox Zombies Ch.10?
 
-### Day 108: July 2, 2022
+### Day 110: July 4, 2022
 
 **Today's Progress**:
 
