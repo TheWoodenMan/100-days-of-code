@@ -2351,11 +2351,13 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  Read Eloquent Javascript Ch.4 📖
+2.  Started the exercises at the end of Eloquent Javascript 💻
+3.  Push Codewars 8th Kyu 🥋
 
 **Thoughts**
 
-1.
+1.  Travelling today so it's harder to fit in the coding, I'm reading instead. (read eloquent javascript in manchester airport!)
 
 **Link(s) to work**
 
