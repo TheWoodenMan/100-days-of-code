@@ -2354,14 +2354,17 @@ this was all it took:<br>
 1.  Read Eloquent Javascript Ch.4 📖
 2.  Started the exercises at the end of Eloquent Javascript 💻
 3.  Push Codewars 8th Kyu 🥋
+4.  Cracked the Make a Person object method algorithm challenge on #freecodecamp - getting close to the end! ⛰️
 
 **Thoughts**
 
 1.  Travelling today so it's harder to fit in the coding, I'm reading instead. (read eloquent javascript in manchester airport!)
+2.  I managed to crack the FCC I was stuck on after being stuck (haha) on a flight from Manchester to Porto. I have no doubt that reading the section on objects in eloquent javascript just before helped me out a bunch.
 
 **Link(s) to work**
 
-1.
+1.  https://eloquentjavascript.net/04_data.html
+2.  https://github.com/TheWoodenMan/freecodecamp-exercises
 
 ** Plan for tomorrow**
 
