@@ -2370,11 +2370,19 @@ this was all it took:<br>
 
 1.
 
-### Day 108: July 2, 2022
+### Day 111: July 5, 2022
 
 **Today's Progress**:
 
-1.
+1.  Freecodecamp: Palindromes - first Try! 💪
+2.  Freecodecamp: Roman Numeras - Tricky 🍃
+3.  Freecodecamp: Caesars cipher - Ave! Straight-forward 👋
+4.  Freecodecamp: Telephone number validator ☎️
+    This regex was a beast, regex101.com helped a TON
+    and had to add in conditionals to handle the parenthesis
+5.  Cash Register - Hit the buffers, it threw me down the stairs
+    and I had to scrap my code and start again, will try again tomorrow 👊
+    My first run-in with floating point errors. I am off by 1 penny!
 
 **Thoughts**
 
