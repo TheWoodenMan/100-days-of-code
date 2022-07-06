@@ -2386,7 +2386,9 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
+1.  I am genuinely quite pleased that I managed to basically blast through the first 3 projects on here without too much trouble.
+2.  Regex is still kind of mystical to me but at least I know I can reach for regex101 if I need to work it out.
+3.  The cash register problem is a tricky one and the floating point error threw me a total curveball (first time I encountered it) I had to scrap everything and start again.
 
 **Link(s) to work**
 
@@ -2394,7 +2396,9 @@ this was all it took:<br>
 
 ** Plan for tomorrow**
 
-1.
+1. Take another crack at FCC Cash Register
+2. Codewars 8th Kyu
+3. Continue javascript.info and jsway reading.
 
 ### Day 108: July 2, 2022
 
