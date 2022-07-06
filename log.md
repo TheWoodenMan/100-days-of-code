@@ -2400,11 +2400,13 @@ this was all it took:<br>
 2. Codewars 8th Kyu
 3. Continue javascript.info and jsway reading.
 
-### Day 108: July 2, 2022
+### Day 112: July 6, 2022
 
 **Today's Progress**:
 
-1.
+1.  Finished FCC Cash Register and thus the Cert 🎊🌟👍
+2.  Reading: the JS Way Ch.7 Arrays (revision)
+3.
 
 **Thoughts**
 
