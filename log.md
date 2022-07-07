@@ -2405,20 +2405,29 @@ this was all it took:<br>
 **Today's Progress**:
 
 1.  Finished FCC Cash Register and thus the Cert 🎊🌟👍
-2.  Reading: the JS Way Ch.7 Arrays (revision)
-3.
+2.  Reading: the JS Way Ch.7 Arrays (revision) 📖
+3.  Codewars 8th Kyu - powers of 2 ✅
+4.  Reading: javascript.info Array Methods 🧮
+5.  Started: FCC Front End Libraries - Bootstrap 50%
 
 **Thoughts**
 
-1.
+1.  The cash register challenge was rough and I hit a bunch of snags, need to remember about floating point and use parseInt/Float and toFixed() toPrecision() as needed if I spot it coming up again in future.
+2.  It's taken me a few months to get to the end of the FCC course but it's honestly been great and doing it alongside 100Devs is a great example of interleaving, I
+    feel like I am adding depth and better proficiency by going over it again.
+3.  Bootstrap is way easier than I thought, and I even recognise it from some of the site templates I've used in the past. Can't wait to use it in practice!
 
 **Link(s) to work**
 
-1.
+1.  https://www.freecodecamp.org/certification/fccd85c66c0-d317-4621-823d-4871a7ad3ba8/javascript-algorithms-and-data-structures
+2.  https://github.com/TheWoodenMan/codewars-exercises
 
 ** Plan for tomorrow**
 
-1.
+1.  Class 20 #100Devs
+2.  Push on with FCC Bootstrap.
+3.  Javascript 30 day 4
+4.  Think about Traversy React
 
 ### Day 108: July 2, 2022
 
