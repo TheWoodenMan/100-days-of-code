@@ -2429,11 +2429,13 @@ this was all it took:<br>
 3.  Javascript 30 day 4
 4.  Think about Traversy React
 
-### Day 108: July 2, 2022
+### Day 113: July 7, 2022
 
 **Today's Progress**:
 
-1.
+1.  FCC Bootstrap - Completed.
+2.  FCC jQuery - Completed.
+3.  Class 19 - Lets go!
 
 **Thoughts**
 
