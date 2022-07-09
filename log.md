@@ -2484,7 +2484,8 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  Big anki drop, around 100 cards
+2.
 
 **Thoughts**
 
