@@ -1261,7 +1261,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Finish class 07 minimum
 
@@ -1282,7 +1282,7 @@ this was all it took:<br>
 
 1.  https://www.youtube.com/watch?v=k8r3B0JGMt4
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. just anki, I have a full schedule.
 
@@ -1304,7 +1304,7 @@ this was all it took:<br>
 
 1.  https://www.udemy.com/course/capm-pmbok6/learn/lecture/12789517#notes
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Another busy day but I will try and squeeze more CAPM in before work starts
 2.  I want to try the coursework for class 08 100devs tomorrow.
@@ -1326,7 +1326,7 @@ this was all it took:<br>
 
 1.  https://www.udemy.com/course/capm-pmbok6/learn/lecture/8409126#overview
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Anki work on PMBOK guide
 2.  Try and start class 08 100devs
@@ -1350,7 +1350,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -1370,7 +1370,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Class 08 100Devs
 
@@ -1392,7 +1392,7 @@ this was all it took:<br>
 
 1.  https://github.com/TheWoodenMan/100Devshttps://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Watch independence day
 2. keybr.com
@@ -1415,7 +1415,7 @@ this was all it took:<br>
 
 1.  https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Do anki for 5 days and somehow keep it going
 
@@ -1438,7 +1438,7 @@ this was all it took:<br>
 
 1.  https://ankiweb.net/decks/
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  I plan to finish the homework for class 08 over the next few days
 2.  I also plan to start class 09
@@ -1465,7 +1465,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -1488,7 +1488,7 @@ this was all it took:<br>
 
 1.  https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Lots of Project work planned as well as a PMI webinar
 2. Try and finish class 08 homework
@@ -1519,7 +1519,7 @@ this was all it took:<br>
 1.  ![image](https://user-images.githubusercontent.com/85075266/171071546-e89a7fce-6caf-4e27-ab3c-96a3f0c38a24.png)
 2.  https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Guess I'm pushing class 10 :)
 2.  keep up keyb practice
@@ -1543,7 +1543,7 @@ this was all it took:<br>
 
 1.  https://www.youtube.com/watch?v=WftjV2L7oyk
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Push through with html/css layouts as much as I can do.
 
@@ -1567,7 +1567,7 @@ this was all it took:<br>
 1.  https://github.com/TheWoodenMan/100Devs
 2.  ![carrylogs](https://user-images.githubusercontent.com/85075266/171522123-689f3f92-0d92-43d8-aa8c-2b2f2d976d71.gif)
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  I need to push on and finish layout 5 and maybe start layout 6, if I have time I'll push section 11 of CAPM
 
@@ -1591,7 +1591,7 @@ this was all it took:<br>
 1.  https://github.com/TheWoodenMan/100Devs
 2.  ![debug-css](https://user-images.githubusercontent.com/85075266/171994536-fda1cae1-74f3-45d2-bffe-3ba41168db28.gif)
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Finish layout 5
 2. Start layout 6
@@ -1616,7 +1616,7 @@ this was all it took:<br>
 1.  https://github.com/TheWoodenMan/100Devs
 2.  ![sourcegif](https://user-images.githubusercontent.com/85075266/171994585-c6f262f7-fe44-478d-910c-570756152385.gif)
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Continue layout 6
 2. must do class 11
@@ -1643,7 +1643,7 @@ this was all it took:<br>
 2.  ![image](https://user-images.githubusercontent.com/85075266/172025911-04a9bdc9-e20f-4fb1-a9a9-01476f25246f.png)
 3.  https://www.youtube.com/watch?v=qEj0pXGVwjY
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Finish restaurant layout
 2.  start salon layout - try to do it all in flexbox
@@ -1672,7 +1672,7 @@ this was all it took:<br>
 1.  https://mastery.games/flexboxzombies/ Chapters 1-3
 2.  https://www.youtube.com/watch?v=hdI2bqOjy3c
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. I'm going to be travelling all day tomorrow but will still have some time in hotel tomorrow night to push a bit of work out.
 2. will do the hair salon layout with flexbox tomorrow if possible
@@ -1695,7 +1695,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. https://www.youtube.com/watch?v=hdI2bqOjy3c
 
@@ -1721,7 +1721,7 @@ this was all it took:<br>
 2. https://twm-7layouts-layout-6.glitch.me
 3. https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Probably do anki only, I have a full day of meetings scheduled.
 
@@ -1739,7 +1739,7 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Survive travelling from Portugal to UK :')
 
@@ -1760,7 +1760,7 @@ this was all it took:<br>
 
 1. https://twm-7layouts-layout-6.glitch.me
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. start layout 7
 2. more flexbox zombies if time
@@ -1784,7 +1784,7 @@ this was all it took:<br>
 1. https://github.com/TheWoodenMan/100Devs
 2. ![image](https://user-images.githubusercontent.com/85075266/173164354-4c220750-8788-4998-8494-d01d98aae944.png)
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Watch Class 12 \*\*\*
 2. Continue Layout 7
@@ -1814,7 +1814,7 @@ this was all it took:<br>
 1. https://www.youtube.com/watch?v=_A20kVsaqIk
 2.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Write out the background picker and add a few event listeners.
 2. Update the weekday checker update the dom regardless of the case sensitivity of what got typed
@@ -1839,7 +1839,7 @@ this was all it took:<br>
 1. https://javascript.info/variables
 2. https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. class 13
 2. flexbox zombies ch.7
@@ -1864,7 +1864,7 @@ this was all it took:<br>
 1. https://mastery.games/flexboxzombies/
 2. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -1885,7 +1885,7 @@ this was all it took:<br>
 
 ![Peek 2022-06-15 03-21](https://user-images.githubusercontent.com/85075266/173724242-0b31c9a3-b90e-4982-8d77-f267a64daa70.gif)
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. javascript.info reading/tasks
 2. continue content work
@@ -1911,7 +1911,7 @@ this was all it took:<br>
 1. https://thewoodenman.github.io/sf-character-choice-tool/
 2. https://twitter.com/Andynwood79/status/1537250341124726784
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. javascript.info
 
@@ -1937,7 +1937,7 @@ this was all it took:<br>
 2. https://javascript.info/arrow-functions-basics
 3. https://github.com/TheWoodenMan/the-js-way-exercises
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. do the exercises for the js way.
 2. try to push for class 14
@@ -1963,7 +1963,7 @@ this was all it took:<br>
 1. https://github.com/TheWoodenMan/the-js-way-exercises
 2. https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 ---
 
@@ -1985,7 +1985,7 @@ this was all it took:<br>
 
 1. https://github.com/TheWoodenMan/100Devs
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Push class 15
 2. Delete and retype again
@@ -2008,7 +2008,7 @@ this was all it took:<br>
 
 1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Javascript.info tasks - redo them again and submit
 2. Pick one business area from my local - apply a template to a fictional business and upload it.
@@ -2036,7 +2036,7 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Create mock ups for a mobile cleaning company and tradesman company (electricians)
 2.  Update my portfolio with these and add them in.
@@ -2064,7 +2064,7 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Push on to Class 16
 2.  Put the shout out on twitter to hook up for Coffee Chats! (be brave!)
@@ -2090,7 +2090,7 @@ this was all it took:<br>
 
 1. https://ahrefs.com/blog/seo-basics/
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. opening hours, google maps and event booking form for bar website. (paypal deposit?)
 2. coffee chats..
@@ -2114,7 +2114,7 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Finish reading the js way 1-5
 2.  Start reading eloquent javascript
@@ -2136,7 +2136,7 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Continue reading eloquent javascript
 2. Take a crack at the next FCC problem
@@ -2160,7 +2160,7 @@ this was all it took:<br>
 2.  https://github.com/TheWoodenMan/freecodecamp-exercises
 3.  https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Read eloquent javascript ch.2
 2.  go back to some of the layours and tidy up a bit.
@@ -2188,7 +2188,7 @@ this was all it took:<br>
 1.  https://eloquentjavascript.net/02_program_structure.html
 2.  https://bizzicks-bar-grill-portfolio.netlify.app/
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  I have a full day of work tomorrow so may struggle to fit a lot in.
 2.  Minimum I will do anki.
@@ -2215,7 +2215,7 @@ this was all it took:<br>
 2.  https://github.com/JoeSangine/GravityClicker
 3.  https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Contribute to Gravity Clicker
 2.  Flexbox Zombies
@@ -2240,7 +2240,7 @@ this was all it took:<br>
 
 1.  https://jwiegley.github.io/git-from-the-bottom-up/
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  It's time for super sunday - 9 hours of review - lets go!
 
@@ -2262,7 +2262,7 @@ this was all it took:<br>
 1.  https://github.com/TheWoodenMan/freecodecamp-exercises
 2.  https://github.com/JoeSangine/GravityClicker
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2282,7 +2282,7 @@ this was all it took:<br>
 
 1.  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Finish Super review
 2.  Start reading class 19
@@ -2312,7 +2312,7 @@ this was all it took:<br>
 3. https://github.com/JoeSangine/GravityClicker/tree/Gravity-Clicker
 4. https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  watch class 19
 2.  have another crack at FCC
@@ -2338,7 +2338,7 @@ this was all it took:<br>
 1.  https://github.com/TheWoodenMan/codewars-exercises
 2.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Codewars 8th Kyu
 2.  Read jsway ch7 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md
@@ -2366,7 +2366,7 @@ this was all it took:<br>
 1.  https://eloquentjavascript.net/04_data.html
 2.  https://github.com/TheWoodenMan/freecodecamp-exercises
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2394,7 +2394,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1. Take another crack at FCC Cash Register
 2. Codewars 8th Kyu
@@ -2422,7 +2422,7 @@ this was all it took:<br>
 1.  https://www.freecodecamp.org/certification/fccd85c66c0-d317-4621-823d-4871a7ad3ba8/javascript-algorithms-and-data-structures
 2.  https://github.com/TheWoodenMan/codewars-exercises
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.  Class 20 #100Devs
 2.  Push on with FCC Bootstrap.
@@ -2450,7 +2450,51 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
+
+1.  Try and finish javascript 30
+2.  Fit in some coding even though I have a full day
+
+### Day 114: July 8, 2022
+
+**Today's Progress**:
+
+1.  Updated portfolio with project management details
+2.  Error checked google API on lounge bar site
+3.  Started travesy react udemy course
+
+**Thoughts**
+
+1.  I had a lighter coding day because work was pretty full and I was runing pathfinder2e
+2.  The google maps API requires an account and subscription - I think it's still possible to configure without it
+    but it's throwing errors, so i've added a placeholder for now.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Push class 20 for 100 devs
+2.  Tackle Javascript30 including .sort() and adding to anki
+3.  take a look at gravity clicker
+4.  FCC Sass if time.
+
+### Day 115: July 9, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
 
 1.
 
@@ -2468,7 +2512,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2486,7 +2530,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2504,7 +2548,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2522,7 +2566,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2540,7 +2584,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2558,7 +2602,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2576,7 +2620,7 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
 
@@ -2594,42 +2638,6 @@ this was all it took:<br>
 
 1.
 
-** Plan for tomorrow**
-
-1.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-** Plan for tomorrow**
-
-1.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-** Plan for tomorrow**
+**Plan for tomorrow**
 
 1.
