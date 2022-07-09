@@ -2433,13 +2433,18 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.  FCC Bootstrap - Completed.
-2.  FCC jQuery - Completed.
-3.  Class 19 - Lets go!
+1.  FCC Bootstrap - Completed. 👢
+2.  FCC jQuery - Completed. ❓
+3.  #100Devs Class 19 - Arrays Lets go! ⤴️
+4.  Working through Javascript 30 _slowly_ 🐢
 
 **Thoughts**
 
-1.
+1.  I can see why most people don't bother with jQuery, it's basically like a primitive version of some of JavaScript's DOM functions with a sprinkle of CSS
+2.  Bootstrap was a lot easier than I thought it would be and recognised some of the syntax from templates i've used.
+3.  I need to progress to more difficult array functions, some of the more easy ones are just too well known, I need to be able to iterate from behind an object
+    or with a calculation before sorting.
+4.  .sort() used in the JS30 context kicked my ass, going to go back over this video, _slowly_ and
 
 **Link(s) to work**
 
