@@ -2484,15 +2484,17 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.  Big anki drop, around 100 cards
-2.  Spotted a few bugs in my portfolio (always test people!) and fixed them along with improving layout.
-3.  Listened in to a a live stream on twitter with Shawn Charles about tech recruiting, processess and the market in general
-4.  100 Devs Class 21 - done
-5.  Started FCC Sass
+1.  Big anki drop, around 100 cards 📇
+2.  Spotted a few bugs in my portfolio (always test people!) and fixed them along with improving layout. 🧯
+3.  Listened in to a a live stream on twitter with Shawn Charles about tech recruiting, processess and the market in general 🤝
+4.  100 Devs Class 21 ✅
+5.  FCC Sass 1/2 way 💁‍♂️
+6.  Codewars 8th kyu 🎱
 
 **Thoughts**
 
 1.  For revision, .sort() .filter() .map() <---- Delete/Repeat these
+2.  Codewars 8th kyu is a little easy, i'm supposed to do one a day but might push through a bunch or move to 7th kyu
 
 **Link(s) to work**
 
