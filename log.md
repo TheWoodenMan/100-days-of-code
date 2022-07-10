@@ -2424,7 +2424,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.  Class 20 #100Devs
+1.  Class 21 #100Devs
 2.  Push on with FCC Bootstrap.
 3.  Javascript 30 day 4
 4.  Think about Traversy React
@@ -2475,7 +2475,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.  Push class 20 for 100 devs
+1.  Push class 21 for 100 devs
 2.  Tackle Javascript30 including .sort() and adding to anki
 3.  take a look at gravity clicker
 4.  FCC Sass if time.
@@ -2485,11 +2485,14 @@ this was all it took:<br>
 **Today's Progress**:
 
 1.  Big anki drop, around 100 cards
-2.
+2.  Spotted a few bugs in my portfolio (always test people!) and fixed them along with improving layout.
+3.  Listened in to a a live stream on twitter with Shawn Charles about tech recruiting, processess and the market in general
+4.  100 Devs Class 21 - done
+5.  Started FCC Sass
 
 **Thoughts**
 
-1.
+1.  For revision, .sort() .filter() .map() <---- Delete/Repeat these
 
 **Link(s) to work**
 
