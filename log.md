@@ -2502,7 +2502,97 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
+1.  FCC Finish Sass, start React
+2.  #100Devs - continue with Class 21/22 homework
+3.
+
+### Day 116: July 10, 2022
+
+**Today's Progress**:
+
+1.  Finished FCC Sass 💁‍♂️
+2.  Autofill project added feature to print to pdf 🖨️
+3.  javascript.info array methods tasks 🧮
+4.  Tidied up autofill on github to allow other #100Devs to join 🎒(dm me 🤙)
+5.  Anki to finish ⭐
+
+**Thoughts**
+
+1.  I decided to open up the autofill project to try to see if I could help a few other devs
+    and maybe solve some of the problems I've struggled with. Happy to implement printing today!
+2.  I'm going a little slower than i'd like but i'm making sure I know array methods well
+    before pushing on to objects.
+3.  I only did the sass/bootstrap and jquery stuff a few days ago, but it's already almost out
+    of my mind - thankfully I added it all to anki so I could review it properly. - still I will
+    need a project of some sort before this stuff becomes permanent.
+
+**Link(s) to work**
+
+1.  https://github.com/TheWoodenMan/contract-to-html-autofiller
+2.  https://github.com/TheWoodenMan/eloquent-js-info-the-js-way-exercises
+3.
+
+**Plan for tomorrow**
+
+1.  Finish javascript.info tasks
+2.  Think about Class 22
+3.  push autofiller again.
+4.  Start jsway tasks
+
+### Day 117: July 11, 2022
+
+**Today's Progress**:
+
+1.  Pushed on with javascript.info tasks ☑️
+2.  Learned about the fisher-yates algo for sorting values. 🧮
+3.  Anki 40 cards 📇
+4.  Pushed half an hour of project management studies, been a while 📈
+
+**Thoughts**
+
+1.  Delete repeated on reduce and sort to get them both right
+2.  the fisher-yates algo took some doing, the main sticking point was off by one errors and
+    randomising a number between 2 numbers rather than from 1 or 0
+3.  To randomise a number between min and max - Math.floor(Math.random() \* (max - min) + min )
+
+**Link(s) to work**
+
 1.
+
+**Plan for tomorrow**
+
+1.  Codewars
+2.  Anki
+3.
+
+### Day 118: July 12, 2022
+
+**Today's Progress**:
+
+1.  Finished JSway and javascript.info tasks ✅
+2.  Class 22 #100Devs 👓
+3.  Intro to Git 🔬
+4.  Codewars 8th Kyu x1
+
+**Thoughts**
+
+1.  I need more practice on objects in particular, I can get to the right answer generally but it's not 100% fluid yet.
+2.  Good review of constructor functions on 100Devs, first time i've heard it explained and felt like I understood it.
+3.  Checked in on gravity clicker and it looks like the project lead is testing new features so I'll check in with them first before picking up any new issues 👍
+4.  I already did intro to github, so I have finally reached the point where I first found 100Devs!
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Codewars
+2.  Anki
+3.  Look at videos for Class 23
+4.  Remember flexbox zombies? - Let's finish
+5.  JSX on FCC? start possibly
+6.  Document issues for gravity clicker
 
 ### Day 108: July 2, 2022
 
@@ -2520,7 +2610,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Codewars
+2.  Anki
+3.
 
 ### Day 108: July 2, 2022
 
@@ -2538,7 +2630,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Codewars
+2.  Anki
+3.
 
 ### Day 108: July 2, 2022
 
@@ -2556,7 +2650,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Codewars
+2.  Anki
+3.
 
 ### Day 108: July 2, 2022
 
@@ -2574,7 +2670,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Codewars
+2.  Anki
+3.
 
 ### Day 108: July 2, 2022
 
@@ -2592,58 +2690,6 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
+1.  Codewars
+2.  Anki
+3.
