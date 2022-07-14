@@ -2594,25 +2594,31 @@ this was all it took:<br>
 5.  JSX on FCC? start possibly
 6.  Document issues for gravity clicker
 
-### Day 108: July 2, 2022
+### Day 119: July 13, 2022
 
 **Today's Progress**:
 
-1.
+1.  My Plan got shelved to work on a site. ❌
+2.  Spent all day working on a great website for a client 👀
+3.  Anki 📇
+4.  Back to regular service tomorrow 📻
 
 **Thoughts**
 
-1.
+1.  Had to ditch my learning for the day but it was worth it to work on the site, fully responsive and extremely happy with it. Based on a template - but took a lot of work to set up regardless.
 
 **Link(s) to work**
 
-1.
+1.  https://github.com/TheWoodenMan/cex-pt-franchising
 
 **Plan for tomorrow**
 
 1.  Codewars
 2.  Anki
-3.
+3.  Look at videos for Class 23
+4.  Remember flexbox zombies? - Let's finish
+5.  JSX on FCC? start possibly
+6.  Document issues for gravity clicker
 
 ### Day 108: July 2, 2022
 
