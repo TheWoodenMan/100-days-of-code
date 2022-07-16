@@ -2676,11 +2676,14 @@ this was all it took:<br>
 3.  Objects the basics
 4.
 
-### Day 108: July 2, 2022
+### Day 122: July 16, 2022
 
 **Today's Progress**:
 
-1.
+1.  Watched Object Oriented Javascript by @moshhamedani 🐦
+2.  Read intro to Github 📖
+3.  Made a stopwatch app using OOP and functional programming ⏱️
+4.  Made the stopwatch from scratch, no templates - but it needs testing/debugging 📋✏️
 
 **Thoughts**
 
