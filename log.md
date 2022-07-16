@@ -2620,6 +2620,62 @@ this was all it took:<br>
 5.  JSX on FCC? start possibly
 6.  Document issues for gravity clicker
 
+### Day 120: July 14, 2022
+
+**Today's Progress**:
+
+1. Wrestled with my new site but got nowhere ⚠️
+2. Tried to implement language toggle functionality between different languages. 🐠
+3. The template i'm working with strongly resists modding ⛔
+4. Rolled it all back via git, but lost some sideline work that I should have branched 💥
+5. Finished the first draft translation anyway 🥉
+6. Attempted a 6th Kyu kata and got nowhere 👊
+7. Got 30 anki cards done. ✅
+
+**Thoughts**
+
+1.  Even though there was a lot of failure today, there was a lot of learning too. I explored toggle switches, langugage conversion apis, jQuery and studied the code of the template I'm using. I also learned the value (the hard way) of creating experimental branches for working on new features, issues or bugs. I need to commit less to main.
+2.  I need a web development checklist that includes testing - quality control is important and I'm missing things
+    occasionally which is kind of annoying (like the media queries on my portofolio)
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Codewars
+2.  Anki
+3.  Class 23 videos
+
+### Day 121: July 15, 2022
+
+**Today's Progress**:
+
+1.  Fixed media queries for the flipcards on my porfolio
+2.  Github Tutorial For Beginners
+3.  Anki
+4.  Codewars 8th kyu
+
+**Thoughts**
+
+1.  a lighter day because I had work and ran pathfinder.
+2.  getting ready for a big day tomorrow.
+3.  I need to switch to using terminal for git commands for good practice
+4.  The media queries bug showed me that I need to do more testing on sites before release, I thought it was ok but in practice there were issues - I only found out by accident!
+
+**Link(s) to work**
+
+1.  https://www.codewars.com/kata/551b4501ac0447318f0009cd/javascript
+2.  https://github.com/TheWoodenMan/codewars-exercises
+
+**Plan for tomorrow**
+
+1.  Codewars
+2.  Anki
+3.  Objects the basics
+4.
+
 ### Day 108: July 2, 2022
 
 **Today's Progress**:
@@ -2658,44 +2714,5 @@ this was all it took:<br>
 
 1.  Codewars
 2.  Anki
-3.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Codewars
-2.  Anki
-3.
-
-### Day 108: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Codewars
-2.  Anki
-3.
+3.  Pillars of OOP
+4.  Start 100Devs calculator
