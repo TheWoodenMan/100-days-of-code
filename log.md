@@ -2684,6 +2684,107 @@ this was all it took:<br>
 2.  Read intro to Github 📖
 3.  Made a stopwatch app using OOP and functional programming ⏱️
 4.  Made the stopwatch from scratch, no templates - but it needs testing/debugging 📋✏️
+    https://thewoodenman.github.io/basic-stopwatch/
+5.  Pushed a codewars.
+
+**Thoughts**
+
+1.  Making the stopwatch was tough, I really wanted to make it using objects since I need the practice there.
+    But as I made it, I realised my initial design wasn't the most efficient way to do it, so I switched it up and used functional programming to make more sense of it.
+2.  Things I got tripped up on: use of .this for programming calling methods from within the object - I got stuck on this for a few hours and there wasn't a huge amount of easy to read documentation on the internet about it - until I picked out a stack overflow that explained a bit about .this and scope - basically declaring a variable of `const self = this;` in the private variables solved the issue, since the functions Couldn't call outside of their own scope and the calls couldn't see the other methods outside of their own block.
+3.  the next thing I ran into was unix time conversion issues. The problem was that the date grabs were in date format and werent compatible with miliseconds. Everything worked right up until I had to "pause" the count and do a second "lap", the program was forgetting it's place and starting from 0 again each time, I had to trace through until I found the problem - I had been deducting the difference from the "end" time when instead I should have been adding it to the start time - that basically solved it.
+
+**Link(s) to work**
+
+1.  https://thewoodenman.github.io/basic-stopwatch/
+2.  https://youtu.be/PFmuCDHHpwk
+3.  https://youtu.be/0fKg7e37bQE​
+
+**Plan for tomorrow**
+
+1.  Codewars
+2.  Anki
+3.  https://javascript.info/ Whole Chapter - Objects: the basics
+
+### Day 123: July 17, 2022
+
+**Today's Progress**:
+
+1.  Worked on a Client Web Project 📋🖊️
+2.  CSS toggle switch for a dual-language website. 🇬🇧/🇵🇹
+3.  Modified html5up js and jQuery to accept different states..! ☕
+4.  The footer is still broken, but I'll try again 2m! 👢
+5.  50-60 Anki cards 📇
+
+**Thoughts**
+
+1.  Working on this project has been excellent but also quite technical and stressful. When I realised what was needed as a result of the language toggle switch - I realised it was a daunting task and nearly choked.
+2.  I kept pushing though and had to pick over the jQuery and js files in the html5up template in quite close detail, fixing and modifying the code to support both languages without fully breaking it.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Codewars
+2.  Anki
+3.  Pillars of OOP
+4.  Start 100Devs calculator
+5.  Class
+
+### Day 124: July 18, 2022
+
+**Today's Progress**:
+
+1.  Class 23 #100Devs 🤝
+2.  Anki 📇
+3.  8th kyu codewars 🦀
+
+**Thoughts**
+
+1.  https://javascript.info/ Whole Chapter - Objects: the basics 🍎
+2.  100Devs - Calculator Project - Spent a few hours on it. 🧮
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 125: July 2, 2022
+
+**Today's Progress**:
+
+- Finished http://javascript.info - objects the basics.
+- Pushed an 8th kyu codewars
+- Started #100Devs Calculator app, got it looking nice on css and clicking on button press 👍
+
+**Thoughts**
+
+1. Calculator app looks great, but tbh it's not hooked up yet and theres a LOT of work to do to make it work.
+2. I need to just blast through a few of the 8th kyu codewars, they're pretty easy.
+
+**Link(s) to work**
+
+1.  https://github.com/TheWoodenMan/100devs-calculator
+
+**Plan for tomorrow**
+
+1.  Push on with class 24 if time
+2.  Anki
+3.  Codewars 8th kyu
+
+### Day 126: July 2, 2022
+
+**Today's Progress**:
+
+1.  Picked up a new client for a podcast website 🎧
+2.  Used @figma for the first time it's great 📄✏️
+3.  Codewars 8th Kyu 👊
+4.  Flexbox Zombies Ch. 10 🧟
 
 **Thoughts**
 
@@ -2695,11 +2796,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.  Codewars
-2.  Anki
-3.
+1.
 
-### Day 108: July 2, 2022
+### Day 123: July 2, 2022
 
 **Today's Progress**:
 
@@ -2715,7 +2814,328 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.  Codewars
-2.  Anki
-3.  Pillars of OOP
-4.  Start 100Devs calculator
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 123: July 2, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
