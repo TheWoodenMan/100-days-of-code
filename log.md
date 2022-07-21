@@ -2754,7 +2754,7 @@ this was all it took:<br>
 
 1.
 
-### Day 125: July 2, 2022
+### Day 125: July 19, 2022
 
 **Today's Progress**:
 
@@ -2777,12 +2777,12 @@ this was all it took:<br>
 2.  Anki
 3.  Codewars 8th kyu
 
-### Day 126: July 2, 2022
+### Day 126: July 20, 2022
 
 **Today's Progress**:
 
 1.  Picked up a new client for a podcast website 🎧
-2.  Used @figma for the first time it's great 📄✏️
+2.  Used @figma for the first time to make a nice wireframe it's great 📄✏️
 3.  Codewars 8th Kyu 👊
 4.  Flexbox Zombies Ch. 10 🧟
 
