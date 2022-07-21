@@ -2788,7 +2788,9 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
+1.  I like building websites :)
+2.  Figma is great, really useful for planning out those home made html/css sites with no template.
+3.  After showing my client the figma, they had some requests which was really useful to do before getting started on the code and makes it much easier in the long run.
 
 **Link(s) to work**
 
@@ -2796,13 +2798,16 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Push class 24
 
-### Day 123: July 2, 2022
+### Day 127: July 2, 2022
 
 **Today's Progress**:
 
-1.
+1.  Class 24 - Done ✅
+2.  Drafted my proposal for my client with contract 👀
+3.  #100Devs - Fresh Return - Dropped in #CatchUpCrew 🏃
+4.  Codewars 8th Kyu
 
 **Thoughts**
 
