@@ -2800,7 +2800,7 @@ this was all it took:<br>
 
 1.  Push class 24
 
-### Day 127: July 2, 2022
+### Day 127: July 21, 2022
 
 **Today's Progress**:
 
@@ -2811,7 +2811,8 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
+1.  Great to see Leon back on form and 100Devs is popping once more after the break 🥇
+2.  I struggled a bit with the agreement and proposal and a bit of impostor syndrome set it, it feels a little... Mean? to be so formal in setting up business agreements. But tbh I probably need to value my time a bit more and realise that actually - this document will allow me to relax and do better work.
 
 **Link(s) to work**
 
@@ -2819,43 +2820,69 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Tomorrow is a travel day so it's going to be difficult to fit anything in, so anything I can manage is a bonus.
 
-### Day 123: July 2, 2022
+### Day 128: July 22, 2022
 
 **Today's Progress**:
 
-1.
+    1.  Anki on the metro, maybe 20 cards 🚋
+    2.  Pushing on with Class 25/26 tasks ✅
+    3.  Worked on my buffer profile. 🐃
+    4.  Fixed footer bug for client website 🐛
+    5.  Fixed up the buttons on the #100devs Calculator 🧮
+        (While I was travelling)
+    6.  Finished it when I got home! 💯 Just needs media queries
+    https://calcy-386-basic-calculator.netlify.app/
 
 **Thoughts**
 
-1.
+1.  Initially I found the calculator project quite daunting but breaking it up into small pieces and doing them bit by bit made it much more manageable.
+    I'm pretty sure the code is rough and to be honest it needs refactoring desperately - but it works and for decimal points too.
 
 **Link(s) to work**
 
-1.
+1.  https://calcy-386-basic-calculator.netlify.app/
 
 **Plan for tomorrow**
 
-1.
+1.  Class 25
+2.  Portfolio review etc
+3.  Finish the js video I have outstanding
+4.  Push on to APIs
 
-### Day 123: July 2, 2022
+### Day 129: July 2, 2022
 
 **Today's Progress**:
 
-1.
+1.  Read a blog about tailwind 🐦
+2.  Typing practice on keybr.com 86 wpm peak, but tbh I float around 70 mostly ⌨️
+3.  Tweaked media queries on the calc app, just giving it a little care before I abandon it 💌
+4.  Javascript30 Array Cardio 🏋️‍♂️
+5.  Wrote a blog post about self development 📝
+6.  Four Pillars of OOP Revision 🏗️
+7.  #100Devs Class 26 🎢
+8.  Codewars/Anki 📎
 
 **Thoughts**
 
-1.
+1.  Got a lot done today, still quite tired from travelling.
+2.  Loving the possibilities with APIs
+3.  Javascript Array Cardio was quite tough and the instructor breezes through it quite quickly, i'm going to need to do it again.
+4.  I want to tidy up the calc app a bit before I send it off, maybe give it some tlc.
+5.  I need to remember to branch on git before modifying a working release.
 
 **Link(s) to work**
 
-1.
+1.  https://phpprotips.com/the-pros-and-cons-of-tailwindcss
+2.  https://courses.wesbos.com/account/access/62c6193f88db94aff300b5d5/view/194130346
+3.  https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219
 
 **Plan for tomorrow**
 
-1.
+1.  Calc app - update it to include a running total
+2.  API Homework, lets get started
+3.  Codewars/Anki - never skip
 
 ### Day 123: July 2, 2022
 
