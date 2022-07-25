@@ -2884,7 +2884,37 @@ this was all it took:<br>
 2.  API Homework, lets get started
 3.  Codewars/Anki - never skip
 
-### Day 123: July 2, 2022
+### Day 130: July 2, 2022
+
+**Today's Progress**:
+
+1.  Anki - 60 Cards 🗃️
+2.  Started Waifu-Selecta API Game 👀
+3.  Learned about Sass 💁‍♂️ from @tutorialstchr
+4.  Fun with APIs - Made 2 basic sites. ✅
+5.  Cocktail Club Website started 🍸
+6.  #100Devs - Class 27 💪
+    https://cocktail-club-marina-del-rey.netlify.app/
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.  https://www.tutorialsteacher.com/Sass
+2.  https://waifu-selecta.netlify.app/
+3.  https://cocktail-club-marina-del-rey.netlify.app/
+
+**Plan for tomorrow**
+
+1.  Add ingredients/instructions to the cocktail API site.
+2.  Find a 3rd API site idea
+3.  Continue professional checklist
+4.  NASA API media queries
+5.  Add API to portfolio
+
+### Day 131: July 2, 2022
 
 **Today's Progress**:
 
@@ -2902,7 +2932,7 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 132: July 2, 2022
 
 **Today's Progress**:
 
@@ -2920,7 +2950,7 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 133: July 2, 2022
 
 **Today's Progress**:
 
@@ -2938,7 +2968,7 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 134: July 2, 2022
 
 **Today's Progress**:
 
@@ -2956,7 +2986,7 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 135: July 2, 2022
 
 **Today's Progress**:
 
@@ -2974,25 +3004,7 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 123: July 2, 2022
+### Day 136: July 2, 2022
 
 **Today's Progress**:
 
