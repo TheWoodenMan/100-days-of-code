@@ -2851,7 +2851,7 @@ this was all it took:<br>
 3.  Finish the js video I have outstanding
 4.  Push on to APIs
 
-### Day 129: July 2, 2022
+### Day 129: July 23, 2022
 
 **Today's Progress**:
 
@@ -2884,7 +2884,7 @@ this was all it took:<br>
 2.  API Homework, lets get started
 3.  Codewars/Anki - never skip
 
-### Day 130: July 2, 2022
+### Day 130: July 24, 2022
 
 **Today's Progress**:
 
@@ -2898,7 +2898,8 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
+1.  APIs are amazing!
+2.  I need to get some practice on localstorage, but understand how it works now at least.
 
 **Link(s) to work**
 
@@ -2914,41 +2915,58 @@ this was all it took:<br>
 4.  NASA API media queries
 5.  Add API to portfolio
 
-### Day 131: July 2, 2022
+### Day 131: July 25, 2022
 
 **Today's Progress**:
 
-1.
+1.  Practiced localStorage on one of the APIs 📬
+2.  Learned that you can pass objects back and forth to localstorage with JSON methods. 🛳️
+3.  Cocktail Club API app updated to show ingredients and title. 🍸
+4.  Fixed Calcy 386 app to remove eval() and update a subdisplay with calculation 🧮
+5.  Checked in with @joesagine chatting projects and OOP 👾
+6.  Updated my portfolio 📝
 
 **Thoughts**
 
-1.
+1.  Added a bit of depth to two applications today, I think I have a bit of a bias towards just getting them done and on the road, but
+    not to really stick to them and make them really good afterwards.
+2.  Priority on getting eval() out and function() due to security concerns - Always have to take responsibility for users in projects.
 
 **Link(s) to work**
 
-1.
+1.  https://cocktail-club-marina-del-rey.netlify.app/
+2.
 
 **Plan for tomorrow**
 
-1.
+1.  Push on with the last API project.
+2.  More codewars
 
-### Day 132: July 2, 2022
+### Day 132: July 26, 2022
 
 **Today's Progress**:
 
-1.
+1.  Codewars 8th kyu - 5x completed 🥋
+2.  1x 7th Kyu done too. 🥉
+3.  Cards API - Read up on the API 📖
+4.  Made a snap game! :flower_playing_cards 🎴
+    https://snapeasy.netlify.app/
 
 **Thoughts**
 
-1.
+1.  The card api was hard work to be honest and lots of bugs - but it got done
+2.  Learned more about localstorage and APIs as well as doing some solid work with setTimer and clearTimer
 
 **Link(s) to work**
 
-1.
+1.  https://snapeasy.netlify.app/
 
 **Plan for tomorrow**
 
-1.
+1.  Class 28
+2.  Professional Checklist
+3.  Take a look at FCC JSX?
+4.  Do a little CAPM
 
 ### Day 133: July 2, 2022
 
