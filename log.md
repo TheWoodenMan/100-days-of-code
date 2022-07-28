@@ -2972,7 +2972,9 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  Bugfixes on snapeasy API game
+2.  Class 28 #100Devs #CatchUpCrew
+3.
 
 **Thoughts**
 
