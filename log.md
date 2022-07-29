@@ -2972,17 +2972,19 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.  Bugfixes on snapeasy API game
-2.  Class 28 #100Devs #CatchUpCrew
-3.
+1.  Bugfixes on snapeasy API game 🐛
+2.  Class 28 #100Devs #CatchUpCrew More API fun 🐲
+3.  Updated documentation for many of my github projects 📋
+4.  Responded to feedback on snapeasy to fix bugs and improve UI 📣
 
 **Thoughts**
 
-1.
+1.  Intro to JS - Codecademy
 
 **Link(s) to work**
 
-1.
+1.  https://www.youtube.com/watch?v=G7XJRLaq2Cw&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=27
+2.  https://github.com/TheWoodenMan
 
 **Plan for tomorrow**
 
@@ -2992,15 +2994,19 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  Intro to JS - Codecademy - Variables/Conditionals Done ✅
+2.  FCC - JSX/React - 43% 🏰
+3.  Codewars 8th Kyu did 5x
+4.  Codewars - reached 6th Kyu!
 
 **Thoughts**
 
-1.
+1.  React is HARD, I swear none of this stuff is going to make sense until I actually use it in a project.
+2.  I've been pushing on codewars, 8th kyu is easy so i'm challenging to one-line the answers. I can do 5+ per day.
 
 **Link(s) to work**
 
-1.
+1.  https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-stateful-component
 
 **Plan for tomorrow**
 
