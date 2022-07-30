@@ -3011,7 +3011,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Survive and do a little :')
 
 ### Day 135: July 2, 2022
 
@@ -3025,17 +3025,19 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-1.
+1.  OwO
 
 **Plan for tomorrow**
 
-1.
+1.  Push through Intro to JS on Codecademny -
+2.  Functions/Scope/Arrays/Loops/Iterators/Objects
+3.  Class 29 #100Devs
 
 ### Day 136: July 2, 2022
 
 **Today's Progress**:
 
-1.
+1.  Codecademy Intro to JS: Arrays/Loops
 
 **Thoughts**
 
