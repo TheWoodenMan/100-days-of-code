@@ -3017,11 +3017,11 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  Got an hour of anki in
 
 **Thoughts**
 
-1.
+1.  Really full day of work, karate and then ran DnD, Friday is always my lightest coding day.
 
 **Link(s) to work**
 
