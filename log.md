@@ -2994,10 +2994,11 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.  Intro to JS - Codecademy - Variables/Conditionals Done ✅
-2.  FCC - JSX/React - 43% 🏰
-3.  Codewars 8th Kyu did 5x
-4.  Codewars - reached 6th Kyu!
+1.  Intro to JS - Codecademy 💻
+2.  Variables/Conditionals/Functions/Scope Done ✅
+3.  FCC - JSX/React - 43% 🏰
+4.  Codewars 8th Kyu did 5x 👍
+5.  Codewars - reached 6th Kyu! 💯
 
 **Thoughts**
 
