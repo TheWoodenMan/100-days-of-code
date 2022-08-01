@@ -3054,7 +3054,7 @@ this was all it took:<br>
 2.  professional checklist - get it done
 3.  Work on local client prospecting?
 
-### Day 123: July 2, 2022
+### Day 137: July 2, 2022
 
 **Today's Progress**:
 
@@ -3063,6 +3063,7 @@ this was all it took:<br>
 3.  Codewars - 7th Kyu 🪵
 4.  Started Eloquent JS Ch.6 Objects 🎱
 5.  Tuned in for @mayanwolfe stream 🐺
+6.  Installed Java IDE and experimented a bit ☕
 
 **Thoughts**
 
@@ -3074,7 +3075,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Finish Flexbox Zombies
 
 ### Day 123: July 2, 2022
 
