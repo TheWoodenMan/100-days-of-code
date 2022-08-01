@@ -2999,6 +2999,7 @@ this was all it took:<br>
 3.  FCC - JSX/React - 43% 🏰
 4.  Codewars 8th Kyu did 5x 👍
 5.  Codewars - reached 6th Kyu! 💯
+6.  #100Devs - Class 30 - OOP 🐙
 
 **Thoughts**
 
@@ -3029,33 +3030,39 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.  Push through Intro to JS on Codecademny -
-2.  Functions/Scope/Arrays/Loops/Iterators/Objects
-3.  Class 29 #100Devs
-
 ### Day 136: July 2, 2022
 
 **Today's Progress**:
 
-1.  Codecademy Intro to JS: Arrays/Loops
+1.  Push through Intro to JS on Codecademny 🌄
+2.  Functions/Scope/Arrays/Loops/Iterators/Objects 🚚
+3.  Class 29 #100Devs 🥅👍
 
 **Thoughts**
 
-1.
+1.  The intro to JS is a great super-review for JS, 98% of it I know already but there were a few details especially on objects,
+    that I must have missed on the first pass.
+2.  If I can fit in anki/codewars every day that will really help with my consistency.
 
 **Link(s) to work**
 
-1.
+1.  https://www.youtube.com/watch?v=EOjUT746oLs
 
 **Plan for tomorrow**
 
-1.
+1.  Push on with intro to JS - finish him!
+2.  professional checklist - get it done
+3.  Work on local client prospecting?
 
 ### Day 123: July 2, 2022
 
 **Today's Progress**:
 
-1.
+1.  Intro to JS - Objects/Advanced Objects 🧊
+2.  Finished @codecademy Intro to JS 💪
+3.  Codewars - 7th Kyu 🪵
+4.  Started Eloquent JS Ch.6 Objects 🎱
+5.  Tuned in for @mayanwolfe stream 🐺
 
 **Thoughts**
 
