@@ -3129,8 +3129,8 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
-2.
+1. Flexbox zombies was an excellent way to practice spaced repetition on flexbox.  
+   I'm glad I didn't race through it and took my time with it.
 
 **Link(s) to work**
 
@@ -3167,7 +3167,26 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 143: August 7, 2022
+
+**Today's Progress**:
+
+1.  Optimised my portfolio for SEO 👀
+2.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
 
 **Today's Progress**:
 
@@ -3185,7 +3204,331 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 143: August 6, 2022
 
 **Today's Progress**:
 
