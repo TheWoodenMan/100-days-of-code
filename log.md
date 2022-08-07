@@ -2968,7 +2968,7 @@ this was all it took:<br>
 3.  Take a look at FCC JSX?
 4.  Do a little CAPM
 
-### Day 133: July 2, 2022
+### Day 133: July 27, 2022
 
 **Today's Progress**:
 
@@ -2990,7 +2990,7 @@ this was all it took:<br>
 
 1.
 
-### Day 134: July 2, 2022
+### Day 134: July 28, 2022
 
 **Today's Progress**:
 
@@ -3014,7 +3014,7 @@ this was all it took:<br>
 
 1.  Survive and do a little :')
 
-### Day 135: July 2, 2022
+### Day 135: July 29, 2022
 
 **Today's Progress**:
 
@@ -3030,7 +3030,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-### Day 136: July 2, 2022
+### Day 136: July 30, 2022
 
 **Today's Progress**:
 
@@ -3054,7 +3054,7 @@ this was all it took:<br>
 2.  professional checklist - get it done
 3.  Work on local client prospecting?
 
-### Day 137: July 2, 2022
+### Day 137: July 31, 2022
 
 **Today's Progress**:
 
@@ -3065,27 +3065,50 @@ this was all it took:<br>
 5.  Tuned in for @mayanwolfe stream 🐺
 6.  Installed Java IDE and experimented a bit ☕
 
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
 **Plan for tomorrow**
 
 1.  Finish Flexbox Zombies
 
-### Day 123: July 2, 2022
+### Day 138: August 1, 2022
 
 **Today's Progress**:
 
-1.
+1.  thejsway Ch. 9 Read/Done ✅
+2.  3x Codewars 7th Kyu 🥋
+3.  OOP by Mosh on Youtube 🧊
+4.  Flexbox Zombies Ch.11 🧟
+5.  Codecademy Learn Java - variables ☕;
+
+### Day 139: August 2, 2022
+
+**Today's Progress**:
+
+1.  3x Codewars 7th Kyu 🥋
+2.  #100Devs Class 31
+
+### Day 14-: August 3, 2022
+
+**Today's Progress**:
+
+1. 60 Anki Cards
 
 **Thoughts**
 
-1.
+1.  Light learning day due to work deployments
+
+### Day 141: August 4, 2022
+
+**Today's Progress**:
+
+1.  40 Anki Cards
+2.  Rewatched #100Devs Class 131 on Polymorphism
+3.  Got user feedback for some of my API apps.
+
+**Thoughts**
+
+1.  The user feedback was especially useful, with the snap game - after the snap game when they won they thought
+    the computer had so I need to make it more obvious that it's you that won.
+2.  The feedback on the CeX franchising website was very good and I need to push it forward to client.
 
 **Link(s) to work**
 
@@ -3095,29 +3118,41 @@ this was all it took:<br>
 
 1.
 
-### Day 123: July 2, 2022
+### Day 142: August 5, 2022
 
 **Today's Progress**:
 
-1.
+1.  Anki 48x 🗃️
+2.  Codewars 8th Kyu x2 ✋
+3.  Codewars 7th Kyu 🥋
+4.  Flexbox Zombies Ch12 Done and Finished 🧟
 
 **Thoughts**
 
 1.
+2.
 
 **Link(s) to work**
 
-1.
+1.  https://mastery.games/flexboxzombies/chapter/12/level/13
 
 **Plan for tomorrow**
 
-1.
+1.  Build tic tac toe
+2.  try and start java algos
+3.  Play with classes
+4.  Class 32
 
-### Day 123: July 2, 2022
+### Day 143: August 6, 2022
 
 **Today's Progress**:
 
-1.
+1.  6th Kyu codewars x1 🥋
+2.  Browsed the Gitlab Handbook 📖
+3.  Updated my snap game API based on user feedback 🎴
+4.  Went through the first few algorithms on structy 📊
+5.  #100Devs Class 32 🖥️
+6.  CAPM training with network schedule analysis 📈
 
 **Thoughts**
 
@@ -3126,60 +3161,7 @@ this was all it took:<br>
 **Link(s) to work**
 
 1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 123: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 123: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 123: July 2, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+2. https://about.gitlab.com/handbook/
 
 **Plan for tomorrow**
 
