@@ -3167,12 +3167,42 @@ this was all it took:<br>
 
 1.
 
-### Day 143: August 7, 2022
+### Day 144: August 7, 2022
 
 **Today's Progress**:
 
-1.  Optimised my portfolio for SEO 👀
-2.
+1.  Optimised my portfolio for SEO👀
+2.  Forked tictactoe from @/mountkepi🍴
+3.  Converted tictactoe to OOP and helped bugfix🐛
+4.  Improved my porfolio🖊️
+5.  Pushed to gravityclicker🪐
+6.  Watched crafting a story #100Devs📝
+7.  Started nodejsera day 1 🫕
+
+**Thoughts**
+
+1.  I'm noticing that I have less trouble just doing things, the work I did for
+    tictactoe and gravity clicker was actually quite smooth and I had to look up less and just.. did it?
+
+**Link(s) to work**
+
+1.  https://www.link-assistant.com/news/html-tags-for-seo.html
+2.  https://www.google.com/webmasters/markup-helper/
+3.  https://nodejsera.com/nodejs-tutorial-day1-thebeginning.html
+
+**Plan for tomorrow**
+
+1.  Class 33 #100Devs
+2.  Codewars/anki
+3.
+
+### Day 145: August 8, 2022
+
+**Today's Progress**:
+
+1. codewars 7th Kyu x3 🥋
+2. #100Devs Class 33 ♾️
+3. Nodejsera Day 2 🎶
 
 **Thoughts**
 
@@ -3180,61 +3210,60 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-1.
+1.  https://nodejsera.com/nodejs-tutorial-day2-filesystem.html
 
 **Plan for tomorrow**
 
-1.
+1.  Nodejesera day 3
+2.  Codewars using PREP
+3.  More Anki
+
+### Day 146: August 9, 2022
+
+**Today's Progress**:
+
+1.  Translated client site to portuguese 🇵🇹
+2.  codewars 7th kyu x2 6th x1 🥋
+3.  Watched @jaffathecake The Event Loop➿
+4.  Watched the async/await episode by  
+    @fireship_dev 🔥
+5.  Started javascript.info async ☕
+
+**Thoughts**
+
+1.  I like refactoring the codewars ones down to one line if possible, it's really satisfying.
+2.  async/await to be honest is super confusing - I think I just need to start using it to understand as always.
+
+**Link(s) to work**
+
+1.  https://www.youtube.com/watch?v=cCOL7MC4Pl0
+2.  https://javascript.info/async
+
+**Plan for tomorrow**
+
+1.  Catch up on anki
+2.  Start on banki questions
+3.  nodejsera day 3
 
 ### Day 143: August 6, 2022
 
 **Today's Progress**:
 
-1.
+1.  80+ Anki Cards 🎴
+2.  Codewars 7th kyu 🥋 x2 (passed 200 wew!)
+3.  nodejsera day 3 & 4. 🫕
+4.  Started javascript.info async - 1. Callbacks
 
 **Thoughts**
 
-1.
+1.  From looking at some of the codewards, It's clear that I'm more comfortable using string methods than array methods
+    since the first thing I tend to do is turn the string into an array to work on. I need to start being more comfortable with
+    string methods like .match .search .slice .substring .replace etc etc
 
 **Link(s) to work**
 
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+1.  https://nodejsera.com/nodejs-tutorial-day3-regular-expressions.html
+2.  https://javascript.info/async
 
 **Plan for tomorrow**
 
