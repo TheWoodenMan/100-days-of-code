@@ -3245,14 +3245,17 @@ this was all it took:<br>
 2.  Start on banki questions
 3.  nodejsera day 3
 
-### Day 143: August 6, 2022
+### Day 147: August 10, 2022
 
 **Today's Progress**:
 
 1.  80+ Anki Cards 🎴
 2.  Codewars 7th kyu 🥋 x2 (passed 200 wew!)
 3.  nodejsera day 3 & 4. 🫕
-4.  Started javascript.info async - 1. Callbacks
+4.  Started javascript.info async - 1. Callbacks 🤙
+5.  Read the first chapter of Radical Focus by @cwodtke 🔍
+    Did most of this on the train and had a night off except for the reading!
+    Watched Oxygen on Netflix :) 🅾️
 
 **Thoughts**
 
