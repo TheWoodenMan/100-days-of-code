@@ -3272,11 +3272,14 @@ this was all it took:<br>
 
 1.
 
-### Day 143: August 6, 2022
+### Day 148: August 11, 2022
 
 **Today's Progress**:
 
-1.
+1.  Read more of Radical Focus, the Case Study. 🫖
+2.  MIT Missing Semester - Lecture 1 🥗
+3.  Anki -
+4.  Codewars
 
 **Thoughts**
 
