@@ -3277,21 +3277,30 @@ this was all it took:<br>
 **Today's Progress**:
 
 1.  Read more of Radical Focus, the Case Study. 🫖
-2.  MIT Missing Semester - Lecture 1 🥗
-3.  Anki -
-4.  Codewars
+2.  MIT Missing Semester - Lecture 1 notes 🥗
+3.  #100Devs - Class 35 Back End Babyyyy 🐤
+4.  Codewars 7th Kyu x1 🥋
+5.  Nodejsera Day 5 🍜
 
 **Thoughts**
 
-1.
+1.  Really keen to get started with the back end node.js :)
+2.  Radical Focus is interesting, set out as an allegory, it's already given me some great ideas about how to implement OKRs
+3.  nodejsera is not going to make much sense until I put it into practice - Really need a project that uses callbacks/promises/async-await
 
 **Link(s) to work**
 
-1.
+1.  https://missing.csail.mit.edu/2020/course-shell/
+2.  https://www.youtube.com/watch?v=IUCnAhr61pg
+3.  https://nodejsera.com/nodejs-tutorial-day5-all-about-errors.html
 
 **Plan for tomorrow**
 
-1.
+1.  Banki
+2.  Professional Links
+3.  Run simple node.js server
+4.  Make a coin flip game where calculation happens in the back end - Probably saturday
+5.  MIT Missing Semester - Lecture 1 video 🥗 - Watch it
 
 ### Day 143: August 6, 2022
 
