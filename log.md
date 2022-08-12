@@ -3306,7 +3306,9 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-1.
+1.  2nd Draft PT translation because my Portuguese is so bad 🇵🇹
+2.  MIT Missing Semester - Lecture 1 video - the Shell 🐚
+3.  Codewars 7th Kyu x1 🥋
 
 **Thoughts**
 
