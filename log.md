@@ -3309,7 +3309,7 @@ this was all it took:<br>
 1.  2nd Draft PT translation because my Portuguese is so bad 🇵🇹
 2.  MIT Missing Semester - Lecture 1 video & exercises - the Shell 🐚
 3.  Codewars 7th Kyu x1 🥋
-4.  Anki Cards
+4.  Anki Cards 🎴
 
 **Thoughts**
 
