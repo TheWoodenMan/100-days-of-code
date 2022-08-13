@@ -3302,14 +3302,14 @@ this was all it took:<br>
 4.  Make a coin flip game where calculation happens in the back end - Probably saturday
 5.  MIT Missing Semester - Lecture 1 video 🥗 - Watch it
 
-### Day 143: August 6, 2022
+### Day 149: August 6, 2022
 
 **Today's Progress**:
 
 1.  2nd Draft PT translation because my Portuguese is so bad 🇵🇹
 2.  MIT Missing Semester - Lecture 1 video & exercises - the Shell 🐚
 3.  Codewars 7th Kyu x1 🥋
-4.  Anki
+4.  Anki Cards
 
 **Thoughts**
 
@@ -3323,7 +3323,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Finish professional docs
+2.  Read more of Radical Focus
+3.  node.js homework
 
 ### Day 143: August 6, 2022
 
