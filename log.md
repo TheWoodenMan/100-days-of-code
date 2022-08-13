@@ -3302,7 +3302,7 @@ this was all it took:<br>
 4.  Make a coin flip game where calculation happens in the back end - Probably saturday
 5.  MIT Missing Semester - Lecture 1 video 🥗 - Watch it
 
-### Day 149: August 6, 2022
+### Day 149: August 12, 2022
 
 **Today's Progress**:
 
@@ -3327,11 +3327,12 @@ this was all it took:<br>
 2.  Read more of Radical Focus
 3.  node.js homework
 
-### Day 143: August 6, 2022
+### Day 150: August 13, 2022
 
 **Today's Progress**:
 
-1.
+1.  Coffee Chat With @renners7777 ☕
+2.
 
 **Thoughts**
 
