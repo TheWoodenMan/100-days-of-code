@@ -3307,12 +3307,15 @@ this was all it took:<br>
 **Today's Progress**:
 
 1.  2nd Draft PT translation because my Portuguese is so bad 🇵🇹
-2.  MIT Missing Semester - Lecture 1 video - the Shell 🐚
+2.  MIT Missing Semester - Lecture 1 video & exercises - the Shell 🐚
 3.  Codewars 7th Kyu x1 🥋
+4.  Anki
 
 **Thoughts**
 
-1.
+1.  A lighter day because of pf2e
+2.  set up my IDE for foundryvtt-starfinder, going to see if I can contribute to that.
+3.  https://missing.csail.mit.edu/2020/course-shell/
 
 **Link(s) to work**
 
