@@ -3332,43 +3332,60 @@ this was all it took:<br>
 **Today's Progress**:
 
 1.  Coffee Chat With @renners7777 ☕
+    Keep pushing, lets get a project going ! :)
+2.  Codewars 4th Kyu - My first one! 🤜
+3.  Ranked up to 5th Kyu overall 🤲
+4.
+
+**Thoughts**
+
+1.  my 4th kyu solution was a bit of a mess compared to the top answer.. but it worked!
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 151: August 6, 2022
+
+**Today's Progress**:
+
+1.  Read Javascript for Dinosaurs 🦎
+2.  Read up on Chakra-UI to try to help open source projects ⚛️
+3.  Caught the live @mayanwolfe stream 👍
+4.  Watched Let's Install Node.js and Do Cool Stuff With It! #100Devs
+    https://www.youtube.com/watch?v=VOfqO4-RLd4
+5.  Completed my first full stack app 🥞
+    a coin flipper that pulls the results from a server!
+
+**Thoughts**
+
+1.  Node was an arm wrestle to get working, but after debugging - a lot of the problems were down to the same old stuff. e.g.
+    typos, brackets and path errors!
+2.  I couldn't get the src or audio working on the coin flip - I think it's something to do with the rendering order, possibly it might
+    be worth passing data to localStorage and getting/setting while refreshing.
+
+**Link(s) to work**
+
+1.  https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+2.  https://chakra-ui.com/getting-started
+
+**Plan for tomorrow**
+
+1.  Tidy up the full stack app and see what's going on
+2.  Class 36 - lets push 💪
+3.  Check in with @Dylan on projects
+4.  Check in on Open source and freelance
+
+### Day 143: August 6, 2022
+
+**Today's Progress**:
+
+1.  Back to CAPM - Completed project schedule management.
 2.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
 
 **Thoughts**
 
