@@ -3380,16 +3380,23 @@ this was all it took:<br>
 3.  Check in with @Dylan on projects
 4.  Check in on Open source and freelance
 
-### Day 143: August 6, 2022
+### Day 152: August 6, 2022
 
 **Today's Progress**:
 
-1.  Back to CAPM - Completed project schedule management.
-2.
+1.  Back to CAPM - Completed project schedule management. 📋
+2.  #100Devs Class 36 👍
+3.  Refactored node.js code for practice 🏭
+4.  Codewars 7th/8th kyus 🥋
+5.  Started prepping the bank 🏦
+6.  Ran through express.js quickstart ⏩
 
 **Thoughts**
 
-1.
+1.  the more I work with node, the more I understand
+2.  Reading through open source projects - tbh I need to make sure I am familiar with the frameworks and languages before contributing,
+    there is a lot of React/Typescript around.
+3.  Pushed CAPM - Kind of want to just get through that course, turning the multiple choice questions into anki at the end of each section.
 
 **Link(s) to work**
 
@@ -3397,7 +3404,9 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.
+1.  Push Class 37, it's a short one
+2.  Try and set up project work for Saturday, full stack app, maybe set up the coin flip to be more responsive/have images and audio
+3.
 
 ### Day 143: August 6, 2022
 
