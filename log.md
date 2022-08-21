@@ -3349,7 +3349,7 @@ this was all it took:<br>
 
 1.
 
-### Day 151: August 6, 2022
+### Day 151: August 14, 2022
 
 **Today's Progress**:
 
@@ -3380,7 +3380,7 @@ this was all it took:<br>
 3.  Check in with @Dylan on projects
 4.  Check in on Open source and freelance
 
-### Day 152: August 6, 2022
+### Day 152: August 15, 2022
 
 **Today's Progress**:
 
@@ -3398,111 +3398,87 @@ this was all it took:<br>
     there is a lot of React/Typescript around.
 3.  Pushed CAPM - Kind of want to just get through that course, turning the multiple choice questions into anki at the end of each section.
 
-**Link(s) to work**
-
-1.
-
 **Plan for tomorrow**
 
 1.  Push Class 37, it's a short one
 2.  Try and set up project work for Saturday, full stack app, maybe set up the coin flip to be more responsive/have images and audio
 3.
 
-### Day 143: August 6, 2022
+### Day 153: August 16, 2022
 
 **Today's Progress**:
 
-1.
+1.  Codewars/Anki 🐊
+2.  CAPM - Started Project Costs 📽️
+3.  Started FCC Back End Dev & APIs & up to 50% 🔙
+4.  #100Devs class 37 💪
+5.  What the heck is the event loop anyway? by Phillip Roberts
+
+### Day 154: August 17, 2022
+
+**Today's Progress**:
+
+1. Anki Only
+
+### Day 155: August 18, 2022
+
+**Today's Progress**:
+
+1.  Anki
+2.  FreeCodeCamp BackEnd and APis to 70%
 
 **Thoughts**
 
-1.
+1.  FCC Backend to 100% (package management)
 
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
+### Day 156: August 19, 2022
 
 **Today's Progress**:
 
-1.
+1.  Codewars 7th kyu 🥋
+2.  FCC Backend express 50% 🚚
+3.  Anki review 🗃️
+
+**Plan for tomorrow**
+
+1.  Get a solid hour of CAPM in
+2.  Push on with FCC Express
+3.  Get Building with node.js
+4.  Push on to class 38
+5.  Codewars
+6.  Add faqs and gdpr t&c popup to client side
+
+### Day 157: August 6, 2022
+
+**Today's Progress**:
+
+1.  🩹Struggled with FCC express, it works but tests don't pass :(
+2.  🀄Read @zellwk Crud/Express/MongoDB and built along
+3.  ☕Coffee Chat with @hanzla_saadi Great to meet you :)
+4.  🥋Codewars 7th Kyu
+5.  💪#100Devs Class 38 - Lets go!
 
 **Thoughts**
 
-1.
+1.  Mongodb and express are hard going but I felt the same way about apis at first so lets keep pushing.
 
 **Link(s) to work**
 
-1.
+1.  https://zellwk.com/blog/crud-express-mongodb/
 
 **Plan for tomorrow**
 
-1.
+1.  Push on with codewars/anki
+2.  Think about a second pass with mongodb
+3.  client site modal still needs doing 👀
+4.  play with heroku
+5.  maybe I could make the coin flip app express ready with images
 
 ### Day 143: August 6, 2022
 
 **Today's Progress**:
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
+1.  🥋Codewars 7th Kyu
 
 **Thoughts**
 
