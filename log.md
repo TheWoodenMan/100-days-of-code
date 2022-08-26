@@ -3448,7 +3448,7 @@ this was all it took:<br>
 5.  Codewars
 6.  Add faqs and gdpr t&c popup to client side
 
-### Day 157: August 6, 2022
+### Day 157: August 20, 2022
 
 **Today's Progress**:
 
@@ -3474,83 +3474,105 @@ this was all it took:<br>
 4.  play with heroku
 5.  maybe I could make the coin flip app express ready with images
 
-### Day 143: August 6, 2022
+### Day 158: August 21, 2022
 
 **Today's Progress**:
 
 1.  🥋Codewars 7th Kyu
+2.  🖥️#100Devs Office Hours
+3.  🚧Mayanwolfe MVC Stream
+4.  🗃️Anki Catchup, maybe 100 cards or so
 
 **Thoughts**
 
-1.
+1.  I needed the rest so I ended early, nearly fell asleep at the keys!
+2.  Great to check in on the live classes, even though I'm not up to MVC yet.
+
+**Plan for tomorrow**
+
+1.  Try FCC again with more research
+2.  I left around 40 anki cards to do, pick that up.
+3.  Pick up codewars, think about doing 6th kyu
+4.  Work more with mongodb/express
+
+### Day 159: August 22, 2022
+
+**Today's Progress**:
+
+1.  Fullstackopen Pt3 got maybe 70% done then got stuck 🦀
+2.  Watched @Mayanwolfe guide to node/express got me unstuck 👍
+    Spent a few hours on it and made a nice API, happy with the results :)
+3.  Anki
+4.  Codewars 7th Kyu
 
 **Link(s) to work**
 
-1.
+1.  https://fullstackopen.com/en/part3/node_js_and_express
+2.  https://www.youtube.com/watch?v=tS7VK8Qn7YA
+
+### Day 160: August 23, 2022
+
+**Today's Progress**:
+
+1.  FCC Backend Basic Node/express - 100% 🗡️
+2.  FCC MongoDB/Mongoose - Started 📅
+3.  Hosted the FCC boilerplate on heroku/mongoDB 🚘
+4.  #100Devs Class 39 - Building APIs 🏣
+5.  #100Devs Class 48! - the Hunt 📶
+
+**Thoughts**
+
+1.  Really pushing hard on the backend now and it's starting to be more familiar.
+
+**Link(s) to work**
+
+1.  https://www.freecodecamp.org/learn/back-end-development-and-apis/
+2.  https://dashboard.heroku.com/apps/twm-fcc-mongodb-mongoose/
+3.  https://www.youtube.com/watch?v=zHq0v5RD_Zk
+4.
 
 **Plan for tomorrow**
 
 1.
 
-### Day 143: August 6, 2022
+### Day 161: August 6, 2022
 
 **Today's Progress**:
 
-1.
+1.  Read a great article about REST APIs 📖
+2.  Pushed a little with FCC Mongo/mongoose - 50% 🥃
+3.  Wrestled heroku, pretty much all day... 🐊
+4.  Went back to replit for an instant fix 👀
+5.  Hanging out quietly with #100devs 🫂
+6.  Codewars/Anki - trying not to skip 🥋
+7.  Banki - going to do one per day 🧷
 
 **Thoughts**
 
-1.
+1.  had a bit of a time with heroku again today, can't seem to get it to stay up
+    and every time I connect to it it seems to be down. Restarts don't work straight away and it doesn't seem
+    to have a pattern.
 
 **Link(s) to work**
 
-1.
+1.  https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 
 **Plan for tomorrow**
 
-1.
+1.  Push on with API work
+2.  Try and get further with FCC
+3.  Check in with 100devs in case we can get group work going.
 
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
+### Day 162: August 6, 2022
 
 **Today's Progress**:
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 143: August 6, 2022
-
-**Today's Progress**:
-
-1.
+1.  Rip Free Heroku 😭
+2.  Managed to host my recruitment api on repl.it 🧑‍💼
+3.  Codewars 8th/7th
+4.  Added to banki 🏦
+5.  #100Devs Class 40 ✅
+6.  #100Devs Remo Prep Night 🙌
 
 **Thoughts**
 
