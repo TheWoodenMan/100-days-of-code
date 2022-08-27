@@ -3603,7 +3603,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-1.  CAPM Training 🍅
+1.  CAPM Training 🍅🍅
 2.  Mongo DB for my app 🍅 🍅
 3.  watch class 41 🍅 🍅 🍅
 4.  Codewars 🍅
@@ -3614,7 +3614,7 @@ this was all it took:<br>
 **Today's Progress**:
 
 1.  Finished CAPM Project Cost Management
-2.
+2.  Read up on mongodb commands
 
 **Thoughts**
 
@@ -3622,7 +3622,7 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-1.
+1.  https://www.mongodb.com/docs/manual/reference/operator/aggregation/sample/#mongodb-pipeline-pipe.-sample
 
 **Plan for tomorrow**
 
