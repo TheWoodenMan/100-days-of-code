@@ -3576,39 +3576,45 @@ this was all it took:<br>
 
 **Thoughts**
 
-1.
-
-**Link(s) to work**
-
-1.
+1.  Had a great time networking with other 100Devs
 
 **Plan for tomorrow**
 
-1.
+1.  Do more work on mongodb
 
-### Day 143: August 6, 2022
+### Day 163: August 6, 2022
 
 **Today's Progress**:
 
-1.
+1.  Researched RNG in mongoDB 🎲
+2.  updated my API to handle POST requess 🏣
+3.  codewars 8th/7th 🥋
+4.  Read a good article on react thinking (thanks @EmReedCodes)
+5.  Ran PF2e - my players are up to some shenanigans, oh dear! 👀
 
 **Thoughts**
 
-1.
+1.  I've been doing some more research on mongoDB - it's incredibly powerful. Object based and capable
+    of handling literally millions of records. I'm looking forward to gaining more familiarity in it's use.
 
 **Link(s) to work**
 
-1.
+1.  https://www.mongodb.com/blog/post/how-to-perform-random-queries-on-mongodb
 
 **Plan for tomorrow**
 
-1.
+1.  CAPM Training 🍅
+2.  Mongo DB for my app 🍅 🍅
+3.  watch class 41 🍅 🍅 🍅
+4.  Codewars 🍅
+5.  Anki 🍅
 
 ### Day 143: August 6, 2022
 
 **Today's Progress**:
 
-1.
+1.  Finished CAPM Project Cost Management
+2.
 
 **Thoughts**
 
