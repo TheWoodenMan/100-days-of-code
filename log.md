@@ -3535,7 +3535,7 @@ this was all it took:<br>
 
 1.
 
-### Day 161: August 6, 2022
+### Day 161: August 24, 2022
 
 **Today's Progress**:
 
@@ -3563,7 +3563,7 @@ this was all it took:<br>
 2.  Try and get further with FCC
 3.  Check in with 100devs in case we can get group work going.
 
-### Day 162: August 6, 2022
+### Day 162: August 25, 2022
 
 **Today's Progress**:
 
@@ -3582,7 +3582,7 @@ this was all it took:<br>
 
 1.  Do more work on mongodb
 
-### Day 163: August 6, 2022
+### Day 163: August 26, 2022
 
 **Today's Progress**:
 
@@ -3609,12 +3609,102 @@ this was all it took:<br>
 4.  Codewars 🍅
 5.  Anki 🍅
 
-### Day 143: August 6, 2022
+### Day 164: August 27, 2022
 
 **Today's Progress**:
 
-1.  Finished CAPM Project Cost Management
-2.  Read up on mongodb commands
+1.  Finished CAPM Project Cost Management 📈
+2.  Read up on mongodb commands 🥬
+3.  Implemented search by ID, value, replace and create new on my API! 🆔
+4.  Watched @mayanwolfe 's CRUD/Heroku guide ty! 🐺
+5.  installed mongoose and got it working with save 🐉
+
+**Link(s) to work**
+
+1.  https://www.mongodb.com/docs/manual/reference/operator/aggregation/sample/#mongodb-pipeline-pipe.-sample
+
+**Plan for tomorrow**
+
+1.  Class 41 🍅 🍅 🍅
+2.  Keep improving the API🍅 🍅
+3.  CAPM Training 🍅
+
+### Day 165: August 28, 2022
+
+**Today's Progress**:
+
+1.  More reading on RESTful APIs 📖
+2.  Made my API RESTful compliant 🤝
+3.  Added in mongoose aggregate methods for selections of data 🗃️
+4.  #100Devs Class 41 🥅
+5.  Codewars 8th/7th x2 🥋
+
+**Thoughts**
+
+1.  I'm getting better at the mongoose commands, more intuitive generally but
+    I still couldn't get app.delete working on click from the html/dom
+
+**Link(s) to work**
+
+1.  https://restfulapi.net/rest-api-design-tutorial-with-example/
+
+**Plan for tomorrow**
+
+1.  More API work.
+
+### Day 166: August 29, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.  Worked on client website 👀
+2.  Started CAPM Quality Management 🧮
+3.  #100Devs Office Hours 🏢
+4.  Front-end States with @coding_garden 👍
+5.  On the hunt with @helloitsrufio ⚔️
+    A day of streams, also managed to get the GDPR modal done for client site!
+
+### Day 167: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 167
+
+1.  Tidied up Client site and delivered a draft 🐉
+2.  #100Devs Class 42 💪
+3.  More wrestling with Mongodb 💥
+4.  Codewars 8th Kyu 🥋
+5.  #100Devs Class 50 💅
+6.  Project Niiightt! 🤣
+
+**Thoughts**
+
+1.  Feels good to catch up a bit
+2.  Not 100% ready for the group project but the guys were cool and I think we can work together well.
+3.
+
+**Link(s) to work**
+
+1.  https://cex-portugal-franchising.netlify.app/
+
+**Plan for tomorrow**
+
+1.  Trace through the authentication code
+2.  Contribute to the project issues
+3.  Project call
+4.  Try and fix the REST API
+5.  Push class 43
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.  Read about require/module.exports
+2.  Contributed to project issues
+3.
 
 **Thoughts**
 
@@ -3622,7 +3712,627 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-1.  https://www.mongodb.com/docs/manual/reference/operator/aggregation/sample/#mongodb-pipeline-pipe.-sample
+1.  https://stackify.com/node-js-module-exports/
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.
+
+### Day 163: August 26, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
 
 **Plan for tomorrow**
 
