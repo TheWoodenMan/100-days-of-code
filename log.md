@@ -3696,15 +3696,16 @@ this was all it took:<br>
 4.  Try and fix the REST API
 5.  Push class 43
 
-### Day 163: August 26, 2022
+### Day 168: August 26, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 168
 
-1.  Read about require/module.exports
-2.  Contributed to project issues
-3.
+1.  Read about require/module.exports 📓
+2.  Set up mongodb for Link Manager project 🔗
+3.  Added banner and media queries to client project ✏️
+4.  #100Devs Class 43 💪 (a short one)
 
 **Thoughts**
 
