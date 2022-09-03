@@ -3723,9 +3723,14 @@ this was all it took:<br>
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 169
 
-1.
+1.  Updated client banner 🍌
+2.  Added picocss and tweaked hosting on Recruitment API ✏️
+3.  Coffee Chat with @ninjanordbo 😎
+4.  #100Devs Class 51
+5.  #100Devs Project night on Link Manager 💪
+    (nobody got got!) 🤣
 
 **Thoughts**
 
