@@ -3719,7 +3719,7 @@ this was all it took:<br>
 
 1.
 
-### Day 163: August 26, 2022
+### Day 169: August 26, 2022
 
 **Today's Progress**:
 
@@ -3732,25 +3732,19 @@ this was all it took:<br>
 5.  #100Devs Project night on Link Manager 💪
     (nobody got got!) 🤣
 
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
+### Day 170: August 26, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 170
 
-1.
+1.  Read up on Jest
+2.  Codewars 7th Kyu
+3.  Squeezed in anki
+4.  Coffee chat with a linux engineer working in Manchester :)
+
+Ended up working today, had karate and ran PF2e
+Fridays are always really busy.
 
 **Thoughts**
 
@@ -3758,7 +3752,8 @@ this was all it took:<br>
 
 **Link(s) to work**
 
-1.
+1.  https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2
+2.  https://www.softwaretestinghelp.com/jest-testing-tutorial/
 
 **Plan for tomorrow**
 
