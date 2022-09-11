@@ -3665,7 +3665,7 @@ this was all it took:<br>
 5.  On the hunt with @helloitsrufio ⚔️
     A day of streams, also managed to get the GDPR modal done for client site!
 
-### Day 167: August 26, 2022
+### Day 167: August 30, 2022
 
 **Today's Progress**:
 
@@ -3696,7 +3696,7 @@ this was all it took:<br>
 4.  Try and fix the REST API
 5.  Push class 43
 
-### Day 168: August 26, 2022
+### Day 168: August 31, 2022
 
 **Today's Progress**:
 
@@ -3719,7 +3719,7 @@ this was all it took:<br>
 
 1.
 
-### Day 169: August 26, 2022
+### Day 169: September 1, 2022
 
 **Today's Progress**:
 
@@ -3732,7 +3732,7 @@ this was all it took:<br>
 5.  #100Devs Project night on Link Manager 💪
     (nobody got got!) 🤣
 
-### Day 170: August 26, 2022
+### Day 170: September 2, 2022
 
 **Today's Progress**:
 
@@ -3746,18 +3746,532 @@ this was all it took:<br>
 Ended up working today, had karate and ran PF2e
 Fridays are always really busy.
 
-**Thoughts**
-
-1.
-
 **Link(s) to work**
 
 1.  https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2
 2.  https://www.softwaretestinghelp.com/jest-testing-tutorial/
 
+### Day 171: September 3, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 171
+
+1.  Installed Mocha/testcafe/JEST/ 🃏
+2.  Played around with testing on codewars 🧪
+3.  Codewars 7th kyu 🥋
+4.  Powered through project work 💪
+5.  Created a html scraper to grab titles from websites 👀
+6.  Pair programming with @ganksy and @JackMonaco1 🤜🤛
+
+### Day 172: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 172
+
+1.  Spent a good chunk of the day working on link-manager 🔗
+2.  Researched node based html parsers 👓
+3.  Researched webscraping 🪛
+4.  Got to grips with axious and cheerio 🍒
+5.  Coffee chat with @MattBCoding ☕
+    Real nice chat, we share a mutual interest in TTRPGs! 🎲
+    especially Mothership 🚀🧟
+6.  Went back to my Recruitment API and updated issues 📝
+
+### Day 173: September 5, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 173
+
+1.  Anki - big catch up since I missed a few days 🗃️
+2.  Me and the boys wrestling git like it was an alligator: 👨🧔‍♂️👨‍🎨👨‍🍳🕺 🐊
+    (never push directly to main 🤣 )
+
+### Day 174: September 6, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 174
+
+1.  Documentation & Retrospective for tab-safe 📝
+2.  #100Devs Class 52 🌳
+3.  Finishing touches of project work 🎨
+4.  Got started with microsoft azure 📘
+5.  Started intro to azure 💠
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.  https://docs.microsoft.com/en-gb/training/modules/introduction-to-azure-solutions/2-enabling-digital-transformation-with-azure
+
+**Plan for tomorrow**
+
+1.  Rest 💤
+2.  Commented express code with @labrocadabro 📝
+3.
+
+### Day 175: September 7, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.  Went for Sushi, found a great place in Lisbon 🍣
+2.  Commented express code with @labrocadabro 📝
+3.  Went to bed early - I needed it after the project crunch 💤
+    Need to remember to schedule rest time more specifically
+
 **Plan for tomorrow**
 
 1.
+
+### Day 176: September 8, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 176
+
+1.  #100Devs Class 53 🤙
+2.  1/2 of Traversy node.js crash course 🚗
+3.  Anki in the morning 🗃️
+4.  Copy updates for portfolio and client site 📝
+
+**Plan for tomorrow**
+
+1.  Freecodecamp Backend Mongoose
+1.  Hitlist 40
+1.  5 hour 100Devs Class 44/45
+1.  Simple express app homework
+1.  Client site banner media queries
+
+### Day 177: September 9, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 177
+
+1.  Content tweaks for client site 📐
+2.  Read about CI/CD 📖
+3.  Anki 🗃️
+4.  Codewars 7th 🥋
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+4.  Traversy Crash course 🍅
+5.  Azure dev foundations 🍅
+6.  Class 44/45 🍅🍅🍅🍅🍅
+7.  Blog? 🍅 Maybe better sunday
+8.  tab safe 🍅
+
+### Day 178: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 178
+
+1.  Finished 2nd 1/2 of Traversy node.js crash course 🚗 🍅
+2.  #100Devs Class 44 and 45 CRUD review 🥌
+3.  Completed Client site finally! 📄
+4.  Read a great article on productboard about strategic refactoring 💻
+5.  Read Agile vs Lean vs Kanban vs Scrum 🏉
+
+**Thoughts**
+
+1.  I powered through express today but really need to build something more complex to really get it.
+
+**Link(s) to work**
+
+1.  https://www.productplan.com/learn/refactoring/
+
+**Plan for tomorrow**
+
+1.  Anki🍅
+2.  Banki🍅
+3.  Codewars🍅
+4.  Build a simple crud app 🍅
+
+### Day 179: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.  Anki for node.js
+2.  #100Devs Backend Review
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 163: September 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 166
+
+1.
+
+**Thoughts**
+
+1.
+
+**Link(s) to work**
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
 
 ### Day 163: August 26, 2022
 
@@ -3777,7 +4291,9 @@ Fridays are always really busy.
 
 **Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
 ### Day 163: August 26, 2022
 
@@ -3797,7 +4313,9 @@ Fridays are always really busy.
 
 **Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
 ### Day 163: August 26, 2022
 
@@ -3817,7 +4335,9 @@ Fridays are always really busy.
 
 **Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
 ### Day 163: August 26, 2022
 
@@ -3837,504 +4357,6 @@ Fridays are always really busy.
 
 **Plan for tomorrow**
 
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
