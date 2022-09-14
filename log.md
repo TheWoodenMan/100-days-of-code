@@ -3871,7 +3871,7 @@ Fridays are always really busy.
 7.  Blog? 🍅 Maybe better sunday
 8.  tab safe 🍅
 
-### Day 178: September 4, 2022
+### Day 178: September 10, 2022
 
 **Today's Progress**:
 
@@ -3898,22 +3898,16 @@ Fridays are always really busy.
 3.  Codewars🍅
 4.  Build a simple crud app 🍅
 
-### Day 179: September 4, 2022
+### Day 179: September 11, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 179
 
-1.  Anki for node.js
-2.  #100Devs Backend Review
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+1.  Anki for node.js ♦️
+2.  #100Devs Backend Review 💪💯💻
+3.  Started a simple express/CRUD mini-project
+    to build a simple CPD log 📝
 
 **Plan for tomorrow**
 
@@ -3921,13 +3915,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 180: September 12, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 180
 
-1.
+1.  Continued work on CPD Log ✏️
+2.  Finished MVP of CPD Log 💪
+3.  Deployed bootstrap for the first time 👢
 
 **Thoughts**
 
