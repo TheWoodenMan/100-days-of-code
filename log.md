@@ -3925,13 +3925,21 @@ Fridays are always really busy.
 2.  Finished MVP of CPD Log 💪
 3.  Deployed bootstrap for the first time 👢
 
-**Thoughts**
+**Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
-**Link(s) to work**
+### Day 181: September 13, 2022
 
-1.
+**Today's Progress**:
+
+#365daysOfCode Day 181
+
+1.  Anki
+2.  Worked on my CPD log
+3.  #100devs class 54
 
 **Plan for tomorrow**
 
@@ -3939,35 +3947,17 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 182: September 14, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 182
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 163: September 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
+1.  Anki - HTML/CSS/Node 🗃️
+2.  Researched google oauth for cpd log 🔶
+3.  Fiddled with domain names a bit trying to get authenticated 🕸️
+    This marks 6 months since I started documenting my learning
+    how time flies! :)
 
 **Thoughts**
 
