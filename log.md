@@ -4009,27 +4009,21 @@ Fridays are always really busy.
 4.  Read a nice article on TDD for node.js APIs
 5.  Updated my REST API with a bunch of fixes, getting close to 100% 💯
 
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
 **Plan for tomorrow**
 
 1.  Anki
 2.  Banki
 3.  Codewars
+4.  #100Devs Class 46
+5.
 
-### Day 163: September 4, 2022
+### Day 186: September 18, 2022
 
 **Today's Progress**:
 
 #365daysOfCode Day 166
 
-1.
+1.  Read an article about sessions 🧷
 
 **Thoughts**
 
@@ -4037,7 +4031,7 @@ Fridays are always really busy.
 
 **Link(s) to work**
 
-1.
+1.  https://www.section.io/engineering-education/session-management-in-nodejs-using-expressjs-and-express-session/#:~:text=Express%2Dsession%20%2D%20an%20HTTP%20server,established%20on%20the%20server%2Dside.
 
 **Plan for tomorrow**
 
