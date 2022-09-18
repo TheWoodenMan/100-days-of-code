@@ -3959,13 +3959,20 @@ Fridays are always really busy.
     This marks 6 months since I started documenting my learning
     how time flies! :)
 
-**Thoughts**
+**Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
-**Link(s) to work**
+### Day 183: September 15, 2022
 
-1.
+**Today's Progress**:
+
+#365daysOfCode Day 183
+
+1.  Anki - Javascript
+2.  Started adding mongoose and passport.js to my cpd app.
 
 **Plan for tomorrow**
 
@@ -3973,21 +3980,16 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 184: September 16, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 184
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+1.  Working on my side project generally
+2.  Successfully connected and configured mongoose
+3.  MCV structure in place
+4.  wrestling with authentication
 
 **Plan for tomorrow**
 
@@ -3995,35 +3997,17 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 185: September 17, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 185
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 163: September 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
+1.  Authentication done ✅
+2.  Fixed routes for privacy policy/tos 📖
+3.  Working on delete/update functions 🔨
+4.  Read a nice article on TDD for node.js APIs
+5.  Updated my REST API with a bunch of fixes, getting close to 100% 💯
 
 **Thoughts**
 
