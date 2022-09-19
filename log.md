@@ -4027,11 +4027,12 @@ Fridays are always really busy.
 
 **Thoughts**
 
-1.
+1.  Watched @rfornal 's Right Job/ Right Company 👍
 
 **Link(s) to work**
 
 1.  https://www.section.io/engineering-education/session-management-in-nodejs-using-expressjs-and-express-session/#:~:text=Express%2Dsession%20%2D%20an%20HTTP%20server,established%20on%20the%20server%2Dside.
+2.  https://www.youtube.com/watch?v=GX95jyMPC0Y
 
 **Plan for tomorrow**
 
