@@ -4021,9 +4021,14 @@ Fridays are always really busy.
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 186
 
 1.  Read an article about sessions 🧷
+2.  Watched #100Devs Class 46 2021 👀
+3.  Watched @rfornal 's Right Job Right Company 🧭 🙏
+4.  Built a basic react table/form system ⚛️
+    Know a bit of react already from FCC but really want to
+    integrate it into an express/full stack project.
 
 **Thoughts**
 
