@@ -4045,21 +4045,18 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 163: September 19, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 187
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+1.  Reviewed a video on UML Diagrams 💹
+2.  Watched Learning how to Learn for Programmers with Barb 🥬
+3.  Codewars 8th Kyu with Unit Testing 🥋
+4.  Completed MVP for CPD LOG 🪵
+5.  Anki Practice then bed 💤
+    Made a lot of progress today, really happy with my continuous learning app :)
 
 **Plan for tomorrow**
 
@@ -4067,49 +4064,52 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 188: September 20, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 188
 
-1.
+1.  Bootstrap research and FCC as revision 👢
+2.  Finished CPD-Log app MVP 📝📈
+3.  #100Devs Class 46/47 node.js./MVC 🚧
+4.  Implemented a bunch of additional features for 100 Hours
+5.  Project night with the boys 👨🤵‍♂️🕺🧔‍♂️👨‍🚀
 
-**Thoughts**
+**Plan for tomorrow**
 
-1.
+0.  Eat Your Frogs 🐸
+1.  Anki
+2.  Banki
+3.  Codewars
+4.  Investigate site security
+5.  Set up ko-fi
+6.  Look at domain names - CPDeasy?
+7.  Google oauth
+8.  crypto
+9.  Make a site plan
+10. date search
+11.
 
-**Link(s) to work**
+### Day 189: September 21, 2022
 
-1.
+**Today's Progress**:
+
+#365daysOfCode Day 189
+
+1.  Working through Azure Fundamentals
+2.  Codecademy PHP - Strings & Variables
+3.  Anki
+    PHP is incredibly similar to javascript, just a few quirks so far.
+    I'm dying to get on to laravel tho, I heard it's so good!
 
 **Plan for tomorrow**
 
 1.  Anki
 2.  Banki
 3.  Codewars
-
-### Day 163: September 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
+4.  Finish Variables/Start Functions in PHP
+5.  Azure Fundamentals
 
 ### Day 163: September 4, 2022
 
