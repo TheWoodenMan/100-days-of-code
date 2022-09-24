@@ -4111,21 +4111,35 @@ Fridays are always really busy.
 4.  Finish Variables/Start Functions in PHP
 5.  Azure Fundamentals
 
-### Day 163: September 4, 2022
+### Day 190: September 22, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 190
 
-1.
+1.  Codecademy PHP - Finished Strings and numbers 🐘
+    (strings a few quirks, numbers = same syntax as JS but accurate 👀)
+2.  Into to Azure Solutions / Cloud Benefits 🟦☁️
+3.  100Devs Class 56 🚧
+4.  Mob programming with the project crew. 💪
 
-**Thoughts**
+**Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
-**Link(s) to work**
+### Day 191: September 4, 2022
 
-1.
+**Today's Progress**:
+
+#365daysOfCode Day 191
+
+1.  Coffee Chat with @RFrancoDev ☕
+    (talented dev and educator)
+2.  Figma design for my MVP 🍀
+3.  Deep dive into bootstrap flex 👢
+4.  Worked on my MVP a bunch esp the front-end
 
 **Plan for tomorrow**
 
@@ -4139,29 +4153,9 @@ Fridays are always really busy.
 
 #365daysOfCode Day 166
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 163: September 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
+1.  Anki for Azure Services 📘
+2.  Pushed through Azure Fundamentals 🔷
+3.  Working on MVP of my app. 📝
 
 **Thoughts**
 
