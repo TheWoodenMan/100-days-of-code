@@ -4129,7 +4129,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 191: September 4, 2022
+### Day 191: September 23, 2022
 
 **Today's Progress**:
 
@@ -4147,37 +4147,37 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 192: September 24, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 192
 
 1.  Anki for Azure Services 📘
 2.  Pushed through Azure Fundamentals 🔷
-3.  Working on MVP of my app. 📝
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+3.  Migrated my MVP to Azure App Services 🚚
+4.  Working on Frontend of my app. 📝
+5.  #100Devs Class 47 <--- Now caught up on classes 🎊
 
 **Plan for tomorrow**
 
 1.  Anki
 2.  Banki
 3.  Codewars
+4.  Fix your Rest API quickly
+5.  minor formatting updates to cpdeasy
+6.  php functions
+7.  push on with azure fundamentals
 
-### Day 163: September 4, 2022
+### Day 193: September 25, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 193
 
-1.
+1.  Azure Fundamentals - created a VM, installed nginx and opened it's ports 🛥️
+2.  Mayanwolfe Stream - Intro to React ⚛️
+3.  Worked on MVP - Media Queries 📷
 
 **Thoughts**
 
