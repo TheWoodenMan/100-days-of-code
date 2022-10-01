@@ -4250,27 +4250,21 @@ Fridays are always really busy.
     (really starting to get the unit tests!)
 4.  #100Devs Class 58 - Learn React
 
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
 **Plan for tomorrow**
 
 1.  Anki
 2.  Banki
 3.  Codewars
 
-### Day 163: August 26, 2022
+### Day 198: September 30, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 198
 
-1.
+1.  Pushing on with Azure Gov & Compliance 📋
+2.  Javascript Anki 🗃️
+3.  Reading through the documents for React ⚛️
 
 **Thoughts**
 
