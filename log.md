@@ -4179,13 +4179,22 @@ Fridays are always really busy.
 2.  Mayanwolfe Stream - Intro to React ⚛️
 3.  Worked on MVP - Media Queries 📷
 
-**Thoughts**
+**Plan for tomorrow**
 
-1.
+1.  Anki
+2.  Banki
+3.  Codewars
 
-**Link(s) to work**
+### Day 194: September 26, 2022
 
-1.
+**Today's Progress**:
+
+#365daysOfCode Day 194
+
+1.  Azure Architecture & Services - pushing on 🔷
+2.  Styling and optimisation for CPDeasy.work 📝
+3.  Working through react.js documentation. ⚛️
+4.  Pushed a small update to my RESTful API ✈️
 
 **Plan for tomorrow**
 
@@ -4193,21 +4202,18 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 195: September 27, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 195
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+1.  8th Codewars with Chai Unit Tests 🧪
+2.  Azure compute and networking module 💻
+3.  Azure storage module 🚚
+4.  #100Devs Class 57
+5.  Nice networking chats with people on remo 😄
+6.  end of day Anki 🗃️
 
 **Plan for tomorrow**
 
@@ -4215,21 +4221,16 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 4, 2022
+### Day 196: September 28, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 196
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
+1.  8th Codewars with Chai Unit Tests 🧪
+2.  Azure identity, access and security 🚓
+3.  Pair programming with @SangineJoe making an MCV CRUD app 🙌
+4.  Anki catch up - I have a lot outstanding 😅
 
 **Plan for tomorrow**
 
@@ -4237,35 +4238,17 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: August 26, 2022
+### Day 197: September 29, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 197
 
-1.
-
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 163: August 26, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 166
-
-1.
+1.  Azure Cost Management 💰
+2.  Started Azure Gov and Compliance 📋
+3.  8th Codewars with Chai Unit Tests 🧪
+    (really starting to get the unit tests!)
+4.  #100Devs Class 58 - Learn React
 
 **Thoughts**
 
