@@ -4266,27 +4266,22 @@ Fridays are always really busy.
 2.  Javascript Anki 🗃️
 3.  Reading through the documents for React ⚛️
 
-**Thoughts**
-
-1.
-
-**Link(s) to work**
-
-1.
-
 **Plan for tomorrow**
 
 1.  Anki
 2.  Banki
 3.  Codewars
 
-### Day 163: August 26, 2022
+### Day 199: October 1, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 166
+#365daysOfCode Day 199
 
-1.
+1.  Azure Fundamentals - Done ✅
+    (just need to sit the exam now!)
+2.  Read about Destructuring 📖
+3.
 
 **Thoughts**
 
