@@ -4308,13 +4308,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 201: October 3, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 201
 
-1.
+1.  Anki - Azure 🔷
+2.  Codewars 8th w/ UTs 🧪
+    A shorter day as I worked a full shift
 
 **Plan for tomorrow**
 
