@@ -4281,13 +4281,416 @@ Fridays are always really busy.
 1.  Azure Fundamentals - Done ✅
     (just need to sit the exam now!)
 2.  Read about Destructuring 📖
-3.
+3.  Read about TDD and Xtreme Programming
+4.  3x 8th Codewars with Chai Unit Tests 🧪
+5.  Pair programming with @SangineJoe
 
-**Thoughts**
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.  #100Devs Office Hours 🏢
+2.  Wrote a blog post about Unit Testing/TDD 🧪
+3.  5x Codewars 8th kyu with UTs, Arrays ▶️
+4.  Finished reading FCC destructuring.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
 
 1.
 
-**Link(s) to work**
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 200: October 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 200
 
 1.
 
