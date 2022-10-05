@@ -4324,7 +4324,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 202: October 2, 2022
+### Day 202: October 4, 2022
 
 **Today's Progress**:
 
@@ -4333,7 +4333,8 @@ Fridays are always really busy.
 1.  Azure Anki 🔷
 2.  Codewars 6th/2x8th + UTs 🧪
 3.  Working through FCC React. ⚛️
-4.
+4.  #100Devs Class 59
+5.  Started kencdodds react course
 
 **Plan for tomorrow**
 
