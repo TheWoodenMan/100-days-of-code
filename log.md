@@ -4342,13 +4342,16 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 203: October 2, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 203
 
-1.
+1.  Azure Anki 📘
+2.  Azure Fundamentals videos 1-7 with @MarczakIO ✏️📋
+3.  Codewars 8th Kyu and Unit Tests 🧪
+    https://www.youtube.com/watch?v=Pt9LelJ0fL0
 
 **Plan for tomorrow**
 
