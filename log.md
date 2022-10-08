@@ -4342,7 +4342,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 203: October 2, 2022
+### Day 203: October 5, 2022
 
 **Today's Progress**:
 
@@ -4359,13 +4359,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 204: October 6, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 204
 
-1.
+1.  Azure Anki
+2.  Codewars 7th/8th w/ UTs 🧪
+3.
 
 **Plan for tomorrow**
 
@@ -4373,13 +4375,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 205: October 7, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 205
 
-1.
+1.  Codewars 6th w/ UTs 🧪
+2.  Read about React Hooks on Twilo
+3.  AZ-900 Ep.9
 
 **Plan for tomorrow**
 
@@ -4387,11 +4391,13 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 206: October 2, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+🥄🥄🥄🥄🥄
+
+#365daysOfCode Day 206
 
 1.
 
