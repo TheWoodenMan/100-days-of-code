@@ -4391,7 +4391,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 206: October 2, 2022
+### Day 206: October 8, 2022
 
 **Today's Progress**:
 
@@ -4399,7 +4399,10 @@ Fridays are always really busy.
 
 #365daysOfCode Day 206
 
-1.
+1.  Travesy React Crash course codealong ⚛️💻
+2.  Complete Code Ch. 1 📖
+3.  Anki Catchup 🗃️
+4.  Codewars 8th, 7th and 6th
 
 **Plan for tomorrow**
 
@@ -4407,13 +4410,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 207: October 9, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 207
 
-1.
+1.  Anki: Azure
+2.  Code Complete, Ch.2/3
+3.  codewars 6th w/ UTs
 
 **Plan for tomorrow**
 
@@ -4421,13 +4426,16 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 208: October 10, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 208
 
-1.
+1.  Azure Anki
+2.  codewars 7th w/UTs
+3.  Totally Typescript ex1-3
+4.
 
 **Plan for tomorrow**
 
@@ -4435,13 +4443,37 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 209: October 11, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 209
 
-1.
+1.  Azure Anki
+2.  Totally Typescript ex 4
+
+### Day 210: October 12, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 210
+
+1.  Azure Anki
+2.  Totally Typescript Ex.5
+
+### Day 211: October 13, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 211
+
+1.  #100Devs Class 62
+2.  Azure Anki
+3.  Totally Typescript Ex.6
+4.  8x 8th Kyu Codewars
+5.  Read through @freecodecamp "O" Notation
+    Back to the coding grind :)
+    🇵🇹 Portugal was lovely but I missed pushing forward each day.
 
 **Plan for tomorrow**
 
@@ -4449,41 +4481,18 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 212: October 14, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 212
 
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
+1.  Totally Typescript Ex.6,7,8
+2.  8x 8th Kyu Codewars
+3.  Read through @freecodecamp "O" Notation
+4.  Anki JS catchup
+    Back to the coding grind :)
+    🇵🇹 Portugal was lovely but I missed pushing forward each day.
 
 **Plan for tomorrow**
 
