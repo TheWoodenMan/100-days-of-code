@@ -4500,13 +4500,17 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 213: October 15, 2022
 
 **Today's Progress**:
 
 #365daysOfCode Day 200
 
-1.
+1.  Totally Typescript Ex.9,10
+2.  More reading on "O" notation
+3.  AZ-900 Ep.10
+4.  Testing @labrocadabro 's excellent #100Devs app
+5.
 
 **Plan for tomorrow**
 
