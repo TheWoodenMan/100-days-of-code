@@ -4512,25 +4512,28 @@ Fridays are always really busy.
 4.  Testing @labrocadabro 's excellent #100Devs app
 5.  codewars 8th x 4
 
-### Day 200: October 2, 2022
+### Day 214: October 2, 2022
 
 **Today's Progress**:
 
 #365daysOfCode Day 214
 
 1.  Totally Typescript Ex.11
-2.  codewars 8th x1
+2.  codewars 8th x2
 3.  Started designing a new app for hackotberfest - a basic recruitment ATS,
     ( lmk if anyone wants to group work on it :) )
 4.  #100Devs Super Back End Review
+5.  Reading php documentation
+6.  working through php/laravel/blade
+7.  Configured php docker image for a new project.
 
-### Day 200: October 2, 2022
+### Day 215: October 2, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 215
 
-1.
+1.  AZ900 Ep11,
 
 **Plan for tomorrow**
 
