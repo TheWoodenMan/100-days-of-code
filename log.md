@@ -4504,33 +4504,25 @@ Fridays are always really busy.
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 213
 
 1.  Totally Typescript Ex.9,10
 2.  More reading on "O" notation
 3.  AZ-900 Ep.10
 4.  Testing @labrocadabro 's excellent #100Devs app
-5.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
+5.  codewars 8th x 4
 
 ### Day 200: October 2, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 214
 
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
+1.  Totally Typescript Ex.11
+2.  codewars 8th x1
+3.  Started designing a new app for hackotberfest - a basic recruitment ATS,
+    ( lmk if anyone wants to group work on it :) )
+4.  #100Devs Super Back End Review
 
 ### Day 200: October 2, 2022
 
