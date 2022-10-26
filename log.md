@@ -4512,7 +4512,7 @@ Fridays are always really busy.
 4.  Testing @labrocadabro 's excellent #100Devs app
 5.  codewars 8th x 4
 
-### Day 214: October 2, 2022
+### Day 214: October 16, 2022
 
 **Today's Progress**:
 
@@ -4527,13 +4527,104 @@ Fridays are always really busy.
 6.  working through php/laravel/blade
 7.  Configured php docker image for a new project.
 
-### Day 215: October 2, 2022
+### Day 215: October 17, 2022
 
 **Today's Progress**:
 
 #365daysOfCode Day 215
 
 1.  AZ900 Ep11,
+2.  More PHP/Laravel progress adding in apache2
+3.  Worked on ubuntu setup and configured php dependencies for linux
+    (it hates windows 👀)
+4.  Setting up docker templates for node.js and php
+5.  #100Devs talk with the fairy job mother 😆
+
+**Plan for tomorrow**
+
+1.  AZ-900
+2.  Linux
+3.  Totally Typescript
+
+### Day 216 October 18, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 216
+
+1.  Totally Typescript ex.11,12 👕
+2.  AZ-900 ep 12, 🟦
+3.  Set up CentOS VM for linux testing 👀
+4.  #100Devs Class 63 - Big O
+5.  Started reading scorch.io reading on data structures/algorithms
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Codewars
+3.  AZ-900
+4.  Linux
+5.  Totally Typescript
+
+### Day 217: October 19, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 217
+
+1.  AZ-900 ep 13, 14 🟦
+2.  a-cloud guru Ch 1, 2 🧓
+3.  codewars 7th, 8th w/ UTs 📝
+4.  Reading more on big O ⭕
+5.  scorch.io datastructures & algos 🧮
+
+Remember: #youoweyou 👊
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Codewars
+3.  AZ-900
+4.  Linux
+5.  Totally Typescript
+
+Work on your API a bit
+
+### Day 218: October 20, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 218
+
+1.  6th Kyu codewars w/UTs 🥋
+2.  scorch.io reverse string algos ♻️
+3.  AZ-900 a-cloud guru Ch3
+4.  #100Devs Class 65
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Codewars
+3.  AZ-900
+4.  Linux
+5.  Totally Typescript
+
+### Day 219: October 21, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 219
+
+1. codewars 7th/anki
+
+### Day 220: October 22, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 220
+
+1.  Azure AZ-900 Ch.4
+2.  Scrimba React Ex1-12
 
 **Plan for tomorrow**
 
@@ -4541,13 +4632,17 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 221: October 23, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 221
 
-1.
+1.  Totally typescript ex 13, 14
+2.  Azure AZ-900 Ch.5 - Networking
+3.  Tuned in for @mayanwolfe Big O/Algos
+4.  React Scrimba Ex 13-20
+5.  scorch.io 2x algorithm studies
 
 **Plan for tomorrow**
 
@@ -4555,13 +4650,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 200: October 24, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 222
 
-1.
+1.  Totally Typescript ex 15, 16
+2.  Azure acloud guru Ch.6 Storage
+3.  Scrimba React Ex 20-32
 
 **Plan for tomorrow**
 
@@ -4569,13 +4666,17 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 223: October 25, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 223
 
-1.
+1.  Azure acloud guru Ch.6 Storage - Finished 📘
+2.  #100Devs Class 65 🎃
+3.  codewars 7th w/UTs 🧪
+4.  Deployed my digital business card site
+    w/React/TypeScript and @scrimba :)
 
 **Plan for tomorrow**
 
@@ -4583,83 +4684,15 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 200: October 26, 2022
 
 **Today's Progress**:
 
 #365daysOfCode Day 200
 
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 200: October 2, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 200
-
-1.
+1.  Azure acloud guru Ch.7 Databases - Finished 📘
+2.  Scrimba Airbnb clone ex.1-18
+3.  codewars 7th w/UTs
 
 **Plan for tomorrow**
 
