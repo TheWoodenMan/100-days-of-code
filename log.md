@@ -4756,11 +4756,40 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 228: October 2, 2022
+### Day 228: October 30, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 228
+
+1.  Typescript codewars 8th x1 7th x1
+2.  Scrimba Airbnb ex 22 - 26
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 229: October 31, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
 
 1.
 
