@@ -4684,15 +4684,16 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 200: October 26, 2022
+### Day 224: October 26, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 224
 
 1.  Azure acloud guru Ch.7 Databases - Finished 📘
-2.  Scrimba Airbnb clone ex.1-18
-3.  codewars 7th w/UTs
+2.  Scrimba Airbnb clone ex.1-18 🏨
+3.  codewars 7th w/UTs 🧪
+4.  @freecodecamp React/Frontend 70% 🏕️
 
 **Plan for tomorrow**
 
@@ -4700,13 +4701,17 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 225: October 27, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 225
 
-1.
+1.  Scrimba airbnb ex.19-22 🏨
+2.  Azure acloud guru Ch.8 Authentication 🔑
+3.  Pair programming with @SangineJoe on a fun new project 💪
+4.  7th kyu codewars and UTs 🧪
+5.  freecodecamp React 81%
 
 **Plan for tomorrow**
 
@@ -4714,13 +4719,14 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 226: October 28, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 226
 
-1.
+1.  Anki 🗃️
+2.  Figma work for new project 👀
 
 **Plan for tomorrow**
 
@@ -4728,13 +4734,21 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 227: October 29, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 200
+#365daysOfCode Day 227
 
-1.
+1.  Anki 📇
+2.  Install and configure Jest for React projects 🃏
+3.  Reading about React Testing Library 📖
+4.  Azure acloud guru Ch.9 📘
+5.  Typescript codewars 6th x1 8th x4 👀
+    Wrestled with Jest/React and worked through a bunch of compiling issues.
+    Babel does _not_ want to play, but I will figure it out! 💪
+    Jest is better for React tho with the ability to compare snapshots, usually
+    use Mocha/Chai - anyone had any success with this type of thing? :)
 
 **Plan for tomorrow**
 
@@ -4742,7 +4756,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 228: October 2, 2022
 
 **Today's Progress**:
 
