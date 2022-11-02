@@ -4775,6 +4775,433 @@ Work on your API a bit
 
 **Today's Progress**:
 
+#365daysOfCode Day 229
+
+1.  Codewars 7th kyu 🥋
+2.  Read logrocket articles on react/tailwind/vite and daisyUI 🪵🚀
+3.  Set up the view for my project with @sanginejoe threading through dependency
+    issues and debugging to get it all working 🌮
+    DaisyUI component library looks wild, I love how it resembles discord!
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 230
+
+1.  Went back to my REST API to add more features.
+2.  Installed next.js 13 to see what the fuss is about 👀
+3.  ran through the next.js tutorial to get it all set up ⏭️
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.  Attended @scrimba livestream on error checking/debugging 💪
+2.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 230: November 1, 2022
+
+**Today's Progress**:
+
 #365daysOfCode Day 228
 
 1.
