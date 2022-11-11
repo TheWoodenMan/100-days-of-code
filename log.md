@@ -4805,14 +4805,22 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 230: November 1, 2022
+### Day 231: November 2, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 231
 
 1.  Attended @scrimba livestream on error checking/debugging 💪
-2.
+2.  Reviewed HTTP status codes for my API using RFC Technical standards 🏛️
+3.  Built a travel journal MVP with Typescript/React, packaged with vite and deployed with netlify CLI
+    https://twm-travel-journal.netlify.app
+
+**Links to Work**
+
+    https://www.rfc-editor.org/rfc/rfc9110#name-status-codes
+
+    https://www.vuemastery.com/courses/lightning-fast-builds-with-vite/intro-to-vite/
 
 **Plan for tomorrow**
 
@@ -4820,7 +4828,152 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
+Flesh out the Travel Journal with custom colors, media queries and a few more posts.
+Complete the page views for the business cards app.
+
+### Day 232: November 3, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 232
+
+1.  React Project work - Landing Page Done ✅
+2.  Azure Ch. 10 Security - 50%
+3.  #100Devs Class 68
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+Flesh out the Travel Journal with custom colors, media queries and a few more posts.
+Complete the page views for the business cards app.
+
+### Day 233: November 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 233
+
+1.  Azure Review Ch 1 - 9
+2.  Deep dive into HTML forms
+3.  Setup AWS Simple Email, Lambda and SMTP
+4.  Wrote 2 more panels for our react app
+5.  FCC React 87% done :)
+
+https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/
+
+### Day 234: November 5, 2022
+
+**Plan for today**
+
+1.  Azure
+2.  React
+3.  Backend Integration
+4.  DS and Algos
+
+**Today's Progress**:
+
+#365daysOfCode Day 234
+
+1.  Azure Ch. 10 Security - Done ✅
+2.  @freecodecamp React 100% (redux next ⚛️)
+3.  Reading about react useState and props
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 235: November 6, 2022
+
+**Today's Progress**
+
+#365daysOfCode Day 235
+
+1.  More coding on our React app ⚛️
+2.  Anki Javascript
+3.  Working through Next.js deployment methods
+4.  Prisma and PostgreSQL configuration with supabase.
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 236: November 7, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 236
+
+1. Azure guru Ch 11. Monitoring
+2. scorch-io ds & algos - reverseStrings
+3. Javascript anki
+
+**Plan for tomorrow**
+
+1.  Anki
+2.  Banki
+3.  Codewars
+
+### Day 237: November 8, 2022
+
+**Today's Plan**
+
+1.  Azure ✅
+2.  Meme Gen
+3.  Pushing on with algos
+4.  Anki - eat your frogs 🐸 ✅
+5.  scrimba
+
+**Today's Progress**:
+
+#365daysOfCode Day 237
+
+1.  Anki - eat your frogs 🐸
+2.  Azure acloud Ch 12. Pricing 💸
+3.  Scrimba - Ex.1-10
+4.  Reading about Restul Caching
+
+### Day 238: November 9, 2022
+
+**Today's Plan**
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.  #100Devs Class 69 🎸
+2.  Scrimba Ch. 10-17
+3.  More anki catch up, react/jquery
+
+### Day 239: November 10, 2022
+
+**Today's Plan**
+
+1.  codewars
+2.  debugging auth and passport.js with catchup crew
+3.  pushing scrimba more
+4.  command vs memento pattern for OOP undo/redo.
+
+**Today's Progress**:
+
+#365daysOfCode Day 228
+
+1.  Codewars 8th x2
+2.  Azure Ch. 13 & 14 - Exam Time Next! 📋
+3.  #100Devs Office hours
+4.  Scrimba Ch. 18-  
+
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4828,13 +4981,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4842,13 +4993,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4856,13 +5005,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4870,13 +5017,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4884,13 +5029,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4898,13 +5041,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4912,13 +5053,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4926,13 +5065,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4940,13 +5077,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4954,13 +5089,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4968,13 +5101,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4982,13 +5113,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -4996,13 +5125,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5010,13 +5137,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5024,13 +5149,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5038,13 +5161,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5052,13 +5173,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5066,13 +5185,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5080,13 +5197,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.
 
 **Today's Progress**:
 
@@ -5094,125 +5209,11 @@ Work on your API a bit
 
 1.
 
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
 ### Day 230: November 1, 2022
 
-**Today's Progress**:
-
-#365daysOfCode Day 228
+**Today's Plan**
 
 1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-**Plan for tomorrow**
-
-1.  Anki
-2.  Banki
-3.  Codewars
-
-### Day 230: November 1, 2022
 
 **Today's Progress**:
 
