@@ -4962,12 +4962,53 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 229
 
 1.  Codewars 8th x2
 2.  Azure Ch. 13 & 14 - Exam Time Next! 📋
 3.  #100Devs Office hours
-4.  Scrimba Ch. 18-  
+4.  Scrimba Ch. 18-19
+5.  Converted my RESTful API to layered structure
+6.  Massive overhaul of the app for efficiency
+
+### Day 230: November 1, 2022
+
+**Today's Plan**
+
+1.  azure text
+2.  look into nuxt
+3.  google oauth
+4.  shopify?
+5.  parsehub
+
+**Today's Progress**:
+
+#365daysOfCode Day 230
+
+1.  Configured parsehub to grab site data 📏
+2.  made a tool that converts json into csv 🔪
+3.  azure mock tests - I got 83% :) 💙
+4.  Learning @shopify to build a shop for a client 🛍️
+5.  Scrimba React Ch. 19-21
+6.  Updated my REST API documentation
+
+### Day 231: November 1, 2022
+
+**Today's Plan**
+
+1.  Azure mock test
+2.  Scrimba to 25
+3.  REST API TDD
+4.
+
+**Today's Progress**:
+
+#365daysOfCode Day 231
+
+1.  Anki for Azure 📘
+2.  Azure Mock Tests 93%/95%/88% 🎉 🤞
+3.  Finished restructuring my REST API 📎
+4.  Started adding unit tests to the API using JEST 🃏
 
 ### Day 230: November 1, 2022
 
@@ -4979,31 +5020,9 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 #365daysOfCode Day 228
 
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
+1.  More Azure Mock Tests 98%/88% 🎉 🤞
+2.  Attended daily standup @ #100Devs
+3.
 
 ### Day 230: November 1, 2022
 
