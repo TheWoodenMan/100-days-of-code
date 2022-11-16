@@ -4945,7 +4945,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 238
 
 1.  #100Devs Class 69 🎸
 2.  Scrimba Ch. 10-17
@@ -4962,7 +4962,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 229
+#365daysOfCode Day 239
 
 1.  Codewars 8th x2
 2.  Azure Ch. 13 & 14 - Exam Time Next! 📋
@@ -4971,7 +4971,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Converted my RESTful API to layered structure
 6.  Massive overhaul of the app for efficiency
 
-### Day 230: November 1, 2022
+### Day 240: November 1, 2022
 
 **Today's Plan**
 
@@ -4983,7 +4983,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 230
+#365daysOfCode Day 240
 
 1.  Configured parsehub to grab site data 📏
 2.  made a tool that converts json into csv 🔪
@@ -4992,7 +4992,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Scrimba React Ch. 19-21
 6.  Updated my REST API documentation
 
-### Day 231: November 1, 2022
+### Day 241: November 1, 2022
 
 **Today's Plan**
 
@@ -5003,7 +5003,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 231
+#365daysOfCode Day 241
 
 1.  Anki for Azure 📘
 2.  Azure Mock Tests 93%/95%/88% 🎉 🤞
@@ -5018,7 +5018,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 232
+#365daysOfCode Day 242
 
 1.  More Azure Mock Tests 98%/88% 🎉 🤞
 2.  Attended daily standup @ #100Devs
@@ -5032,7 +5032,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 233
+#365daysOfCode Day 243
 
 1.  Azure AZ-900 - Passed! ✅
 2.  Read about algebraic data types 📖
