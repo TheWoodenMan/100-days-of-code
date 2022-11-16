@@ -5018,13 +5018,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 232
 
 1.  More Azure Mock Tests 98%/88% 🎉 🤞
 2.  Attended daily standup @ #100Devs
 3.
 
-### Day 230: November 1, 2022
+### Day 233: November 1, 2022
 
 **Today's Plan**
 
@@ -5032,9 +5032,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 233
 
-1.
+1.  Azure AZ-900 - Passed! ✅
+2.  Read about algebraic data types 📖
+3.  codewars 7th, typescript problems
+    found a nice reference site for typescript :)
+    tutorialsteacher.com/typescript/
 
 ### Day 230: November 1, 2022
 
