@@ -4945,7 +4945,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 238
+#365daysOfCode Day 238https://web.archive.org/web/20150315004742/http://azaleasdolls.com/game_magicalanime.html
 
 1.  #100Devs Class 69 🎸
 2.  Scrimba Ch. 10-17
@@ -4971,7 +4971,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Converted my RESTful API to layered structure
 6.  Massive overhaul of the app for efficiency
 
-### Day 240: November 1, 2022
+### Day 240: November 11, 2022
 
 **Today's Plan**
 
@@ -4992,7 +4992,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Scrimba React Ch. 19-21
 6.  Updated my REST API documentation
 
-### Day 241: November 1, 2022
+### Day 241: November 12, 2022
 
 **Today's Plan**
 
@@ -5010,7 +5010,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Finished restructuring my REST API 📎
 4.  Started adding unit tests to the API using JEST 🃏
 
-### Day 230: November 1, 2022
+### Day 242: November 16, 2022
 
 **Today's Plan**
 
@@ -5024,11 +5024,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Attended daily standup @ #100Devs
 3.
 
-### Day 233: November 1, 2022
-
-**Today's Plan**
-
-1.
+### Day 243: November 16, 2022
 
 **Today's Progress**:
 
@@ -5040,7 +5036,71 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
     found a nice reference site for typescript :)
     tutorialsteacher.com/typescript/
 
-### Day 230: November 1, 2022
+### Day 244: November 17, 2022
+
+**Today's Plan**
+
+1.  Work on my API more
+2.  get back on the scrimba
+
+**Today's Progress**:
+
+#365daysOfCode Day 244
+
+1.  Fixed a few routes in my Recruitment API 📝
+2.  Attended #100Devs daily stand up 🔊
+3.  Anki for React 🗃️
+
+### Day 245: November 18, 2022
+
+**Weekend Plan**
+
+1. SCRIMBA
+2. Get started on shopify storefront API
+3. Push on with algos
+4. codewars (typescript?)
+5. FCC Redux
+   Get set up with protect your winters
+
+**Today's Progress**:
+
+#365daysOfCode Day 245
+
+1.  Typescript Codewars 7th x1, 8th x2
+2.  Javascript Codewars 7th x1
+3.  Reading on API structures
+4.  #100Devs tea spill 🫖
+
+### Day 246: November 19, 2022
+
+**Today's Plan**
+
+1.  Scrimba,
+2.  Rest API a little
+3.  start on shopify
+
+**Today's Progress**:
+
+#365daysOfCode Day 246
+
+1.  Reading about supertest
+2.  added error handling to my API UTs
+3.  codewars: JS 7th x1 8th x1, TS 7th x1 8th x1
+4.  Scrimba Ex 22-26 props, usestate, passing data
+5.  Reading react docs on error boundaries, props and usestate
+
+### Day 247: November 20, 2022
+
+**Today's Plan**
+
+**Today's Progress**:
+
+#365daysOfCode Day 247
+
+1.  Anki
+2.  Reading on Agile Software Delivery
+
+### Day 248: November 1, 2022
 
 **Today's Plan**
 
@@ -5048,57 +5108,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 248
 
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
+1.  Anki for Javascript
+2.  #100Devs Standup
+3.  Reading - Extreme Programming
+4.  Reading - ACID for Databases
+5.  Drupal CMS Setup
 
 ### Day 230: November 1, 2022
 
