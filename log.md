@@ -5116,7 +5116,19 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Reading - ACID for Databases
 5.  Drupal CMS Setup
 
-### Day 230: November 1, 2022
+### Day 249: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 249
+
+1.  Configuring Drupal with Mysql
+2.  Attended #100Devs Standup
+3.  Codewars 8th x3
+4.  Scrimba React Ex 26-27
+5.  Anki Javascript
+
+### Day 250: November 1, 2022
 
 **Today's Plan**
 
@@ -5124,21 +5136,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 250
 
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
+1.  Anki Javascript/React
+2.  Scrimba React ex 28-34
+3.  Reading on React Hooks
+4.  Typescript 7th kyu
+5.  Reading - Drupal webforms
 
 ### Day 230: November 1, 2022
 
