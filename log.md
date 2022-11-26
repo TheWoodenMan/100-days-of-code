@@ -5010,7 +5010,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Finished restructuring my REST API 📎
 4.  Started adding unit tests to the API using JEST 🃏
 
-### Day 242: November 16, 2022
+### Day 242: November 14, 2022
 
 **Today's Plan**
 
@@ -5024,7 +5024,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Attended daily standup @ #100Devs
 3.
 
-### Day 243: November 16, 2022
+### Day 243: November 15, 2022
 
 **Today's Progress**:
 
@@ -5036,7 +5036,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
     found a nice reference site for typescript :)
     tutorialsteacher.com/typescript/
 
-### Day 244: November 17, 2022
+### Day 244: November 16, 2022
 
 **Today's Plan**
 
@@ -5051,7 +5051,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Attended #100Devs daily stand up 🔊
 3.  Anki for React 🗃️
 
-### Day 245: November 18, 2022
+### Day 245: November 17, 2022
 
 **Weekend Plan**
 
@@ -5071,7 +5071,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Reading on API structures
 4.  #100Devs tea spill 🫖
 
-### Day 246: November 19, 2022
+### Day 246: November 18, 2022
 
 **Today's Plan**
 
@@ -5089,9 +5089,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Scrimba Ex 22-26 props, usestate, passing data
 5.  Reading react docs on error boundaries, props and usestate
 
-### Day 247: November 20, 2022
-
-**Today's Plan**
+### Day 247: November 19, 2022
 
 **Today's Progress**:
 
@@ -5100,11 +5098,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1.  Anki
 2.  Reading on Agile Software Delivery
 
-### Day 248: November 1, 2022
-
-**Today's Plan**
-
-1.
+### Day 248: November 22, 2022
 
 **Today's Progress**:
 
@@ -5116,7 +5110,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Reading - ACID for Databases
 5.  Drupal CMS Setup
 
-### Day 249: November 1, 2022
+### Day 249: November 23, 2022
 
 **Today's Progress**:
 
@@ -5128,11 +5122,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Scrimba React Ex 26-27
 5.  Anki Javascript
 
-### Day 250: November 1, 2022
-
-**Today's Plan**
-
-1.
+### Day 250: November 24, 2022
 
 **Today's Progress**:
 
@@ -5144,11 +5134,16 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Typescript 7th kyu
 5.  Reading - Drupal webforms
 
+### Day 251: November 25, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 251
+
+1. Big anki catchup on Javascript
+2. Reading on CI/CD
+
 ### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
 
 **Today's Progress**:
 
@@ -5158,9 +5153,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 ### Day 230: November 1, 2022
 
-**Today's Plan**
+**Today's Progress**:
+
+#365daysOfCode Day 228
 
 1.
+
+### Day 230: November 1, 2022
 
 **Today's Progress**:
 
@@ -5170,9 +5169,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 ### Day 230: November 1, 2022
 
-**Today's Plan**
+**Today's Progress**:
+
+#365daysOfCode Day 228
 
 1.
+
+### Day 230: November 1, 2022
 
 **Today's Progress**:
 
@@ -5182,9 +5185,13 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 ### Day 230: November 1, 2022
 
-**Today's Plan**
+**Today's Progress**:
+
+#365daysOfCode Day 228
 
 1.
+
+### Day 230: November 1, 2022
 
 **Today's Progress**:
 
@@ -5194,10 +5201,6 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 ### Day 230: November 1, 2022
 
-**Today's Plan**
-
-1.
-
 **Today's Progress**:
 
 #365daysOfCode Day 228
@@ -5205,58 +5208,6 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1.
 
 ### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Plan**
-
-1.
 
 **Today's Progress**:
 
