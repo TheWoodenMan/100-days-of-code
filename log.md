@@ -5143,29 +5143,40 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1. Big anki catchup on Javascript
 2. Reading on CI/CD
 
-### Day 230: November 1, 2022
+### Day 252: November 1, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 252
 
-1.
+1.  Codewars with Team #catchupcrew doing 6th kyus
+2.  Revision of OOP Getters and setters.
+3.  Figuring out classes/interfaces in Typescript
+4.  Anki for React
 
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
+### Day 253: November 1, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 253
 
-1.
+1.  Docker for github repos 🐋
+2.  Using NVM to juggle node versions 🎚️
+3.  Worked through the W3 typescript tutorial
+4.  Typescript Docs Reading 📖
+5.  Codewars typescript 🏙️
+6.  Started Nuxt Jamstacks explorers 👍
+
+### Day 254: November 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 254
+
+1.  #100Devs Standup
+2.  Scrimba React Ex 34-38
+3.  Reading - Why Limit WIP to Ch.5
+4.  Codewars
 
 ### Day 230: November 1, 2022
 
