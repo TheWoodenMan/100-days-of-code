@@ -5143,7 +5143,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1. Big anki catchup on Javascript
 2. Reading on CI/CD
 
-### Day 252: November 1, 2022
+### Day 252: November 26, 2022
 
 **Today's Progress**:
 
@@ -5154,7 +5154,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Figuring out classes/interfaces in Typescript
 4.  Anki for React
 
-### Day 253: November 1, 2022
+### Day 253: November 27, 2022
 
 **Today's Progress**:
 
@@ -5167,7 +5167,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Codewars typescript 🏙️
 6.  Started Nuxt Jamstacks explorers 👍
 
-### Day 254: November 1, 2022
+### Day 254: November 28, 2022
 
 **Today's Progress**:
 
@@ -5176,55 +5176,52 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1.  #100Devs Standup
 2.  Scrimba React Ex 34-38
 3.  Reading - Why Limit WIP to Ch.5
-4.  Codewars
+4.  Codewars - 6th kyu, solved using Set and for/of :)
 
-### Day 230: November 1, 2022
+### Day 255: November 29, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 255
+
+1.  100+ Anki Cards
+
+### Day 256: November 30, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 256
+
+1.  Only Anki
+
+### Day 257: December 1, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 257
+
+1.  Only Anki
+
+### Day 258: December 2, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 258
+
+1.  Updated client site 📝
+2.  Codewars 7th Kyu 🥋
+3.  Anki Javascript 🗃️
+
+### Day 259: December 3, 2022
 
 **Today's Progress**:
 
 #365daysOfCode Day 228
 
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
-
-### Day 230: November 1, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 228
-
-1.
+1.  Anki Javascript,
+2.  Node/React Shopify tutorial
+3.  Reading on YAML for Drupal
+4.
 
 **Plan for tomorrow**
 
