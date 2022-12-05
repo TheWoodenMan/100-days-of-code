@@ -5216,15 +5216,22 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 228
+#365daysOfCode Day 259
 
-1.  Anki Javascript,
-2.  Node/React Shopify tutorial
-3.  Reading on YAML for Drupal
-4.
+1.  Anki Javascript, 🗃️
+2.  Node/React Shopify tutorial 🛍️
+3.  Reading on YAML for Drupal 🧭
+4.  Drupal Webform docs 📝
+5.  Configured drupal webforms for my volunteer org 🌐
 
-**Plan for tomorrow**
+### Day 260: December 4, 2022
 
-1.  Anki
-2.  Banki
-3.  Codewars
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.  Scrima React forms - 39 - 52 ℹ️
+2.  Reading React docs 📖
+3.  useState, webforms, controlled components 🚚
+4.  Big Anki drop 💧
+5.  Finished writing webforms for climate org 🌐
