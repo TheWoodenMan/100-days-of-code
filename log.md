@@ -5235,3 +5235,231 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  useState, webforms, controlled components 🚚
 4.  Big Anki drop 💧
 5.  Finished writing webforms for climate org 🌐
+
+### Day 261: December 5, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 261
+
+1. Codewars 6th & 7th w/UTs
+2. Reading - Javascript objects/Sets
+3. Attended #100Devs Standup
+4. Testing media queries for org site.
+5. Anki - Finally under 100 cards!
+
+### Day 262: December 6, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 262
+
+1.  Advent of Code 1.1/1.2
+2.  Anki Cards for JS
+3.  Built a tool that turns a .csv into a JSON of arrays
+
+### Day 263: December 7, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 263
+
+1.  Back to drupal webforms, 4 more done
+2.  Solved media-link/permissions issues in drupal
+3.  Cleared down more JS anki
+
+### Day 264: December 8, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 264
+
+1.  Drupal Backup/Migrate module config 📝
+2.  Drupal v10 Documentation 📖
+3.  Strapi v3 local setup ✅
+4.  More webforms tweaks 📜
+5.  Anki for Javascript 🗃️
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 260: December 4, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
