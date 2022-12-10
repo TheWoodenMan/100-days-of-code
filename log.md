@@ -5280,13 +5280,17 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  More webforms tweaks 📜
 5.  Anki for Javascript 🗃️
 
-### Day 260: December 4, 2022
+### Day 260: December 9, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 265
 
-1.
+1.  Anki Javascript
+2.  Worked on Shopify Site
+3.  (finally) successfully imported productlist from csv
+4.  Configured a pipeline from scraping an ebay shop to populating a shopify product list
+5.  Presented it to my client was v happy :)))
 
 ### Day 260: December 4, 2022
 
