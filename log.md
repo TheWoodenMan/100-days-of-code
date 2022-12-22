@@ -5280,7 +5280,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  More webforms tweaks 📜
 5.  Anki for Javascript 🗃️
 
-### Day 260: December 9, 2022
+### Day 265: December 9, 2022
 
 **Today's Progress**:
 
@@ -5292,111 +5292,161 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Configured a pipeline from scraping an ebay shop to populating a shopify product list
 5.  Presented it to my client was v happy :)))
 
-### Day 260: December 4, 2022
+### Day 266: December 10, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 266
 
-1.
+1.  Strapi/React setup - It's Alive!
+2.  watched videos on i18next localisation
+3.  setup storybook for the first time
+4.  fixed tailwind issues w/ mobile first breakpoints for my org
 
-### Day 260: December 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 267: December 11, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 267
 
-1.
+1.  Working through storybook tutorial 📖
+2.  Started redoing an old project in React/Tailwind/Strapi 📽️
+3.  Anki for React/Tailwind 🎐
+4.  Finished Pokemon Scarlet ⚫
 
-### Day 260: December 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 268: December 12, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 268
 
-1.
+1.  Typescript Anki
+2.  Attended #100Devs Standup
 
-### Day 260: December 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 269: December 13, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 269
 
-1.
+1.  Scrimba React Ch.53-55
+2.  Reading React Docs
+3.  Reading - Complete Guide to React useEffect
 
-### Day 260: December 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 270: December 14, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 270
 
-1.
+1.  Reading - Effective Typescript Ch.1.1 📖
+2.  React Scrimba Ch.56-58 🪛
+3.  Made great progress on a business client site 👍
+4.  #100Devs Standup 🧍‍♂️
 
-### Day 260: December 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 271: December 15, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 271
 
-1.
+1.  Migrated my Recruitment API to Azure Web APIs 🧭
+2.  Typescript Speedrun by Totally Typescript 💻
+3.  Reading - The Typescript Handbook Intro 📖
+4.  Working more on client site, it's coming together fast 👀
+5.  Reading - Algorithms in Javascript 🔳
 
-### Day 260: December 4, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 272: December 16, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 272
 
-1.
+1.  Watched - React Storybook Crash Course (youtube) 👍
+2.  Reading - Axios Docs 📖
+3.  Worked a little on a React Project ⚛️
+4.  Submitted my first NPO Pull Request 🙌
+5.  Anki for Typescript
 
-### Day 260: December 4, 2022
+### Day 273: December 17, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 273
+
+1.  Reading - Typescript handbook: The Basics 📖
+2.  Working on React Projects with @SangineJoe ⚛️
+3.  Watched - Null References: The Billion Dollar Mistake - Tony Hoare 💵
+4.  Anki - Typescript 🗃️
+5.  Codewars - TS 7th 🥋
+
+### Day 274: December 18, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 274
+
+1.  Reading - Azure web APIs 📖
+2.  debugging with @RFrancoDev :) ✊
+3.  Added better backend stability to my API 📈
+4.  Reading - Graceful Shutdown/Terminator 📕
+5.  Wrestled with server/db shutdown to make JEST tests happy. 🤼
+    Just have one last error to clear with api calls to deploy 💤
+
+### Week 50: December 2022
+
+**Weekly Objectives**:
+
+#1. Finish Scrimba React Meme Gen and Project ❌
+#2. Start Learning Cypress.io ❌
+#3. Continue to work for my charity org ✅
+#4. Set up a mini-project in React/TS/Tailwind/Storybook/Strapi ❌
+#5. Do at least a codewars every day and add tailwind to anki ❌
+#6. Finish Reading the Typescript Handbook ❌
+
+### Day 275: December 19, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 275
+
+1.  Finished building/deploying my RESTful API to azure
+2.  Anki for Javascript
+3.  Reading: Typescript Handbook - Everyday Types
+
+### Day 276: December 20, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 276
+
+1.  #100Devs Standup 🧍‍♂️
+2.  #100Devs SQL Mayanwolfe 🐺
+3.  Anki for Typescript/SQL
+
+### Day 277: December 21, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 277
+
+1.  Intro & Overview to AWS
+2.  AWS Developer Elastic Beanstalk
+3.  Minor updates to my API
+4.  SQL/AWS Anki
+5.  #100Devs Standup and Leetcode
+6.  Code Reviews for my Charity Org Volunteer work :)
+
+### Day 278: December 22, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 278
+
+1.  AWS EC2 Compute
+2.
+
+### Day 260: December 23, 2022
 
 **Today's Progress**:
 
