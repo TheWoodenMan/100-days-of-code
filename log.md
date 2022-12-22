@@ -5398,10 +5398,10 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 **Weekly Objectives**:
 
 #1. Finish Scrimba React Meme Gen and Project ❌
-#2. Start Learning Cypress.io ❌
+#2. Start Learning Cypress.io ✅
 #3. Continue to work for my charity org ✅
 #4. Set up a mini-project in React/TS/Tailwind/Storybook/Strapi ❌
-#5. Do at least a codewars every day and add tailwind to anki ❌
+#5. Do at least a codewars every day and add tailwind to anki ✅
 #6. Finish Reading the Typescript Handbook ❌
 
 ### Day 275: December 19, 2022
