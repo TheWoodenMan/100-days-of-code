@@ -5444,25 +5444,35 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 #365daysOfCode Day 278
 
 1.  AWS EC2 Compute
-2.
+2.  Reading: ACID explained
+3.  #100Devs Standup
+4.  #100Devs Class 71
+5.  Anki
 
-### Day 260: December 23, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 260: December 4, 2022
+### Day 279: December 23, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 279
 
-1.
+1.  Mapping content to strapi 🧭
+2.  Pair Programming with @JackMonaco1 🤝
+3.  Anki 89 Cards 🗃️
+4.  Codewars TS 8th 🥋
+5.  AWS: Compute in the Cloud 2 Done ✅🟠
+6.  #100Devs Office hours
 
-### Day 260: December 4, 2022
+### Day 280: December 24, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 280
+
+1.  Anki 🗃️
+2.  Reading on Classes 📖
+3.  Drank a few whiskies while wrapping presents 🎁
+
+### Day 281: December 25, 2022
 
 **Today's Progress**:
 
