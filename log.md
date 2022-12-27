@@ -5476,17 +5476,20 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 281
 
-1.
+1.  ZX Spectrum Basic
+2.  Merry Christmas
 
 ### Day 260: December 4, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 282
 
-1.
+1.  Anki AWS & Javascript
+2.  Codewars 4th, Hashmaps again
+3.  Reading next.js routes
 
 ### Day 260: December 4, 2022
 
