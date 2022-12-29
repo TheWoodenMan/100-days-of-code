@@ -5481,7 +5481,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1.  ZX Spectrum Basic
 2.  Merry Christmas
 
-### Day 260: December 4, 2022
+### Day 260: December 26, 2022
 
 **Today's Progress**:
 
@@ -5491,21 +5491,28 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Codewars 4th, Hashmaps again
 3.  Reading next.js routes
 
-### Day 260: December 4, 2022
+### Day 260: December 27, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 283
 
-1.
+1.  DOM Manipulation pt1 by @freecodecamp
+2.  Scrimba React Ch 58 to 64 - Section 3 done!
+3.  Reading on ACID for Databases.
+4.  cypress.io first runthrough of kitchensink
+5.  anki 90 cards - been a while since it looked like this 👀 👇
 
-### Day 260: December 4, 2022
+### Day 284: December 28, 2022
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 284
 
-1.
+1.  AWS - M3 Infrastructure/Reliability
+2.  Scrimba React - Light/Dark Mode
+3.  Codewars 7th
+4.  Anki Javascript/React/AWS
 
 ### Day 260: December 4, 2022
 
