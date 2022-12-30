@@ -5509,12 +5509,45 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 #365daysOfCode Day 284
 
-1.  AWS - M3 Infrastructure/Reliability
-2.  Scrimba React - Light/Dark Mode
-3.  Codewars 7th
-4.  Anki Javascript/React/AWS
+1.  AWS - M3 Infrastructure/Reliability 🟠
+2.  Scrimba React - Light/Dark Mode 🌞🌔
+3.  Codewars 7th 🥋
+4.  Anki Javascript/React/AWS 🗃️
 
-### Day 260: December 4, 2022
+### Day 285: December 29, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 285
+
+1.  Anki Node/AWS
+2.  AWS - M4 Networking
+3.  Codewars 8th, Regex
+4.  Scrimba React Ch4 4-6
+5.  Worked on client shopify site
+
+### Day 286: December 30, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 286
+
+1.  Reading - useEffect Cleanup
+2.  Anki OOP/AWS
+3.  More work on shopify site.
+4.  AWS - M5 Storage and DBs
+5.  Scrimba React Ch4 6-8
+6.  Codewars 7th hashmaps
+
+### Day 287: December 31, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 287
+
+1.
+
+### Day 288: January 1, 2023
 
 **Today's Progress**:
 
@@ -5522,7 +5555,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.
 
-### Day 260: December 4, 2022
+### Day 288: January 1, 2023
 
 **Today's Progress**:
 
@@ -5530,7 +5563,231 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.
 
-### Day 260: December 4, 2022
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.
+
+### Day 288: January 1, 2023
 
 **Today's Progress**:
 
