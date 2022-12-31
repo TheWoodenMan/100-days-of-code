@@ -5532,12 +5532,12 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 #365daysOfCode Day 286
 
-1.  Reading - useEffect Cleanup
-2.  Anki OOP/AWS
-3.  More work on shopify site.
-4.  AWS - M5 Storage and DBs
-5.  Scrimba React Ch4 6-8
-6.  Codewars 7th hashmaps
+1.  Reading - useEffect Cleanup 📖
+2.  Anki OOP/AWS 🗃️
+3.  More work on shopify site. 🛍️
+4.  AWS - M5 Storage and DBs 🟠
+5.  Scrimba React Ch4 6-8 ⚛️
+6.  Codewars 7th hashmaps 🥋
 
 ### Day 287: December 31, 2022
 
@@ -5545,7 +5545,11 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 #365daysOfCode Day 287
 
-1.
+1.  Anki AWS, React, JS 🗃️
+2.  Finished React Notes app w/ Scrimba ⚛️
+3.  Converted to Typescript 👀
+4.  Made it all typesafe 🧑‍⚕️
+5.  Deployed to netlify, next step tailwind 🐦
 
 ### Day 288: January 1, 2023
 
