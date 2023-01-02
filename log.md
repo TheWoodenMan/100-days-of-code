@@ -5549,9 +5549,34 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Finished React Notes app w/ Scrimba ⚛️
 3.  Converted to Typescript 👀
 4.  Made it all typesafe 🧑‍⚕️
-5.  Deployed to netlify, next step tailwind 🐦
+5.  Resolved dependencies/Reach 17 issues
+6.  Deployed to netlify, next step tailwind 🐦
 
 ### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 288
+
+1.  Anki Node / AWS 🗃️
+2.  Codewars 8th 🥋
+3.  Set up an EC2 instance running FoundryVTT 🍊
+4.  Set up S3 bucket and connected it up 🪣
+5.  Set up triggers to switch itself off on < 0.1% cpu use then email me :)
+
+### Day 289: January 2, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 260
+
+1.  AWS M6 - Security
+2.  Anki AWS / Node
+3.  Codewars 7th
+4.  #100Devs Standup
+5.
+
+### Day 288: January 3, 2023
 
 **Today's Progress**:
 
@@ -5559,23 +5584,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.
 
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
+### Day 288: January 4, 2023
 
 **Today's Progress**:
 
