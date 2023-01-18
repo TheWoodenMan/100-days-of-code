@@ -5564,121 +5564,181 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Set up S3 bucket and connected it up 🪣
 5.  Set up triggers to switch itself off on < 0.1% cpu use then email me :)
 
-### Day 289: January 2, 2023
+### Day 288: January 2, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 288
 
-1.  AWS M6 - Security
-2.  Anki AWS / Node
-3.  Codewars 7th
-4.  #100Devs Standup
-5.
+1.  Anki
 
 ### Day 288: January 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 288
 
-1.
+1.  Anki
 
-### Day 288: January 4, 2023
+### Day 289: January 4, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 289
 
-1.
+1.  AWS M6 - Security
+2.  Anki AWS / Node
+3.  Codewars 7th
+4.  #100Devs Standup
+5.  React Scrimba - Tenzies init and setup
+
+### Day 290: January 5, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 290
+
+1. Anki AWS / node
+2. leetcode - recursion 👀
+
+kind of a minimal day, coding but doing my basic reps while full with other work
+
+### Day 291: January 6, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 291
+
+1.  #100Devs Tea Spill 🍵💦
+2.  Anki - AWS/Node 🟠
+3.  AWS - M7 - Monitoring / Analytics
+4.  React Scrimba - Tenzies / components
+
+### Day 292: January 7, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 292
+
+1. Codewars 7th
+2. Anki AWS/JS
+3. React Tenzies - All done
+   Picked up react hooks, useState, useEffect and conditional rendering :)
+
+### Day 293: January 8, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 293
+
+1. Codewars 7th
+2. Anki JS/React
+3. Docker Tutorial with Mosh :)
+
+### Day 294: January 9, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 294
+
+1. Intro to Drupal - YT
+2. #100Devs Standup
+3. PoW Weekly Dev Call :)
+4. Anki node/JS
+
+### Day 288: January 8, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 295
+
+1. PMI Webinar: Test-Driven Development in the Larger Context: TDD & ATDD
+2. Anki - CSS/Learning how to learn
+3. Codewars 6th - w/ UTs :)
+4. #100Devs Stand up
+5. Azure DevOps - CI/CD Tutorial - YT
+6. Azure CI/CD Pipelines - YT
+
+### Day 288: January 9, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 296
+
+1. Anki Node
+2. #100Devs Standup
+3. Reading - Deploy next.js to azure app services
+4. Codewars 8th
+
+### Day 288: January 10, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 297
+
+1.  #100Devs code reviews
+2.  Codewars 6th - filter and edge-cases
+3.  anki node
+4.  Reading - Next.js
+
+### Day 288: January 11, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 298
+
+1.  #100Devs Tea Spill 👀
+2.  Anki - System Architecture/JS
+3.  Codewars 7th
+4.  Reading PMI - TDD
+
+### Day 288: January 12, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 299
+
+1.  Reading TDD Tests as "Karens" 🤣
+2.  Anki Javascript / Node
+3.  Reading: Typescript Version docs
+4.  Spent a good 3-4 hours reading through yarn version management.
+
+### Day 288: January 13, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 300
+
+1.  Anki - JS
+2.  Reading - Hoshen–Kopelman algorithm
+3.  codewars 6th
 
 ### Day 288: January 1, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 301
 
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
+1.  Anki Javascript 🗃️
+2.  Codewars 6th - Wrote a Typescript translation for a 6th Kyu :raised_hands:
+3.  #100Devs Standup 🧍‍♂️
+4.  Got my Graduation Cert for #100Devs 🥇
+5.  Azure DevOps - Started going through YAML configs
+6.  Attended PoW Standup 🌍
 
 ### Day 288: January 1, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 302
 
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
+1.  Reading - Express session Management 🗂️
+2.  Devops - Jenkins for CI/CD 🧈
+3.  Reading - Restful APIs 📓
+4.  Reading - Supertest/Jest for APIs 🧪
+5.  Wrote a bunch of unit/route tests for my API 🚚
+6.  Anki node/js
+7.  codewars 6th then translated to TypeScript 📘
 
 ### Day 288: January 1, 2023
 
