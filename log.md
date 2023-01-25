@@ -5817,7 +5817,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 309
 
 1. Codewars, TS Translations/JS 7th/8th
 2. PHP Basics on codewars
