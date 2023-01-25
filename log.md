@@ -5744,9 +5744,74 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 303
 
-1.
+1.  Reading Azure DevOps
+2.  Dev Onboarding
+3.  #100Devs Standup
+4.  codewars 6th
+    Struggling a bit on the devops stuff,
+    anyone deployed a pipeline or docker image to azure?
+    Bonus points if it's drupal
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 304
+
+1.  Anki
+2.  Azure DevOps for containers
+3.  Drupal / Lando deployments
+4.  codewars 8th and conversion to typescript
+5.  Started on a tricky 6th but will finish tomorrow.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 305
+
+1.  Finished Cookie Create - 6th w/ codewars
+    (anyone who can do Dates or Regex without looking in JS is a beast 🐺)
+2.  Anki - React / JS
+3.  @freecodecamp Redux 100%
+4.  Reading: Seven Languages In Seven Weeks Ch1-Intro 👀📖
+5.  Frontend Masters DS&A - Intro/Basics
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 306
+
+1.  AWS Ch8. - Pricing / Support
+2.  Codewars 7th JS & Typescript Translation
+3.  Anki node / Redux / TS
+4.  Reading : 7 Langs in 7 weeks
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 307
+
+1.  Anki - Typescript / node
+2.  Codewars 7th
+3.  Reading : 7 Langs in 7 weeks - Ruby
+4.  Frontend Masters - DS&A - Search Algorithms.
+
+### Day 288: January 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 308
+
+1.  Anki 🗃️
+2.  Codewars TS - Refactored my Translations 📘
+3.  PoW standup 🌐
+4.  #100Devs standup 💪
+5.  Drupal CI/CD YT 👻
 
 ### Day 288: January 1, 2023
 
@@ -5754,47 +5819,12 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 #365daysOfCode Day 260
 
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
-
-### Day 288: January 1, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 260
-
-1.
+1. Codewars, TS Translations/JS 7th/8th
+2. PHP Basics on codewars
+3. Made it to 4th Kyu CW
+4. Anki
+5. DS&A Delete/Repeat - search algos
+6. FEMasters - Bubblesort
 
 ### Day 288: January 1, 2023
 
