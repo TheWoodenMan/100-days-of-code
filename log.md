@@ -5837,7 +5837,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  Had a great coffee chat in the morning ☕
 4.  Spent more hours than I should have overclocking a raspberrypi and installing Ubuntu 22 👀
 
-### Day 288: January 1, 2023
+### Day 311: January 1, 2023
 
 **Today's Progress**:
 
