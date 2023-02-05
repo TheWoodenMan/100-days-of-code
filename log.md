@@ -5568,7 +5568,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 288
+#365daysOfCode Day 289
 
 1.  Anki
 
@@ -5576,7 +5576,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 288
+#365daysOfCode Day 290
 
 1.  Anki
 
@@ -5584,7 +5584,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 289
+#365daysOfCode Day 291
 
 1.  AWS M6 - Security
 2.  Anki AWS / Node
@@ -5596,7 +5596,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 **Today's Progress**:
 
-#365daysOfCode Day 290
+#365daysOfCode Day 292
 
 1. Anki AWS / node
 2. leetcode - recursion 👀
@@ -5607,7 +5607,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 **Today's Progress**:
 
-#365daysOfCode Day 291
+#365daysOfCode Day 293
 
 1.  #100Devs Tea Spill 🍵💦
 2.  Anki - AWS/Node 🟠
@@ -5618,7 +5618,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 **Today's Progress**:
 
-#365daysOfCode Day 292
+#365daysOfCode Day 294
 
 1. Codewars 7th
 2. Anki AWS/JS
@@ -5629,7 +5629,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 **Today's Progress**:
 
-#365daysOfCode Day 293
+#365daysOfCode Day 295
 
 1. Codewars 7th
 2. Anki JS/React
@@ -5639,18 +5639,18 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 **Today's Progress**:
 
-#365daysOfCode Day 294
+#365daysOfCode Day 296
 
 1. Intro to Drupal - YT
 2. #100Devs Standup
 3. PoW Weekly Dev Call :)
 4. Anki node/JS
 
-### Day 288: January 8, 2023
+### January 10, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 295
+#365daysOfCode Day 297
 
 1. PMI Webinar: Test-Driven Development in the Larger Context: TDD & ATDD
 2. Anki - CSS/Learning how to learn
@@ -5659,7 +5659,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5. Azure DevOps - CI/CD Tutorial - YT
 6. Azure CI/CD Pipelines - YT
 
-### Day 288: January 9, 2023
+### January 11, 2023
 
 **Today's Progress**:
 
@@ -5670,7 +5670,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3. Reading - Deploy next.js to azure app services
 4. Codewars 8th
 
-### Day 288: January 10, 2023
+### January 12, 2023
 
 **Today's Progress**:
 
@@ -5681,7 +5681,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  anki node
 4.  Reading - Next.js
 
-### Day 288: January 11, 2023
+### January 13, 2023
 
 **Today's Progress**:
 
@@ -5692,7 +5692,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  Codewars 7th
 4.  Reading PMI - TDD
 
-### Day 288: January 12, 2023
+### January 14, 2023
 
 **Today's Progress**:
 
@@ -5703,7 +5703,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  Reading: Typescript Version docs
 4.  Spent a good 3-4 hours reading through yarn version management.
 
-### Day 288: January 13, 2023
+### January 15, 2023
 
 **Today's Progress**:
 
@@ -5713,7 +5713,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 2.  Reading - Hoshen–Kopelman algorithm
 3.  codewars 6th
 
-### Day 288: January 1, 2023
+### January 16, 2023
 
 **Today's Progress**:
 
@@ -5726,7 +5726,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5.  Azure DevOps - Started going through YAML configs
 6.  Attended PoW Standup 🌍
 
-### Day 288: January 1, 2023
+### January 17, 2023
 
 **Today's Progress**:
 
@@ -5740,7 +5740,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 6.  Anki node/js
 7.  codewars 6th then translated to TypeScript 📘
 
-### Day 288: January 1, 2023
+### January 18, 2023
 
 **Today's Progress**:
 
@@ -5754,7 +5754,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
     anyone deployed a pipeline or docker image to azure?
     Bonus points if it's drupal
 
-### Day 288: January 1, 2023
+### January 19, 2023
 
 **Today's Progress**:
 
@@ -5766,7 +5766,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  codewars 8th and conversion to typescript
 5.  Started on a tricky 6th but will finish tomorrow.
 
-### Day 288: January 1, 2023
+### January 20, 2023
 
 **Today's Progress**:
 
@@ -5779,7 +5779,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  Reading: Seven Languages In Seven Weeks Ch1-Intro 👀📖
 5.  Frontend Masters DS&A - Intro/Basics
 
-### Day 288: January 1, 2023
+### January 21, 2023
 
 **Today's Progress**:
 
@@ -5790,7 +5790,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  Anki node / Redux / TS
 4.  Reading : 7 Langs in 7 weeks
 
-### Day 288: January 1, 2023
+### January 22, 2023
 
 **Today's Progress**:
 
@@ -5801,7 +5801,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  Reading : 7 Langs in 7 weeks - Ruby
 4.  Frontend Masters - DS&A - Search Algorithms.
 
-### Day 288: January 1, 2023
+### January 23, 2023
 
 **Today's Progress**:
 
@@ -5813,7 +5813,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  #100Devs standup 💪
 5.  Drupal CI/CD YT 👻
 
-### Day 288: January 1, 2023
+### January 24, 2023
 
 **Today's Progress**:
 
@@ -5826,7 +5826,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5. DS&A Delete/Repeat - search algos 🧮
 6. FEMasters - Bubblesort 🧋
 
-### Day 288: January 1, 2023
+### January 25, 2023
 
 **Today's Progress**:
 
@@ -5837,7 +5837,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  Had a great coffee chat in the morning ☕
 4.  Spent more hours than I should have overclocking a raspberrypi and installing Ubuntu 22 👀
 
-### Day 311: January 1, 2023
+### January 26, 2023
 
 **Today's Progress**:
 
@@ -5850,58 +5850,312 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5.  Codewars 7th
 6.  Started Scrima React Advanced.
 
-### Day 288: January 1, 2023
+### January 27, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 311
+
+1.  More portfolio work
+2.  Started writing a react UI
+3.  Watched @helloitsrufio 's React/Next stream on catchup :)
+4.  Codewars 6th
+5.  Anki React/Redux/Javascript
+
+### January 28, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 312
+
+1.  Codewars 6th 🥋
+2.  Debugged mysql for nginx 🟩
+3.  Got nginx set up in docker 🐳
+4.  Setup Cloudflare tunnels to my server ☁️
+5.  Reading on systemctl, .service and pm2 💻
+6.  Mapping strapi routes w/ @JackMonaco1 💯
+
+Got my foundryVTT server running really nice on RaspberryPI 🍓🥧
+
+### Day 313: January 29, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 313
+
+1.  Codewars 7th
+2.  Anki - core javascript
+
+### Day 314: January 30, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 314
+
+1.  Codewars 7th
+2.  Anki
+3.  #100Devs Standup
+4.  #PoW Standup
+5.  Drupal DevOps - Reading
+
+Anyone ever deployed a drupal site to Azure before?
+drop me a dm
+
+### January 31, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 315
+
+1.  Anki
+2.  Leet code - Common Divisors 👀
+3.  #100Devs Standup
+4.  #Drupal reading - lando/docker
+5.  Azure DevOps Reading about containers.
+
+### January February 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 316
+
+1.  AWS Ch.9 Migration
+2.  Anki JS / TS / Node
+3.  #100Devs Standup
+4.  PoW Mapping Strapi Routes w/ @JackMonaco1
+5.  Codewars 6th
+
+### February 2, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 317
+
+1.  Anki - so much easier if you do it every day 😅
+2.  Rewatched #100Devs PREP/Technical stream 🔍
+    a MUST watch for software engineers on the hunt.
+    https://www.youtube.com/watch?v=FS7UxmzYF_M
+3.  Codewars 7th - Queues 🥒
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.  Anki
+2.  Introduction to .NET MS Learn
+3.  .NET project dependencies / nuGet updates
+4.  C# Codewars 8th Fundamentals x3
+5.  @vGothNight got me through .NET intro tonight 🤣
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 319
+
+1.  Anki
+2.  Reading: .NET vs Node.js
+3.  MS Learn: Debugging .NET
+4.  C# Codewars 6th kyu 👀
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
 
 1.
 
-### Day 288: January 1, 2023
+### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 318
 
 1.
 
-### Day 288: January 1, 2023
+### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 318
 
 1.
 
-### Day 288: January 1, 2023
+### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 318
 
 1.
 
-### Day 288: January 1, 2023
+### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 318
 
 1.
 
-### Day 288: January 1, 2023
+### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 318
 
 1.
 
-### Day 288: January 1, 2023
+### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 260
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
+
+1.
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 318
 
 1.
