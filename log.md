@@ -5949,7 +5949,7 @@ drop me a dm
 4.  C# Codewars 8th Fundamentals x3
 5.  @vGothNight got me through .NET intro tonight 🤣
 
-### January February 3, 2023
+### January February 4, 2023
 
 **Today's Progress**:
 
@@ -5960,61 +5960,83 @@ drop me a dm
 3.  MS Learn: Debugging .NET
 4.  C# Codewars 6th kyu 👀
 
-### January February 3, 2023
+### January February 5, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 320
 
-1.
+1.  Anki
+2.  codewars c# 7th
+3.  MS Learn c# Files & Directories started
 
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
+### January February 6, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 321
 
-1.
+1.  Anki
+2.  Codewars JS 6th
+3.  #100Devs Standup
+4.  #PoW Standup
 
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
+### January February 7, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 322
 
-1.
+1.  Anki
+2.  Codewars JS 6th
+3.  #100Devs Standup
+4.  Started working on a React/TS/Strapi site for fun/practice
+5.  DSA Hashmap delete/repeat
 
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
+### January February 8, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 323
 
-1.
+1.  Anki node / C# / JS 🗃️
+2.  Working on Strapi/React typesafety 🦺
+3.  codewars 5th/6th taking a bit more time to work on trickier problems 👀
+4.  Reading Strapi docs
+
+### January February 9, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 324
+
+1. Anki
+2. Codewars 6th, cracked a tricky one
+3. Working through graphql fragments and adding type-safety to strapi blog
+
+### January February 10, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 325
+
+1.  Anki
+2.  Codewars 6th
+3.  Grabbing typeinfo out of graphql
+
+### January February 11, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 326
+
+1.  Anki 🗃️
+2.  Codewars 6th, regex and/or date problems are always a pain 🤣
+3.  Reading: useContext
+4.  lando debugging, doesn't play well with ubuntu
+5.  LOTs of typescripting on strapi-blog
+6.  Reading: graphQL docs
+7.  Reading: Cypress.io docs
 
 ### January February 3, 2023
 
