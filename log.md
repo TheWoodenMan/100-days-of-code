@@ -6038,69 +6038,92 @@ drop me a dm
 6.  Reading: graphQL docs
 7.  Reading: Cypress.io docs
 
+### January February 12, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 327
+
+1.  Anki 🗃️
+2.  Codewars 6th
+3.  cypress reading docs
+4.  cypress working through React configs for components
+
+### January February 13, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 328
+
+1.  Anki redux
+2.  Codewars 6th
+
+Posting this early, I'm in Madeira for 4 days with work so likely won't get much more than anki done each day this week!
+
+### January February 14, 2023
+
+**Today's Progress**:
+
+#365daysofcode
+Day 329
+
+1. Only got anki done.
+
+On deployment in Madeira and saw this stunning rainbow at the airport!
+
+### January February 15, 2023
+
+**Today's Progress**:
+
+#365daysofcode Day 330
+
+Only did anki
+
+Drank ponchas and jager with my team til sundown in madeira :)))
+
+### January February 16, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 331
+
+1. Did anki, kept this up all week despite working full time!
+   Last working day in Madeira, next stop Porto
+
+### January February 17, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 332
+
+1.  Anki
+2.  #100Devs Office hours
+3.  Codewars 6th kyu
+
+Travel day, spent a lot of time in airport/flying, great to make it to office hours and
+squeeze in a bit of codewars at the end of the day!
+
+### January February 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 333
+
+1.  Anki
+2.  Codewars 6th
+3.  Reading: Typescript generics
+4.  Went back over an old project to add a few features :)
+
 ### January February 3, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 318
 
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
+1.  Anki
+2.  Codewars 6th
+3.  refactored an old API project based on feedback and added features.
+4.
 
 ### January February 3, 2023
 
