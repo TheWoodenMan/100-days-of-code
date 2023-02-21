@@ -6118,20 +6118,22 @@ squeeze in a bit of codewars at the end of the day!
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 334
 
 1.  Anki
 2.  Codewars 6th
-3.  refactored an old API project based on feedback and added features.
-4.
+3.  refactored an old API project based on feedback and added a few new features.
+    It's interesting going back to old projects and bringing them up to date with your new skills :)
 
 ### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 335
 
-1.
+1.  Anki
+2.  Codewars 7th Kyu x2
+3.
 
 ### January February 3, 2023
 
