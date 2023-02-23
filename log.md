@@ -6139,9 +6139,11 @@ squeeze in a bit of codewars at the end of the day!
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 336
 
-1.
+1.  Anki
+2.  Codewars 6th
+    knocking out the 6th kyus quite easily now I'm happy to say 😄
 
 ### January February 3, 2023
 
