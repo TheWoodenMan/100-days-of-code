@@ -6103,7 +6103,7 @@ Drank ponchas and jager with my team til sundown in madeira :)))
 Travel day, spent a lot of time in airport/flying, great to make it to office hours and
 squeeze in a bit of codewars at the end of the day!
 
-### January February 3, 2023
+### January February 18, 2023
 
 **Today's Progress**:
 
@@ -6114,7 +6114,7 @@ squeeze in a bit of codewars at the end of the day!
 3.  Reading: Typescript generics
 4.  Went back over an old project to add a few features :)
 
-### January February 3, 2023
+### January February 19, 2023
 
 **Today's Progress**:
 
@@ -6125,7 +6125,7 @@ squeeze in a bit of codewars at the end of the day!
 3.  refactored an old API project based on feedback and added a few new features.
     It's interesting going back to old projects and bringing them up to date with your new skills :)
 
-### January February 3, 2023
+### January February 20, 2023
 
 **Today's Progress**:
 
@@ -6135,7 +6135,7 @@ squeeze in a bit of codewars at the end of the day!
 2.  Codewars 7th Kyu x2
 3.
 
-### January February 3, 2023
+### January February 21, 2023
 
 **Today's Progress**:
 
@@ -6145,53 +6145,72 @@ squeeze in a bit of codewars at the end of the day!
 2.  Codewars 6th
     knocking out the 6th kyus quite easily now I'm happy to say 😄
 
+### January February 22, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 337
+
+1.  Anki
+2.  Codewars 5th 👀
+
+### January February 23, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 338
+
+1.  Anki
+2.  Codewars 6th
+
+### January February 24, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 339
+
+1.  Anki 🗃️
+2.  Codewars 5th 🥋
+3.  #100Devs Town Hall 🏛️
+4.  React Front to Back JSX Spaced Rep ⚛️
+    Great to start move forward again a bit after a long work deployment! :)
+
+### January February 25, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 340
+
+1.  Anki 🗃️
+2.  Codewars 7th 🥋
+3.  React Front to Back Building Components
+4.  Pair programming with @JackMonaco1
+5.  Watched a few videos on Strapi Pages
+6.  AWS Ch. 10 & 11
+    Great day :)
+
 ### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 341
 
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
+1.  Codewars 6th & 7th 🥋
+2.  anki 🗃️
+3.  Frontendmasters - BubbleSort
 
 ### January February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 342
 
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
-
-### January February 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 318
-
-1.
+1.  PoW Sprint Meeting
+2.  Reading: things-every-javascript-developer-should-know
+3.  Q&A: https://github.com/lydiahallie/javascript-questions
+4.  codewars 6th
+5.  anki
+6.  Reading : algorithms to find prime numbers
 
 ### January February 3, 2023
 
