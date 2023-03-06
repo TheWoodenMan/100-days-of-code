@@ -6189,7 +6189,7 @@ squeeze in a bit of codewars at the end of the day!
 6.  AWS Ch. 10 & 11
     Great day :)
 
-### January February 3, 2023
+### January February 26, 2023
 
 **Today's Progress**:
 
@@ -6199,7 +6199,7 @@ squeeze in a bit of codewars at the end of the day!
 2.  anki 🗃️
 3.  Frontendmasters - BubbleSort
 
-### January February 3, 2023
+### January February 27, 2023
 
 **Today's Progress**:
 
@@ -6212,18 +6212,257 @@ squeeze in a bit of codewars at the end of the day!
 5.  anki
 6.  Reading : algorithms to find prime numbers
 
-### January February 3, 2023
+### January February 28, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 343
+
+1.  Anki 🗃️
+2.  Codewars 6th 🥋
+3.  #100Devs standup 🧍‍♂️
+4.  IKM Javascript EC7 test 👀
+
+### January March 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 344
+
+1.  Anki 🗃️
+
+### January March 2, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 345
+
+1.  Anki 🗃️
+2.  Codewars 6th
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.  Anki 🗃️
+
+### January March 4, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 347
+
+1.  Anki 🗃️
+
+### January March 5, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 348
+
+1.  Codewars 5th
+2.  Anki
+3.  Frontend Masters DSA - Linked Lists
+4.  React Front to Back - Adding Components/useState to a side project as spaced rep
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 347
 
 1.
 
-### January February 3, 2023
+### January March 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
+
+1.
+
+### January March 3, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 346
 
 1.
