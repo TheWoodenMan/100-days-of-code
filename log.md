@@ -1527,7 +1527,7 @@ this was all it took:<br>
 
 ---
 
-### Day 77: May 14, 2022
+### Day 77: May 31, 2022
 
 **Today's Progress**:
 
@@ -2096,7 +2096,7 @@ this was all it took:<br>
 2. coffee chats..
 3. Bring it on again homework.
 
-### Day 100: June 24, 2022
+### Day 100: June 23, 2022
 
 **Today's Progress**:
 
@@ -2120,7 +2120,7 @@ this was all it took:<br>
 2.  Start reading eloquent javascript
 3.  Anki
 
-### Day 101: June 25, 2022
+### Day 101: June 24, 2022
 
 **Today's Progress**:
 
@@ -2142,7 +2142,7 @@ this was all it took:<br>
 2. Take a crack at the next FCC problem
 3. Watch traversy media course on git/github
 
-### Day 102: June 26, 2022
+### Day 102: June 25, 2022
 
 **Today's Progress**:
 
@@ -2168,7 +2168,7 @@ this was all it took:<br>
 4.  Keep pushing freecode camp
 5.  do a few more codecademy exercises
 
-### Day 103: June 27, 2022
+### Day 103: June 26, 2022
 
 **Today's Progress**:
 
@@ -2195,7 +2195,7 @@ this was all it took:<br>
 3.  I will try and fit in ch.3 of eloquent javascript.
 4.  Flexbox zombies continues.
 
-### Day 104: June 28, 2022
+### Day 104: June 27, 2022
 
 **Today's Progress**:
 
@@ -2222,7 +2222,7 @@ this was all it took:<br>
 3.  anki
 4.  review starfinder project and do a little content work on it.
 
-### Day 105: June 29, 2022
+### Day 105: June 28, 2022
 
 **Today's Progress**:
 
@@ -2244,7 +2244,7 @@ this was all it took:<br>
 
 1.  It's time for super sunday - 9 hours of review - lets go!
 
-### Day 106: June 30, 2022
+### Day 106: June 29, 2022
 
 **Today's Progress**:
 
@@ -2266,7 +2266,7 @@ this was all it took:<br>
 
 1.
 
-### Day 107: July 1, 2022
+### Day 107: June 30, 2022
 
 **Today's Progress**:
 
@@ -2289,7 +2289,7 @@ this was all it took:<br>
 3.  solve addTogether FCC algorithm
 4.  Flagged for revision - rest operator
 
-### Day 108: July 2, 2022
+### Day 108: July 1, 2022
 
 **Today's Progress**:
 
@@ -2318,7 +2318,7 @@ this was all it took:<br>
 2.  have another crack at FCC
 3.  Push on with sf character picking - it's a grind but get some of it done
 
-### Day 109: July 3, 2022
+### Day 109: July 2, 2022
 
 **Today's Progress**:
 
@@ -2347,7 +2347,7 @@ this was all it took:<br>
 5.  Flexbox Zombies Ch.10?
 6.  Don't forget to stretch https://simpleprogrammer.com/ergonomic-stretches-for-programmers/
 
-### Day 110: July 4, 2022
+### Day 110: July 3, 2022
 
 **Today's Progress**:
 
@@ -2370,7 +2370,7 @@ this was all it took:<br>
 
 1.
 
-### Day 111: July 5, 2022
+### Day 111: July 4, 2022
 
 **Today's Progress**:
 
@@ -2400,7 +2400,7 @@ this was all it took:<br>
 2. Codewars 8th Kyu
 3. Continue javascript.info and jsway reading.
 
-### Day 112: July 6, 2022
+### Day 112: July 5, 2022
 
 **Today's Progress**:
 
@@ -2429,7 +2429,7 @@ this was all it took:<br>
 3.  Javascript 30 day 4
 4.  Think about Traversy React
 
-### Day 113: July 7, 2022
+### Day 113: July 6, 2022
 
 **Today's Progress**:
 
@@ -2455,7 +2455,7 @@ this was all it took:<br>
 1.  Try and finish javascript 30
 2.  Fit in some coding even though I have a full day
 
-### Day 114: July 8, 2022
+### Day 114: July 7, 2022
 
 **Today's Progress**:
 
@@ -2480,7 +2480,7 @@ this was all it took:<br>
 3.  take a look at gravity clicker
 4.  FCC Sass if time.
 
-### Day 115: July 9, 2022
+### Day 115: July 8, 2022
 
 **Today's Progress**:
 
@@ -2506,7 +2506,7 @@ this was all it took:<br>
 2.  #100Devs - continue with Class 21/22 homework
 3.
 
-### Day 116: July 10, 2022
+### Day 116: July 9, 2022
 
 **Today's Progress**:
 
@@ -2539,7 +2539,7 @@ this was all it took:<br>
 3.  push autofiller again.
 4.  Start jsway tasks
 
-### Day 117: July 11, 2022
+### Day 117: July 10, 2022
 
 **Today's Progress**:
 
@@ -2565,7 +2565,7 @@ this was all it took:<br>
 2.  Anki
 3.
 
-### Day 118: July 12, 2022
+### Day 118: July 11, 2022
 
 **Today's Progress**:
 
@@ -2594,7 +2594,7 @@ this was all it took:<br>
 5.  JSX on FCC? start possibly
 6.  Document issues for gravity clicker
 
-### Day 119: July 13, 2022
+### Day 119: July 12, 2022
 
 **Today's Progress**:
 
@@ -2620,7 +2620,7 @@ this was all it took:<br>
 5.  JSX on FCC? start possibly
 6.  Document issues for gravity clicker
 
-### Day 120: July 14, 2022
+### Day 120: July 13, 2022
 
 **Today's Progress**:
 
@@ -2648,7 +2648,7 @@ this was all it took:<br>
 2.  Anki
 3.  Class 23 videos
 
-### Day 121: July 15, 2022
+### Day 121: July 14, 2022
 
 **Today's Progress**:
 
@@ -2676,7 +2676,7 @@ this was all it took:<br>
 3.  Objects the basics
 4.
 
-### Day 122: July 16, 2022
+### Day 122: July 15, 2022
 
 **Today's Progress**:
 
@@ -2706,7 +2706,7 @@ this was all it took:<br>
 2.  Anki
 3.  https://javascript.info/ Whole Chapter - Objects: the basics
 
-### Day 123: July 17, 2022
+### Day 123: July 16, 2022
 
 **Today's Progress**:
 
@@ -2733,7 +2733,7 @@ this was all it took:<br>
 4.  Start 100Devs calculator
 5.  Class
 
-### Day 124: July 18, 2022
+### Day 124: July 17, 2022
 
 **Today's Progress**:
 
@@ -2754,7 +2754,7 @@ this was all it took:<br>
 
 1.
 
-### Day 125: July 19, 2022
+### Day 125: July 18, 2022
 
 **Today's Progress**:
 
@@ -2777,7 +2777,7 @@ this was all it took:<br>
 2.  Anki
 3.  Codewars 8th kyu
 
-### Day 126: July 20, 2022
+### Day 126: July 19, 2022
 
 **Today's Progress**:
 
@@ -2800,7 +2800,7 @@ this was all it took:<br>
 
 1.  Push class 24
 
-### Day 127: July 21, 2022
+### Day 127: July 20, 2022
 
 **Today's Progress**:
 
@@ -2822,7 +2822,7 @@ this was all it took:<br>
 
 1.  Tomorrow is a travel day so it's going to be difficult to fit anything in, so anything I can manage is a bonus.
 
-### Day 128: July 22, 2022
+### Day 128: July 21, 2022
 
 **Today's Progress**:
 
@@ -2851,7 +2851,7 @@ this was all it took:<br>
 3.  Finish the js video I have outstanding
 4.  Push on to APIs
 
-### Day 129: July 23, 2022
+### Day 129: July 22, 2022
 
 **Today's Progress**:
 
@@ -2884,7 +2884,7 @@ this was all it took:<br>
 2.  API Homework, lets get started
 3.  Codewars/Anki - never skip
 
-### Day 130: July 24, 2022
+### Day 130: July 23, 2022
 
 **Today's Progress**:
 
@@ -2915,7 +2915,7 @@ this was all it took:<br>
 4.  NASA API media queries
 5.  Add API to portfolio
 
-### Day 131: July 25, 2022
+### Day 131: July 24, 2022
 
 **Today's Progress**:
 
@@ -2942,7 +2942,7 @@ this was all it took:<br>
 1.  Push on with the last API project.
 2.  More codewars
 
-### Day 132: July 26, 2022
+### Day 132: July 25, 2022
 
 **Today's Progress**:
 
@@ -2968,7 +2968,7 @@ this was all it took:<br>
 3.  Take a look at FCC JSX?
 4.  Do a little CAPM
 
-### Day 133: July 27, 2022
+### Day 133: July 26, 2022
 
 **Today's Progress**:
 
@@ -2990,7 +2990,7 @@ this was all it took:<br>
 
 1.
 
-### Day 134: July 28, 2022
+### Day 134: July 27, 2022
 
 **Today's Progress**:
 
@@ -3014,7 +3014,7 @@ this was all it took:<br>
 
 1.  Survive and do a little :')
 
-### Day 135: July 29, 2022
+### Day 135: July 28, 2022
 
 **Today's Progress**:
 
@@ -3030,7 +3030,7 @@ this was all it took:<br>
 
 **Plan for tomorrow**
 
-### Day 136: July 30, 2022
+### Day 136: July 29, 2022
 
 **Today's Progress**:
 
@@ -3054,7 +3054,7 @@ this was all it took:<br>
 2.  professional checklist - get it done
 3.  Work on local client prospecting?
 
-### Day 137: July 31, 2022
+### Day 137: July 30, 2022
 
 **Today's Progress**:
 
@@ -3069,7 +3069,7 @@ this was all it took:<br>
 
 1.  Finish Flexbox Zombies
 
-### Day 138: August 1, 2022
+### Day 138: July 31, 2022
 
 **Today's Progress**:
 
@@ -3079,14 +3079,14 @@ this was all it took:<br>
 4.  Flexbox Zombies Ch.11 🧟
 5.  Codecademy Learn Java - variables ☕;
 
-### Day 139: August 2, 2022
+### Day 139: August 1, 2022
 
 **Today's Progress**:
 
 1.  3x Codewars 7th Kyu 🥋
 2.  #100Devs Class 31
 
-### Day 14-: August 3, 2022
+### Day 140: August 2, 2022
 
 **Today's Progress**:
 
@@ -3096,7 +3096,7 @@ this was all it took:<br>
 
 1.  Light learning day due to work deployments
 
-### Day 141: August 4, 2022
+### Day 141: August 3, 2022
 
 **Today's Progress**:
 
@@ -3118,7 +3118,7 @@ this was all it took:<br>
 
 1.
 
-### Day 142: August 5, 2022
+### Day 142: August 4, 2022
 
 **Today's Progress**:
 
@@ -3143,7 +3143,7 @@ this was all it took:<br>
 3.  Play with classes
 4.  Class 32
 
-### Day 143: August 6, 2022
+### Day 143: August 5, 2022
 
 **Today's Progress**:
 
@@ -3167,7 +3167,7 @@ this was all it took:<br>
 
 1.
 
-### Day 144: August 7, 2022
+### Day 144: August 6, 2022
 
 **Today's Progress**:
 
@@ -3196,7 +3196,7 @@ this was all it took:<br>
 2.  Codewars/anki
 3.
 
-### Day 145: August 8, 2022
+### Day 145: August 7, 2022
 
 **Today's Progress**:
 
@@ -3218,7 +3218,7 @@ this was all it took:<br>
 2.  Codewars using PREP
 3.  More Anki
 
-### Day 146: August 9, 2022
+### Day 146: August 8, 2022
 
 **Today's Progress**:
 
@@ -3245,7 +3245,7 @@ this was all it took:<br>
 2.  Start on banki questions
 3.  nodejsera day 3
 
-### Day 147: August 10, 2022
+### Day 147: August 9, 2022
 
 **Today's Progress**:
 
@@ -3272,7 +3272,7 @@ this was all it took:<br>
 
 1.
 
-### Day 148: August 11, 2022
+### Day 148: August 10, 2022
 
 **Today's Progress**:
 
@@ -3302,7 +3302,7 @@ this was all it took:<br>
 4.  Make a coin flip game where calculation happens in the back end - Probably saturday
 5.  MIT Missing Semester - Lecture 1 video 🥗 - Watch it
 
-### Day 149: August 12, 2022
+### Day 149: August 11, 2022
 
 **Today's Progress**:
 
@@ -3327,7 +3327,7 @@ this was all it took:<br>
 2.  Read more of Radical Focus
 3.  node.js homework
 
-### Day 150: August 13, 2022
+### Day 150: August 12, 2022
 
 **Today's Progress**:
 
@@ -3349,7 +3349,7 @@ this was all it took:<br>
 
 1.
 
-### Day 151: August 14, 2022
+### Day 151: August 13, 2022
 
 **Today's Progress**:
 
@@ -3380,7 +3380,7 @@ this was all it took:<br>
 3.  Check in with @Dylan on projects
 4.  Check in on Open source and freelance
 
-### Day 152: August 15, 2022
+### Day 152: August 14, 2022
 
 **Today's Progress**:
 
@@ -3404,7 +3404,7 @@ this was all it took:<br>
 2.  Try and set up project work for Saturday, full stack app, maybe set up the coin flip to be more responsive/have images and audio
 3.
 
-### Day 153: August 16, 2022
+### Day 153: August 15, 2022
 
 **Today's Progress**:
 
@@ -3414,13 +3414,13 @@ this was all it took:<br>
 4.  #100Devs class 37 💪
 5.  What the heck is the event loop anyway? by Phillip Roberts
 
-### Day 154: August 17, 2022
+### Day 154: August 16, 2022
 
 **Today's Progress**:
 
 1. Anki Only
 
-### Day 155: August 18, 2022
+### Day 155: August 17, 2022
 
 **Today's Progress**:
 
@@ -3431,7 +3431,7 @@ this was all it took:<br>
 
 1.  FCC Backend to 100% (package management)
 
-### Day 156: August 19, 2022
+### Day 156: August 18, 2022
 
 **Today's Progress**:
 
@@ -3448,7 +3448,7 @@ this was all it took:<br>
 5.  Codewars
 6.  Add faqs and gdpr t&c popup to client side
 
-### Day 157: August 20, 2022
+### Day 157: August 19, 2022
 
 **Today's Progress**:
 
@@ -3474,7 +3474,7 @@ this was all it took:<br>
 4.  play with heroku
 5.  maybe I could make the coin flip app express ready with images
 
-### Day 158: August 21, 2022
+### Day 158: August 20, 2022
 
 **Today's Progress**:
 
@@ -3495,7 +3495,7 @@ this was all it took:<br>
 3.  Pick up codewars, think about doing 6th kyu
 4.  Work more with mongodb/express
 
-### Day 159: August 22, 2022
+### Day 159: August 21, 2022
 
 **Today's Progress**:
 
@@ -3510,7 +3510,7 @@ this was all it took:<br>
 1.  https://fullstackopen.com/en/part3/node_js_and_express
 2.  https://www.youtube.com/watch?v=tS7VK8Qn7YA
 
-### Day 160: August 23, 2022
+### Day 160: August 22, 2022
 
 **Today's Progress**:
 
@@ -3535,7 +3535,7 @@ this was all it took:<br>
 
 1.
 
-### Day 161: August 24, 2022
+### Day 161: August 23, 2022
 
 **Today's Progress**:
 
@@ -3563,7 +3563,7 @@ this was all it took:<br>
 2.  Try and get further with FCC
 3.  Check in with 100devs in case we can get group work going.
 
-### Day 162: August 25, 2022
+### Day 162: August 24, 2022
 
 **Today's Progress**:
 
@@ -3582,7 +3582,7 @@ this was all it took:<br>
 
 1.  Do more work on mongodb
 
-### Day 163: August 26, 2022
+### Day 163: August 25, 2022
 
 **Today's Progress**:
 
@@ -3609,7 +3609,7 @@ this was all it took:<br>
 4.  Codewars 🍅
 5.  Anki 🍅
 
-### Day 164: August 27, 2022
+### Day 164: August 26, 2022
 
 **Today's Progress**:
 
@@ -3629,7 +3629,7 @@ this was all it took:<br>
 2.  Keep improving the API🍅 🍅
 3.  CAPM Training 🍅
 
-### Day 165: August 28, 2022
+### Day 165: August 27, 2022
 
 **Today's Progress**:
 
@@ -3652,7 +3652,7 @@ this was all it took:<br>
 
 1.  More API work.
 
-### Day 166: August 29, 2022
+### Day 166: August 28, 2022
 
 **Today's Progress**:
 
@@ -3665,7 +3665,7 @@ this was all it took:<br>
 5.  On the hunt with @helloitsrufio ⚔️
     A day of streams, also managed to get the GDPR modal done for client site!
 
-### Day 167: August 30, 2022
+### Day 167: August 29, 2022
 
 **Today's Progress**:
 
@@ -3696,7 +3696,7 @@ this was all it took:<br>
 4.  Try and fix the REST API
 5.  Push class 43
 
-### Day 168: August 31, 2022
+### Day 168: August 30, 2022
 
 **Today's Progress**:
 
@@ -3719,7 +3719,7 @@ this was all it took:<br>
 
 1.
 
-### Day 169: September 1, 2022
+### Day 169: August 31, 2022
 
 **Today's Progress**:
 
@@ -3732,7 +3732,7 @@ this was all it took:<br>
 5.  #100Devs Project night on Link Manager 💪
     (nobody got got!) 🤣
 
-### Day 170: September 2, 2022
+### Day 170: September 1, 2022
 
 **Today's Progress**:
 
@@ -3751,7 +3751,7 @@ Fridays are always really busy.
 1.  https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2
 2.  https://www.softwaretestinghelp.com/jest-testing-tutorial/
 
-### Day 171: September 3, 2022
+### Day 171: September 2, 2022
 
 **Today's Progress**:
 
@@ -3764,7 +3764,7 @@ Fridays are always really busy.
 5.  Created a html scraper to grab titles from websites 👀
 6.  Pair programming with @ganksy and @JackMonaco1 🤜🤛
 
-### Day 172: September 4, 2022
+### Day 172: September 3, 2022
 
 **Today's Progress**:
 
@@ -3779,7 +3779,7 @@ Fridays are always really busy.
     especially Mothership 🚀🧟
 6.  Went back to my Recruitment API and updated issues 📝
 
-### Day 173: September 5, 2022
+### Day 173: September 4, 2022
 
 **Today's Progress**:
 
@@ -3789,7 +3789,7 @@ Fridays are always really busy.
 2.  Me and the boys wrestling git like it was an alligator: 👨🧔‍♂️👨‍🎨👨‍🍳🕺 🐊
     (never push directly to main 🤣 )
 
-### Day 174: September 6, 2022
+### Day 174: September 5, 2022
 
 **Today's Progress**:
 
@@ -3815,7 +3815,7 @@ Fridays are always really busy.
 2.  Commented express code with @labrocadabro 📝
 3.
 
-### Day 175: September 7, 2022
+### Day 175: September 6, 2022
 
 **Today's Progress**:
 
@@ -3830,7 +3830,7 @@ Fridays are always really busy.
 
 1.
 
-### Day 176: September 8, 2022
+### Day 176: September 7, 2022
 
 **Today's Progress**:
 
@@ -3849,7 +3849,7 @@ Fridays are always really busy.
 1.  Simple express app homework
 1.  Client site banner media queries
 
-### Day 177: September 9, 2022
+### Day 177: September 8, 2022
 
 **Today's Progress**:
 
@@ -3871,7 +3871,7 @@ Fridays are always really busy.
 7.  Blog? 🍅 Maybe better sunday
 8.  tab safe 🍅
 
-### Day 178: September 10, 2022
+### Day 178: September 9, 2022
 
 **Today's Progress**:
 
@@ -3898,7 +3898,7 @@ Fridays are always really busy.
 3.  Codewars🍅
 4.  Build a simple crud app 🍅
 
-### Day 179: September 11, 2022
+### Day 179: September 10, 2022
 
 **Today's Progress**:
 
@@ -3915,7 +3915,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 180: September 12, 2022
+### Day 180: September 11, 2022
 
 **Today's Progress**:
 
@@ -3931,7 +3931,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 181: September 13, 2022
+### Day 181: September 12, 2022
 
 **Today's Progress**:
 
@@ -3947,7 +3947,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 182: September 14, 2022
+### Day 182: September 13, 2022
 
 **Today's Progress**:
 
@@ -3965,7 +3965,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 183: September 15, 2022
+### Day 183: September 14, 2022
 
 **Today's Progress**:
 
@@ -3980,7 +3980,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 184: September 16, 2022
+### Day 184: September 15, 2022
 
 **Today's Progress**:
 
@@ -3997,7 +3997,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 185: September 17, 2022
+### Day 185: September 16, 2022
 
 **Today's Progress**:
 
@@ -4017,7 +4017,7 @@ Fridays are always really busy.
 4.  #100Devs Class 46
 5.
 
-### Day 186: September 18, 2022
+### Day 186: September 17, 2022
 
 **Today's Progress**:
 
@@ -4045,7 +4045,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 163: September 19, 2022
+### Day 187: September 18, 2022
 
 **Today's Progress**:
 
@@ -4064,7 +4064,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 188: September 20, 2022
+### Day 188: September 19, 2022
 
 **Today's Progress**:
 
@@ -4091,7 +4091,7 @@ Fridays are always really busy.
 10. date search
 11.
 
-### Day 189: September 21, 2022
+### Day 189: September 20, 2022
 
 **Today's Progress**:
 
@@ -4111,7 +4111,7 @@ Fridays are always really busy.
 4.  Finish Variables/Start Functions in PHP
 5.  Azure Fundamentals
 
-### Day 190: September 22, 2022
+### Day 190: September 21, 2022
 
 **Today's Progress**:
 
@@ -4129,7 +4129,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 191: September 23, 2022
+### Day 191: September 22, 2022
 
 **Today's Progress**:
 
@@ -4147,7 +4147,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 192: September 24, 2022
+### Day 192: September 23, 2022
 
 **Today's Progress**:
 
@@ -4169,7 +4169,7 @@ Fridays are always really busy.
 6.  php functions
 7.  push on with azure fundamentals
 
-### Day 193: September 25, 2022
+### Day 193: September 24, 2022
 
 **Today's Progress**:
 
@@ -4185,7 +4185,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 194: September 26, 2022
+### Day 194: September 25, 2022
 
 **Today's Progress**:
 
@@ -4202,7 +4202,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 195: September 27, 2022
+### Day 195: September 26, 2022
 
 **Today's Progress**:
 
@@ -4221,7 +4221,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 196: September 28, 2022
+### Day 196: September 27, 2022
 
 **Today's Progress**:
 
@@ -4238,7 +4238,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 197: September 29, 2022
+### Day 197: September 28, 2022
 
 **Today's Progress**:
 
@@ -4256,7 +4256,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 198: September 30, 2022
+### Day 198: September 29, 2022
 
 **Today's Progress**:
 
@@ -4272,7 +4272,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 199: October 1, 2022
+### Day 199: September 30, 2022
 
 **Today's Progress**:
 
@@ -4291,7 +4291,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 200: October 2, 2022
+### Day 200: October 1, 2022
 
 **Today's Progress**:
 
@@ -4308,7 +4308,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 201: October 3, 2022
+### Day 201: October 2, 2022
 
 **Today's Progress**:
 
@@ -4324,7 +4324,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 202: October 4, 2022
+### Day 202: October 3, 2022
 
 **Today's Progress**:
 
@@ -4342,7 +4342,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 203: October 5, 2022
+### Day 203: October 4, 2022
 
 **Today's Progress**:
 
@@ -4359,7 +4359,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 204: October 6, 2022
+### Day 204: October 5, 2022
 
 **Today's Progress**:
 
@@ -4375,7 +4375,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 205: October 7, 2022
+### Day 205: October 6, 2022
 
 **Today's Progress**:
 
@@ -4391,7 +4391,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 206: October 8, 2022
+### Day 206: October 7, 2022
 
 **Today's Progress**:
 
@@ -4410,7 +4410,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 207: October 9, 2022
+### Day 207: October 8, 2022
 
 **Today's Progress**:
 
@@ -4426,7 +4426,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 208: October 10, 2022
+### Day 208: October 9, 2022
 
 **Today's Progress**:
 
@@ -4443,7 +4443,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 209: October 11, 2022
+### Day 209: October 10, 2022
 
 **Today's Progress**:
 
@@ -4452,7 +4452,7 @@ Fridays are always really busy.
 1.  Azure Anki
 2.  Totally Typescript ex 4
 
-### Day 210: October 12, 2022
+### Day 210: October 11, 2022
 
 **Today's Progress**:
 
@@ -4461,7 +4461,7 @@ Fridays are always really busy.
 1.  Azure Anki
 2.  Totally Typescript Ex.5
 
-### Day 211: October 13, 2022
+### Day 211: October 12, 2022
 
 **Today's Progress**:
 
@@ -4481,7 +4481,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 212: October 14, 2022
+### Day 212: October 13, 2022
 
 **Today's Progress**:
 
@@ -4500,7 +4500,7 @@ Fridays are always really busy.
 2.  Banki
 3.  Codewars
 
-### Day 213: October 15, 2022
+### Day 213: October 14, 2022
 
 **Today's Progress**:
 
@@ -4512,7 +4512,7 @@ Fridays are always really busy.
 4.  Testing @labrocadabro 's excellent #100Devs app
 5.  codewars 8th x 4
 
-### Day 214: October 16, 2022
+### Day 214: October 15, 2022
 
 **Today's Progress**:
 
@@ -4527,7 +4527,7 @@ Fridays are always really busy.
 6.  working through php/laravel/blade
 7.  Configured php docker image for a new project.
 
-### Day 215: October 17, 2022
+### Day 215: October 16, 2022
 
 **Today's Progress**:
 
@@ -4546,7 +4546,7 @@ Fridays are always really busy.
 2.  Linux
 3.  Totally Typescript
 
-### Day 216 October 18, 2022
+### Day 216 October 17, 2022
 
 **Today's Progress**:
 
@@ -4566,7 +4566,7 @@ Fridays are always really busy.
 4.  Linux
 5.  Totally Typescript
 
-### Day 217: October 19, 2022
+### Day 217: October 18, 2022
 
 **Today's Progress**:
 
@@ -4590,7 +4590,7 @@ Remember: #youoweyou 👊
 
 Work on your API a bit
 
-### Day 218: October 20, 2022
+### Day 218: October 19, 2022
 
 **Today's Progress**:
 
@@ -4609,7 +4609,7 @@ Work on your API a bit
 4.  Linux
 5.  Totally Typescript
 
-### Day 219: October 21, 2022
+### Day 219: October 20, 2022
 
 **Today's Progress**:
 
@@ -4617,7 +4617,7 @@ Work on your API a bit
 
 1. codewars 7th/anki
 
-### Day 220: October 22, 2022
+### Day 220: October 21, 2022
 
 **Today's Progress**:
 
@@ -4632,7 +4632,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 221: October 23, 2022
+### Day 221: October 22, 2022
 
 **Today's Progress**:
 
@@ -4650,7 +4650,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 200: October 24, 2022
+### Day 222: October 23, 2022
 
 **Today's Progress**:
 
@@ -4666,7 +4666,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 223: October 25, 2022
+### Day 223: October 24, 2022
 
 **Today's Progress**:
 
@@ -4684,7 +4684,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 224: October 26, 2022
+### Day 224: October 25, 2022
 
 **Today's Progress**:
 
@@ -4701,7 +4701,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 225: October 27, 2022
+### Day 225: October 26, 2022
 
 **Today's Progress**:
 
@@ -4719,7 +4719,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 226: October 28, 2022
+### Day 226: October 27, 2022
 
 **Today's Progress**:
 
@@ -4734,7 +4734,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 227: October 29, 2022
+### Day 227: October 28, 2022
 
 **Today's Progress**:
 
@@ -4756,7 +4756,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 228: October 30, 2022
+### Day 228: October 29, 2022
 
 **Today's Progress**:
 
@@ -4771,7 +4771,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 229: October 31, 2022
+### Day 229: October 30, 2022
 
 **Today's Progress**:
 
@@ -4789,7 +4789,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 230: November 1, 2022
+### Day 230: October 31, 2022
 
 **Today's Progress**:
 
@@ -4805,7 +4805,7 @@ Work on your API a bit
 2.  Banki
 3.  Codewars
 
-### Day 231: November 2, 2022
+### Day 231: November 1, 2022
 
 **Today's Progress**:
 
@@ -4831,7 +4831,7 @@ Work on your API a bit
 Flesh out the Travel Journal with custom colors, media queries and a few more posts.
 Complete the page views for the business cards app.
 
-### Day 232: November 3, 2022
+### Day 232: November 2, 2022
 
 **Today's Progress**:
 
@@ -4850,7 +4850,7 @@ Complete the page views for the business cards app.
 Flesh out the Travel Journal with custom colors, media queries and a few more posts.
 Complete the page views for the business cards app.
 
-### Day 233: November 4, 2022
+### Day 233: November 3, 2022
 
 **Today's Progress**:
 
@@ -4864,7 +4864,7 @@ Complete the page views for the business cards app.
 
 https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/
 
-### Day 234: November 5, 2022
+### Day 234: November 4, 2022
 
 **Plan for today**
 
@@ -4887,7 +4887,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Banki
 3.  Codewars
 
-### Day 235: November 6, 2022
+### Day 235: November 5, 2022
 
 **Today's Progress**
 
@@ -4904,7 +4904,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Banki
 3.  Codewars
 
-### Day 236: November 7, 2022
+### Day 236: November 6, 2022
 
 **Today's Progress**:
 
@@ -4920,7 +4920,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Banki
 3.  Codewars
 
-### Day 237: November 8, 2022
+### Day 237: November 7, 2022
 
 **Today's Plan**
 
@@ -4939,7 +4939,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Scrimba - Ex.1-10
 4.  Reading about Restul Caching
 
-### Day 238: November 9, 2022
+### Day 238: November 8, 2022
 
 **Today's Plan**
 
@@ -4951,7 +4951,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Scrimba Ch. 10-17
 3.  More anki catch up, react/jquery
 
-### Day 239: November 10, 2022
+### Day 239: November 9, 2022
 
 **Today's Plan**
 
@@ -4971,7 +4971,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Converted my RESTful API to layered structure
 6.  Massive overhaul of the app for efficiency
 
-### Day 240: November 11, 2022
+### Day 240: November 10, 2022
 
 **Today's Plan**
 
@@ -4992,7 +4992,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Scrimba React Ch. 19-21
 6.  Updated my REST API documentation
 
-### Day 241: November 12, 2022
+### Day 241: November 11, 2022
 
 **Today's Plan**
 
@@ -5010,7 +5010,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Finished restructuring my REST API 📎
 4.  Started adding unit tests to the API using JEST 🃏
 
-### Day 242: November 14, 2022
+### Day 242: November 12, 2022
 
 **Today's Plan**
 
@@ -5024,7 +5024,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Attended daily standup @ #100Devs
 3.
 
-### Day 243: November 15, 2022
+### Day 243: November 13, 2022
 
 **Today's Progress**:
 
@@ -5036,7 +5036,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
     found a nice reference site for typescript :)
     tutorialsteacher.com/typescript/
 
-### Day 244: November 16, 2022
+### Day 244: November 14, 2022
 
 **Today's Plan**
 
@@ -5051,7 +5051,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Attended #100Devs daily stand up 🔊
 3.  Anki for React 🗃️
 
-### Day 245: November 17, 2022
+### Day 245: November 15, 2022
 
 **Weekend Plan**
 
@@ -5071,7 +5071,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Reading on API structures
 4.  #100Devs tea spill 🫖
 
-### Day 246: November 18, 2022
+### Day 246: November 16, 2022
 
 **Today's Plan**
 
@@ -5089,7 +5089,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Scrimba Ex 22-26 props, usestate, passing data
 5.  Reading react docs on error boundaries, props and usestate
 
-### Day 247: November 19, 2022
+### Day 247: November 17, 2022
 
 **Today's Progress**:
 
@@ -5098,7 +5098,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1.  Anki
 2.  Reading on Agile Software Delivery
 
-### Day 248: November 22, 2022
+### Day 248: November 18, 2022
 
 **Today's Progress**:
 
@@ -5110,7 +5110,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Reading - ACID for Databases
 5.  Drupal CMS Setup
 
-### Day 249: November 23, 2022
+### Day 249: November 19, 2022
 
 **Today's Progress**:
 
@@ -5122,7 +5122,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Scrimba React Ex 26-27
 5.  Anki Javascript
 
-### Day 250: November 24, 2022
+### Day 250: November 20, 2022
 
 **Today's Progress**:
 
@@ -5134,7 +5134,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Typescript 7th kyu
 5.  Reading - Drupal webforms
 
-### Day 251: November 25, 2022
+### Day 251: November 21, 2022
 
 **Today's Progress**:
 
@@ -5143,7 +5143,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1. Big anki catchup on Javascript
 2. Reading on CI/CD
 
-### Day 252: November 26, 2022
+### Day 252: November 22, 2022
 
 **Today's Progress**:
 
@@ -5154,7 +5154,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Figuring out classes/interfaces in Typescript
 4.  Anki for React
 
-### Day 253: November 27, 2022
+### Day 253: November 23, 2022
 
 **Today's Progress**:
 
@@ -5167,7 +5167,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Codewars typescript 🏙️
 6.  Started Nuxt Jamstacks explorers 👍
 
-### Day 254: November 28, 2022
+### Day 254: November 24, 2022
 
 **Today's Progress**:
 
@@ -5178,7 +5178,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Reading - Why Limit WIP to Ch.5
 4.  Codewars - 6th kyu, solved using Set and for/of :)
 
-### Day 255: November 29, 2022
+### Day 255: November 25, 2022
 
 **Today's Progress**:
 
@@ -5186,7 +5186,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.  100+ Anki Cards
 
-### Day 256: November 30, 2022
+### Day 256: November 26, 2022
 
 **Today's Progress**:
 
@@ -5194,7 +5194,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.  Only Anki
 
-### Day 257: December 1, 2022
+### Day 257: November 27, 2022
 
 **Today's Progress**:
 
@@ -5202,7 +5202,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.  Only Anki
 
-### Day 258: December 2, 2022
+### Day 258: November 28, 2022
 
 **Today's Progress**:
 
@@ -5212,7 +5212,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Codewars 7th Kyu 🥋
 3.  Anki Javascript 🗃️
 
-### Day 259: December 3, 2022
+### Day 259: November 29, 2022
 
 **Today's Progress**:
 
@@ -5224,7 +5224,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Drupal Webform docs 📝
 5.  Configured drupal webforms for my volunteer org 🌐
 
-### Day 260: December 4, 2022
+### Day 260: November 30, 2022
 
 **Today's Progress**:
 
@@ -5236,7 +5236,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Big Anki drop 💧
 5.  Finished writing webforms for climate org 🌐
 
-### Day 261: December 5, 2022
+### Day 261: December 1, 2022
 
 **Today's Progress**:
 
@@ -5248,7 +5248,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4. Testing media queries for org site.
 5. Anki - Finally under 100 cards!
 
-### Day 262: December 6, 2022
+### Day 262: December 2, 2022
 
 **Today's Progress**:
 
@@ -5258,7 +5258,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Anki Cards for JS
 3.  Built a tool that turns a .csv into a JSON of arrays
 
-### Day 263: December 7, 2022
+### Day 263: December 3, 2022
 
 **Today's Progress**:
 
@@ -5268,7 +5268,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Solved media-link/permissions issues in drupal
 3.  Cleared down more JS anki
 
-### Day 264: December 8, 2022
+### Day 264: December 4, 2022
 
 **Today's Progress**:
 
@@ -5280,7 +5280,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  More webforms tweaks 📜
 5.  Anki for Javascript 🗃️
 
-### Day 265: December 9, 2022
+### Day 265: December 5, 2022
 
 **Today's Progress**:
 
@@ -5292,7 +5292,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Configured a pipeline from scraping an ebay shop to populating a shopify product list
 5.  Presented it to my client was v happy :)))
 
-### Day 266: December 10, 2022
+### Day 266: December 6, 2022
 
 **Today's Progress**:
 
@@ -5303,7 +5303,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  setup storybook for the first time
 4.  fixed tailwind issues w/ mobile first breakpoints for my org
 
-### Day 267: December 11, 2022
+### Day 267: December 7, 2022
 
 **Today's Progress**:
 
@@ -5314,7 +5314,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Anki for React/Tailwind 🎐
 4.  Finished Pokemon Scarlet ⚫
 
-### Day 268: December 12, 2022
+### Day 268: December 8, 2022
 
 **Today's Progress**:
 
@@ -5323,7 +5323,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 1.  Typescript Anki
 2.  Attended #100Devs Standup
 
-### Day 269: December 13, 2022
+### Day 269: December 9, 2022
 
 **Today's Progress**:
 
@@ -5333,7 +5333,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Reading React Docs
 3.  Reading - Complete Guide to React useEffect
 
-### Day 270: December 14, 2022
+### Day 270: December 10, 2022
 
 **Today's Progress**:
 
@@ -5344,7 +5344,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Made great progress on a business client site 👍
 4.  #100Devs Standup 🧍‍♂️
 
-### Day 271: December 15, 2022
+### Day 271: December 11, 2022
 
 **Today's Progress**:
 
@@ -5356,7 +5356,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Working more on client site, it's coming together fast 👀
 5.  Reading - Algorithms in Javascript 🔳
 
-### Day 272: December 16, 2022
+### Day 272: December 12, 2022
 
 **Today's Progress**:
 
@@ -5368,7 +5368,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Submitted my first NPO Pull Request 🙌
 5.  Anki for Typescript
 
-### Day 273: December 17, 2022
+### Day 273: December 13, 2022
 
 **Today's Progress**:
 
@@ -5380,7 +5380,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Anki - Typescript 🗃️
 5.  Codewars - TS 7th 🥋
 
-### Day 274: December 18, 2022
+### Day 274: December 14, 2022
 
 **Today's Progress**:
 
@@ -5393,7 +5393,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Wrestled with server/db shutdown to make JEST tests happy. 🤼
     Just have one last error to clear with api calls to deploy 💤
 
-### Week 50: December 2022
+### Week 50: 2022
 
 **Weekly Objectives**:
 
@@ -5404,7 +5404,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 #5. Do at least a codewars every day and add tailwind to anki ✅
 #6. Finish Reading the Typescript Handbook ❌
 
-### Day 275: December 19, 2022
+### Day 275: December 15, 2022
 
 **Today's Progress**:
 
@@ -5414,7 +5414,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Anki for Javascript
 3.  Reading: Typescript Handbook - Everyday Types
 
-### Day 276: December 20, 2022
+### Day 276: December 16, 2022
 
 **Today's Progress**:
 
@@ -5424,7 +5424,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  #100Devs SQL Mayanwolfe 🐺
 3.  Anki for Typescript/SQL
 
-### Day 277: December 21, 2022
+### Day 277: December 17, 2022
 
 **Today's Progress**:
 
@@ -5437,7 +5437,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  #100Devs Standup and Leetcode
 6.  Code Reviews for my Charity Org Volunteer work :)
 
-### Day 278: December 22, 2022
+### Day 278: December 18, 2022
 
 **Today's Progress**:
 
@@ -5449,7 +5449,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  #100Devs Class 71
 5.  Anki
 
-### Day 279: December 23, 2022
+### Day 279: December 19, 2022
 
 **Today's Progress**:
 
@@ -5462,7 +5462,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  AWS: Compute in the Cloud 2 Done ✅🟠
 6.  #100Devs Office hours
 
-### Day 280: December 24, 2022
+### Day 280: December 20, 2022
 
 **Today's Progress**:
 
@@ -5472,16 +5472,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Reading on Classes 📖
 3.  Drank a few whiskies while wrapping presents 🎁
 
-### Day 281: December 25, 2022
-
-**Today's Progress**:
-
-#365daysOfCode Day 281
-
-1.  ZX Spectrum Basic
-2.  Merry Christmas
-
-### Day 260: December 26, 2022
+### Day 281: December 21, 2022
 
 **Today's Progress**:
 
@@ -5491,7 +5482,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 2.  Codewars 4th, Hashmaps again
 3.  Reading next.js routes
 
-### Day 260: December 27, 2022
+### Day 282: December 22, 2022
 
 **Today's Progress**:
 
@@ -5503,7 +5494,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  cypress.io first runthrough of kitchensink
 5.  anki 90 cards - been a while since it looked like this 👀 👇
 
-### Day 284: December 28, 2022
+### Day 283: December 23, 2022
 
 **Today's Progress**:
 
@@ -5514,7 +5505,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 3.  Codewars 7th 🥋
 4.  Anki Javascript/React/AWS 🗃️
 
-### Day 285: December 29, 2022
+### Day 284: December 24, 2022
 
 **Today's Progress**:
 
@@ -5526,7 +5517,16 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Scrimba React Ch4 4-6
 5.  Worked on client shopify site
 
-### Day 286: December 30, 2022
+### Day 285: December 25, 2022
+
+**Today's Progress**:
+
+#365daysOfCode Day 281
+
+1.  ZX Spectrum Basic
+2.  Merry Christmas
+
+### Day 286: December 26, 2022
 
 **Today's Progress**:
 
@@ -5539,7 +5539,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Scrimba React Ch4 6-8 ⚛️
 6.  Codewars 7th hashmaps 🥋
 
-### Day 287: December 31, 2022
+### Day 287: December 27, 2022
 
 **Today's Progress**:
 
@@ -5552,7 +5552,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 5.  Resolved dependencies/Reach 17 issues
 6.  Deployed to netlify, next step tailwind 🐦
 
-### Day 288: January 1, 2023
+### Day 288: December 28, 2023
 
 **Today's Progress**:
 
@@ -5564,7 +5564,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  Set up S3 bucket and connected it up 🪣
 5.  Set up triggers to switch itself off on < 0.1% cpu use then email me :)
 
-### Day 288: January 2, 2023
+### Day 289: December 29, 2023
 
 **Today's Progress**:
 
@@ -5572,7 +5572,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.  Anki
 
-### Day 288: January 3, 2023
+### Day 290: December 30, 2023
 
 **Today's Progress**:
 
@@ -5580,7 +5580,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 1.  Anki
 
-### Day 289: January 4, 2023
+### Day 291: December 31, 2023
 
 **Today's Progress**:
 
@@ -5592,7 +5592,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 4.  #100Devs Standup
 5.  React Scrimba - Tenzies init and setup
 
-### Day 290: January 5, 2023
+### Day 292: January 1, 2023
 
 **Today's Progress**:
 
@@ -5603,7 +5603,7 @@ https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example
 
 kind of a minimal day, coding but doing my basic reps while full with other work
 
-### Day 291: January 6, 2023
+### Day 293: January 2, 2023
 
 **Today's Progress**:
 
@@ -5614,7 +5614,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3.  AWS - M7 - Monitoring / Analytics
 4.  React Scrimba - Tenzies / components
 
-### Day 292: January 7, 2023
+### Day 294: January 3, 2023
 
 **Today's Progress**:
 
@@ -5625,7 +5625,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3. React Tenzies - All done
    Picked up react hooks, useState, useEffect and conditional rendering :)
 
-### Day 293: January 8, 2023
+### Day 295: January 4, 2023
 
 **Today's Progress**:
 
@@ -5635,7 +5635,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 2. Anki JS/React
 3. Docker Tutorial with Mosh :)
 
-### Day 294: January 9, 2023
+### Day 296: January 5, 2023
 
 **Today's Progress**:
 
@@ -5646,7 +5646,7 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 3. PoW Weekly Dev Call :)
 4. Anki node/JS
 
-### January 10, 2023
+### Day 297 January 6, 2023
 
 **Today's Progress**:
 
@@ -5659,65 +5659,65 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5. Azure DevOps - CI/CD Tutorial - YT
 6. Azure CI/CD Pipelines - YT
 
-### January 11, 2023
+### January 7, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 296
+#365daysOfCode Day 298
 
 1. Anki Node
 2. #100Devs Standup
 3. Reading - Deploy next.js to azure app services
 4. Codewars 8th
 
-### January 12, 2023
+### January 8, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 297
+#365daysOfCode Day 299
 
 1.  #100Devs code reviews
 2.  Codewars 6th - filter and edge-cases
 3.  anki node
 4.  Reading - Next.js
 
-### January 13, 2023
+### January 9, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 298
+#365daysOfCode Day 300
 
 1.  #100Devs Tea Spill 👀
 2.  Anki - System Architecture/JS
 3.  Codewars 7th
 4.  Reading PMI - TDD
 
-### January 14, 2023
+### January 10, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 299
+#365daysOfCode Day 301
 
 1.  Reading TDD Tests as "Karens" 🤣
 2.  Anki Javascript / Node
 3.  Reading: Typescript Version docs
 4.  Spent a good 3-4 hours reading through yarn version management.
 
-### January 15, 2023
+### January 11, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 300
+#365daysOfCode Day 302
 
 1.  Anki - JS
 2.  Reading - Hoshen–Kopelman algorithm
 3.  codewars 6th
 
-### January 16, 2023
+### January 12, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 301
+#365daysOfCode Day 303
 
 1.  Anki Javascript 🗃️
 2.  Codewars 6th - Wrote a Typescript translation for a 6th Kyu :raised_hands:
@@ -5726,11 +5726,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5.  Azure DevOps - Started going through YAML configs
 6.  Attended PoW Standup 🌍
 
-### January 17, 2023
+### January 13, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 302
+#365daysOfCode Day 304
 
 1.  Reading - Express session Management 🗂️
 2.  Devops - Jenkins for CI/CD 🧈
@@ -5740,11 +5740,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 6.  Anki node/js
 7.  codewars 6th then translated to TypeScript 📘
 
-### January 18, 2023
+### January 14, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 303
+#365daysOfCode Day 305
 
 1.  Reading Azure DevOps
 2.  Dev Onboarding
@@ -5754,11 +5754,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
     anyone deployed a pipeline or docker image to azure?
     Bonus points if it's drupal
 
-### January 19, 2023
+### January 15, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 304
+#365daysOfCode Day 306
 
 1.  Anki
 2.  Azure DevOps for containers
@@ -5766,11 +5766,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  codewars 8th and conversion to typescript
 5.  Started on a tricky 6th but will finish tomorrow.
 
-### January 20, 2023
+### January 16, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 305
+#365daysOfCode Day 307
 
 1.  Finished Cookie Create - 6th w/ codewars
     (anyone who can do Dates or Regex without looking in JS is a beast 🐺)
@@ -5779,33 +5779,33 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  Reading: Seven Languages In Seven Weeks Ch1-Intro 👀📖
 5.  Frontend Masters DS&A - Intro/Basics
 
-### January 21, 2023
+### January 17, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 306
+#365daysOfCode Day 308
 
 1.  AWS Ch8. - Pricing / Support
 2.  Codewars 7th JS & Typescript Translation
 3.  Anki node / Redux / TS
 4.  Reading : 7 Langs in 7 weeks
 
-### January 22, 2023
+### January 18, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 307
+#365daysOfCode Day 309
 
 1.  Anki - Typescript / node
 2.  Codewars 7th
 3.  Reading : 7 Langs in 7 weeks - Ruby
 4.  Frontend Masters - DS&A - Search Algorithms.
 
-### January 23, 2023
+### January 19, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 308
+#365daysOfCode Day 310
 
 1.  Anki 🗃️
 2.  Codewars TS - Refactored my Translations 📘
@@ -5813,11 +5813,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  #100Devs standup 💪
 5.  Drupal CI/CD YT 👻
 
-### January 24, 2023
+### January 20, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 309
+#365daysOfCode Day 311
 
 1. Codewars, TS Translations/JS 7th/8th 📘
 2. PHP Basics on codewars 🐘
@@ -5826,22 +5826,22 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5. DS&A Delete/Repeat - search algos 🧮
 6. FEMasters - Bubblesort 🧋
 
-### January 25, 2023
+### January 21, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 310
+#365daysOfCode Day 312
 
 1.  Anki - JS/redux 🗃️
 2.  Codewars Typescript 7th 📘
 3.  Had a great coffee chat in the morning ☕
 4.  Spent more hours than I should have overclocking a raspberrypi and installing Ubuntu 22 👀
 
-### January 26, 2023
+### January 22, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 311
+#365daysOfCode Day 313
 
 1.  Portfolio tidy-up
 2.  Anki - Redux / JS
@@ -5850,11 +5850,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 5.  Codewars 7th
 6.  Started Scrima React Advanced.
 
-### January 27, 2023
+### January 23, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 311
+#365daysOfCode Day 314
 
 1.  More portfolio work
 2.  Started writing a react UI
@@ -5862,11 +5862,11 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 4.  Codewars 6th
 5.  Anki React/Redux/Javascript
 
-### January 28, 2023
+### January 24, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 312
+#365daysOfCode Day 315
 
 1.  Codewars 6th 🥋
 2.  Debugged mysql for nginx 🟩
@@ -5877,20 +5877,20 @@ kind of a minimal day, coding but doing my basic reps while full with other work
 
 Got my foundryVTT server running really nice on RaspberryPI 🍓🥧
 
-### Day 313: January 29, 2023
+### January 25, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 313
+#365daysOfCode Day 316
 
 1.  Codewars 7th
 2.  Anki - core javascript
 
-### Day 314: January 30, 2023
+### January 26, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 314
+#365daysOfCode Day 317
 
 1.  Codewars 7th
 2.  Anki
@@ -5901,11 +5901,11 @@ Got my foundryVTT server running really nice on RaspberryPI 🍓🥧
 Anyone ever deployed a drupal site to Azure before?
 drop me a dm
 
-### January 31, 2023
+### January 27, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 315
+#365daysOfCode Day 318
 
 1.  Anki
 2.  Leet code - Common Divisors 👀
@@ -5913,11 +5913,11 @@ drop me a dm
 4.  #Drupal reading - lando/docker
 5.  Azure DevOps Reading about containers.
 
-### January February 1, 2023
+### January 28, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 316
+#365daysOfCode Day 319
 
 1.  AWS Ch.9 Migration
 2.  Anki JS / TS / Node
@@ -5925,11 +5925,11 @@ drop me a dm
 4.  PoW Mapping Strapi Routes w/ @JackMonaco1
 5.  Codewars 6th
 
-### February 2, 2023
+### January 29, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 317
+#365daysOfCode Day 320
 
 1.  Anki - so much easier if you do it every day 😅
 2.  Rewatched #100Devs PREP/Technical stream 🔍
@@ -5937,11 +5937,11 @@ drop me a dm
     https://www.youtube.com/watch?v=FS7UxmzYF_M
 3.  Codewars 7th - Queues 🥒
 
-### January February 3, 2023
+### January 30, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 318
+#365daysOfCode Day 321
 
 1.  Anki
 2.  Introduction to .NET MS Learn
@@ -5949,43 +5949,43 @@ drop me a dm
 4.  C# Codewars 8th Fundamentals x3
 5.  @vGothNight got me through .NET intro tonight 🤣
 
-### January February 4, 2023
+### January 31, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 319
+#365daysOfCode Day 322
 
 1.  Anki
 2.  Reading: .NET vs Node.js
 3.  MS Learn: Debugging .NET
 4.  C# Codewars 6th kyu 👀
 
-### January February 5, 2023
+### February 1, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 320
+#365daysOfCode Day 323
 
 1.  Anki
 2.  codewars c# 7th
 3.  MS Learn c# Files & Directories started
 
-### January February 6, 2023
+### February 2, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 321
+#365daysOfCode Day 324
 
 1.  Anki
 2.  Codewars JS 6th
 3.  #100Devs Standup
 4.  #PoW Standup
 
-### January February 7, 2023
+### February 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 322
+#365daysOfCode Day 325
 
 1.  Anki
 2.  Codewars JS 6th
@@ -5993,42 +5993,42 @@ drop me a dm
 4.  Started working on a React/TS/Strapi site for fun/practice
 5.  DSA Hashmap delete/repeat
 
-### January February 8, 2023
+### February 4, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 323
+#365daysOfCode Day 324
 
 1.  Anki node / C# / JS 🗃️
 2.  Working on Strapi/React typesafety 🦺
 3.  codewars 5th/6th taking a bit more time to work on trickier problems 👀
 4.  Reading Strapi docs
 
-### January February 9, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 324
-
-1. Anki
-2. Codewars 6th, cracked a tricky one
-3. Working through graphql fragments and adding type-safety to strapi blog
-
-### January February 10, 2023
+### February 5, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 325
 
-1.  Anki
-2.  Codewars 6th
-3.  Grabbing typeinfo out of graphql
+1. Anki
+2. Codewars 6th, cracked a tricky one
+3. Working through graphql fragments and adding type-safety to strapi blog
 
-### January February 11, 2023
+### February 6, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 326
+
+1.  Anki
+2.  Codewars 6th
+3.  Grabbing typeinfo out of graphql
+
+### February 7, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 327
 
 1.  Anki 🗃️
 2.  Codewars 6th, regex and/or date problems are always a pain 🤣
@@ -6038,63 +6038,63 @@ drop me a dm
 6.  Reading: graphQL docs
 7.  Reading: Cypress.io docs
 
-### January February 12, 2023
+### February 8, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 327
+#365daysOfCode Day 328
 
 1.  Anki 🗃️
 2.  Codewars 6th
 3.  cypress reading docs
 4.  cypress working through React configs for components
 
-### January February 13, 2023
+### February 9, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 328
+#365daysOfCode Day 329
 
 1.  Anki redux
 2.  Codewars 6th
 
 Posting this early, I'm in Madeira for 4 days with work so likely won't get much more than anki done each day this week!
 
-### January February 14, 2023
+### February 10, 2023
 
 **Today's Progress**:
 
 #365daysofcode
-Day 329
+Day 330
 
 1. Only got anki done.
 
 On deployment in Madeira and saw this stunning rainbow at the airport!
 
-### January February 15, 2023
+### February 11, 2023
 
 **Today's Progress**:
 
-#365daysofcode Day 330
+#365daysofcode Day 331
 
 Only did anki
 
 Drank ponchas and jager with my team til sundown in madeira :)))
 
-### January February 16, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 331
-
-1. Did anki, kept this up all week despite working full time!
-   Last working day in Madeira, next stop Porto
-
-### January February 17, 2023
+### February 12, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 332
+
+1. Did anki, kept this up all week despite working full time!
+   Last working day in Madeira, next stop Porto
+
+### February 13, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 333
 
 1.  Anki
 2.  #100Devs Office hours
@@ -6103,18 +6103,7 @@ Drank ponchas and jager with my team til sundown in madeira :)))
 Travel day, spent a lot of time in airport/flying, great to make it to office hours and
 squeeze in a bit of codewars at the end of the day!
 
-### January February 18, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 333
-
-1.  Anki
-2.  Codewars 6th
-3.  Reading: Typescript generics
-4.  Went back over an old project to add a few features :)
-
-### January February 19, 2023
+### February 14, 2023
 
 **Today's Progress**:
 
@@ -6122,52 +6111,63 @@ squeeze in a bit of codewars at the end of the day!
 
 1.  Anki
 2.  Codewars 6th
-3.  refactored an old API project based on feedback and added a few new features.
-    It's interesting going back to old projects and bringing them up to date with your new skills :)
+3.  Reading: Typescript generics
+4.  Went back over an old project to add a few features :)
 
-### January February 20, 2023
+### February 15, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 335
 
 1.  Anki
-2.  Codewars 7th Kyu x2
-3.
+2.  Codewars 6th
+3.  refactored an old API project based on feedback and added a few new features.
+    It's interesting going back to old projects and bringing them up to date with your new skills :)
 
-### January February 21, 2023
+### February 16, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 336
 
 1.  Anki
-2.  Codewars 6th
-    knocking out the 6th kyus quite easily now I'm happy to say 😄
+2.  Codewars 7th Kyu x2
+3.
 
-### January February 22, 2023
+### February 17, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 337
 
 1.  Anki
-2.  Codewars 5th 👀
+2.  Codewars 6th
+    knocking out the 6th kyus quite easily now I'm happy to say 😄
 
-### January February 23, 2023
+### February 18, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 338
 
 1.  Anki
-2.  Codewars 6th
+2.  Codewars 5th 👀
 
-### January February 24, 2023
+### February 19, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 339
+
+1.  Anki
+2.  Codewars 6th
+
+### February 20, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 340
 
 1.  Anki 🗃️
 2.  Codewars 5th 🥋
@@ -6175,11 +6175,11 @@ squeeze in a bit of codewars at the end of the day!
 4.  React Front to Back JSX Spaced Rep ⚛️
     Great to start move forward again a bit after a long work deployment! :)
 
-### January February 25, 2023
+### February 21, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 340
+#365daysOfCode Day 341
 
 1.  Anki 🗃️
 2.  Codewars 7th 🥋
@@ -6189,21 +6189,21 @@ squeeze in a bit of codewars at the end of the day!
 6.  AWS Ch. 10 & 11
     Great day :)
 
-### January February 26, 2023
+### February 22, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 341
+#365daysOfCode Day 342
 
 1.  Codewars 6th & 7th 🥋
 2.  anki 🗃️
 3.  Frontendmasters - BubbleSort
 
-### January February 27, 2023
+### February 23, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 342
+#365daysOfCode Day 343
 
 1.  PoW Sprint Meeting
 2.  Reading: things-every-javascript-developer-should-know
@@ -6212,43 +6212,35 @@ squeeze in a bit of codewars at the end of the day!
 5.  anki
 6.  Reading : algorithms to find prime numbers
 
-### January February 28, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 343
-
-1.  Anki 🗃️
-2.  Codewars 6th 🥋
-3.  #100Devs standup 🧍‍♂️
-4.  IKM Javascript EC7 test 👀
-
-### January March 1, 2023
+### February 24, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 344
 
 1.  Anki 🗃️
+2.  Codewars 6th 🥋
+3.  #100Devs standup 🧍‍♂️
+4.  IKM Javascript EC7 test 👀
 
-### January March 2, 2023
+### February 25, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 345
 
 1.  Anki 🗃️
-2.  Codewars 6th
 
-### January March 3, 2023
+### February 26, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 346
 
 1.  Anki 🗃️
+2.  Codewars 6th
 
-### January March 4, 2023
+### February 27, 2023
 
 **Today's Progress**:
 
@@ -6256,22 +6248,30 @@ squeeze in a bit of codewars at the end of the day!
 
 1.  Anki 🗃️
 
-### January March 5, 2023
+### February 28, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 348
+
+1.  Anki 🗃️
+
+### March 1, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 349
 
 1.  Codewars 5th
 2.  Anki
 3.  Frontend Masters DSA - Linked Lists
 4.  React Front to Back - Adding Components/useState to a side project as spaced rep
 
-### January March 6, 2023
+### March 2, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 349
+#365daysOfCode Day 350
 
 1.  Codewars 5th 🥋
 2.  Anki 🗃️
@@ -6280,22 +6280,22 @@ squeeze in a bit of codewars at the end of the day!
 5.  #100Devs Standup 💯
 6.  React-Router Spaced repetition 🔀
 
-### January March 7, 2023
+### March 3, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 350
+#365daysOfCode Day 351
 
 1.  Anki 🗃️
 2.  Codewars 6th 🥋
 3.  #100Devs Standup
 4.  added useContext and refactored NPS UI
 
-### January March 8, 2023
+### March 4, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 351
+#365daysOfCode Day 352
 
 1.  Anki 🗃️
 2.  Reading: react testing library 📖
@@ -6303,23 +6303,20 @@ squeeze in a bit of codewars at the end of the day!
 4.  Codewars 5th 🥋
 5.  Started adding Jest unit-tests to my NPS React UI project 🧪
 
-### January March 9, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 352
-
-1.
-
-### January March 10, 2023
+### March 5, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 353
 
-1.
+1.  Anki 🗃️
+2.  Codewars 6th & 7th 🥋
+3.  Attended Graceful React Error handling by @logrocket
+    thanks to @andrewevans0102 for hosting 😄
+4.  Reading: #Drupal pages, views and content access. 💧
+5.  Spent a good 4-5 hours configuring and coding out the PoW drupal site 💪
 
-### January March 11, 2023
+### March 6, 2023
 
 **Today's Progress**:
 
@@ -6327,7 +6324,15 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 12, 2023
+### March 7, 2023
+
+**Today's Progress**:
+
+#365daysOfCode Day 354
+
+1.
+
+### March 8, 2023
 
 **Today's Progress**:
 
@@ -6335,7 +6340,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 13, 2023
+### March 9, 2023
 
 **Today's Progress**:
 
@@ -6343,7 +6348,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 14, 2023
+### March 10, 2023
 
 **Today's Progress**:
 
@@ -6351,7 +6356,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 15, 2023
+### March 11, 2023
 
 **Today's Progress**:
 
@@ -6359,7 +6364,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 16, 2023
+### March 12, 2023
 
 **Today's Progress**:
 
@@ -6367,7 +6372,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 17, 2023
+### March 13, 2023
 
 **Today's Progress**:
 
@@ -6375,7 +6380,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 18, 2023
+### March 14, 2023
 
 **Today's Progress**:
 
@@ -6383,7 +6388,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 19, 2023
+### March 15, 2023
 
 **Today's Progress**:
 
@@ -6391,7 +6396,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 20, 2023
+### March 16, 2023
 
 **Today's Progress**:
 
@@ -6399,7 +6404,7 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 21, 2023
+### March 17, 2023
 
 **Today's Progress**:
 
@@ -6407,18 +6412,10 @@ squeeze in a bit of codewars at the end of the day!
 
 1.
 
-### January March 22, 2023
+### March 18, 2023
 
 **Today's Progress**:
 
 #365daysOfCode Day 365
-
-1.
-
-### January March 3, 2023
-
-**Today's Progress**:
-
-#365daysOfCode Day 346
 
 1.
