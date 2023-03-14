@@ -6322,7 +6322,10 @@ squeeze in a bit of codewars at the end of the day!
 
 #365daysOfCode Day 354
 
-1.
+1.  Anki 🗃️
+2.  Codewars 7th
+
+A lighter day as I had to work a bit later.
 
 ### March 7, 2023
 
@@ -6330,7 +6333,9 @@ squeeze in a bit of codewars at the end of the day!
 
 #365daysOfCode Day 354
 
-1.
+1. Just Anki Today
+   I got really burned out so went for a beer in Leeds,
+   then an early night, woke up feeling much better. Health comes first.
 
 ### March 8, 2023
 
@@ -6338,7 +6343,12 @@ squeeze in a bit of codewars at the end of the day!
 
 #365daysOfCode Day 355
 
-1.
+1.  Anki
+2.  Codewars 6th
+3.  Reading: Layered Patterns
+4.  Reading: Cacheing for REST APis
+    https://dev.to/vigzmv/a-simple-caching-strategy-for-node-rest-apis-part-1-72a
+5.  worked a little more on drupal just some reading and tweaking on templates.
 
 ### March 9, 2023
 
@@ -6346,7 +6356,14 @@ squeeze in a bit of codewars at the end of the day!
 
 #365daysOfCode Day 356
 
-1.
+1.  Anki
+2.  Reading: Javascript Security 101
+3.  #Drupal : Block Views, built my first one!
+    Still need to push more on drupal it's tough
+    (anyone know any good resources?)
+4.  #100Devs Standup
+5.  PoW Dev Hangout
+6.  Codewars 6th
 
 ### March 10, 2023
 
