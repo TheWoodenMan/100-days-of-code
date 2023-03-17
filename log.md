@@ -6371,7 +6371,11 @@ A lighter day as I had to work a bit later.
 
 #365daysOfCode Day 357
 
-1.
+1.  Anki
+2.  Codewars 6th
+3.  #100Devs Standup
+4.  Reading: Mongoose Hooks
+5.  Refactored one of my projects a little.
 
 ### March 11, 2023
 
@@ -6379,7 +6383,14 @@ A lighter day as I had to work a bit later.
 
 #365daysOfCode Day 358
 
-1.
+1.  Anki
+2.  Codewars 6th,
+3.  Binary Search - Delete/Repeat
+4.  #100Devs Standup
+5.  json-server and concurrently npm modules for dev QoL
+6.  React front to back full CRUD in React http calls & APIs
+7.  Built out a Full Node.JS/Express/MongoDB backend to support the Feedback app.
+    But it doesn't 100% deploy!! one for tomorrow! 🤣
 
 ### March 12, 2023
 
@@ -6387,7 +6398,12 @@ A lighter day as I had to work a bit later.
 
 #365daysOfCode Day 359
 
-1.
+1.  Anki
+2.  Codewars 7th
+3.  Spent a long time on project deployment with railways.app
+    I know I could probably deploy front/back end in separate repos,
+    but I'm determined to figure out how to run and connect them concurrently.
+    (without the white-screen issue I'm currently seeing! ) Otherwise my app is 99% done.
 
 ### March 13, 2023
 
