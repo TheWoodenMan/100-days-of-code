@@ -6331,7 +6331,7 @@ A lighter day as I had to work a bit later.
 
 **Today's Progress**:
 
-#365daysOfCode Day 354
+#365daysOfCode Day 355
 
 1. Just Anki Today
    I got really burned out so went for a beer in Leeds,
@@ -6341,7 +6341,7 @@ A lighter day as I had to work a bit later.
 
 **Today's Progress**:
 
-#365daysOfCode Day 355
+#365daysOfCode Day 356
 
 1.  Anki
 2.  Codewars 6th
@@ -6354,7 +6354,7 @@ A lighter day as I had to work a bit later.
 
 **Today's Progress**:
 
-#365daysOfCode Day 356
+#365daysOfCode Day 357
 
 1.  Anki
 2.  Reading: Javascript Security 101
@@ -6369,19 +6369,20 @@ A lighter day as I had to work a bit later.
 
 **Today's Progress**:
 
-#365daysOfCode Day 357
+#365daysOfCode Day 358
 
 1.  Anki
 2.  Codewars 6th
-3.  #100Devs Standup
-4.  Reading: Mongoose Hooks
-5.  Refactored one of my projects a little.
+3.  Reading: Encryption for MongoDB/Azure
+4.  Reading: NPM BCrypt
+5.  Reading: Node Crypto module.
+    Generally deep diving encryption before I add a big crypto patch to one of my projects
 
 ### March 11, 2023
 
 **Today's Progress**:
 
-#365daysOfCode Day 358
+#365daysOfCode Day 359
 
 1.  Anki
 2.  Codewars 6th,
