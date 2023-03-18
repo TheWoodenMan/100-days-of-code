@@ -6397,7 +6397,7 @@ A lighter day as I had to work a bit later.
 
 **Today's Progress**:
 
-#365daysOfCode Day 359
+#365daysOfCode Day 360
 
 1.  Anki
 2.  Codewars 7th
@@ -6410,19 +6410,14 @@ A lighter day as I had to work a bit later.
 
 **Today's Progress**:
 
-#365daysOfCode Day 360
-
-1.
-
-### March 14, 2023
-
-**Today's Progress**:
-
 #365daysOfCode Day 361
 
-1.
+1.  Anki
+2.  Codewars 6th
+3.  Reading: create-react-app options
+4.  Took the feedback app to prod after MUCH fiddling with cors/ports/builds
 
-### March 15, 2023
+### March 14, 2023
 
 **Today's Progress**:
 
@@ -6430,7 +6425,7 @@ A lighter day as I had to work a bit later.
 
 1.
 
-### March 16, 2023
+### March 15, 2023
 
 **Today's Progress**:
 
@@ -6438,7 +6433,7 @@ A lighter day as I had to work a bit later.
 
 1.
 
-### March 17, 2023
+### March 16, 2023
 
 **Today's Progress**:
 
@@ -6446,7 +6441,7 @@ A lighter day as I had to work a bit later.
 
 1.
 
-### March 18, 2023
+### March 17, 2023
 
 **Today's Progress**:
 
