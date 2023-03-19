@@ -6423,7 +6423,10 @@ A lighter day as I had to work a bit later.
 
 #365daysOfCode Day 362
 
-1.
+1.  Anki
+2.  Codewars 6th
+3.  Reading: OWASP Web Security
+4.  Next/Tailwind setup
 
 ### March 15, 2023
 
