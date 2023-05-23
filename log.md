@@ -6426,7 +6426,9 @@ A lighter day as I had to work a bit later.
 1.  Anki
 2.  Codewars 6th
 3.  Reading: OWASP Web Security
-4.  Next/Tailwind setup
+4.  Refactored and tidyed up my feedback UI project
+5.  Pushing on with React Front to Back but using Next/TS/Tailwind/React as a project base
+    Always wanted to crack next 😄
 
 ### March 15, 2023
 
