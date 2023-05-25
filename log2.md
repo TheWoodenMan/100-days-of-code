@@ -1,10 +1,22 @@
-### May 23rd, 2023
+### May 25th, 2023
 
 **Today's Progress**:
 
-#100daysOfCode Day x
+#100daysOfCode Day 3
 
 1.
+
+### May 24rd, 2023
+
+**Today's Progress**:
+
+#100daysOfCode Day 2
+
+1.  Delete/Repeat practice on React/Tailwind/TypeScript init 📝
+2.  Started Intermediate Tests with #codesquid 🦑
+3.  Pushed on with React Front to Back. ⚛️
+4.  Setup firebase for auth and db for a project 🔥
+5.  Dived into React Testing Library 🦑⚛️
 
 ### May 23rd, 2023
 
