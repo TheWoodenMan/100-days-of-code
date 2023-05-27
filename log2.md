@@ -1,10 +1,24 @@
+### May 26th, 2023
+
+**Today's Progress**:
+
+#100daysOfCode Day 4
+
+1.  Anki 🎴
+2.  Codewars 7th 🥋
+3.  Reading: TypedArrays 📖
+4.  Reading: React Event Handlers 🧭
+
 ### May 25th, 2023
 
 **Today's Progress**:
 
 #100daysOfCode Day 3
 
-1.
+1.  Anki 🎴
+2.  #100Devs Standup 💯
+3.  Delved into pagination for react 📄
+4.  2 Hours of pair programming 🖌️
 
 ### May 24rd, 2023
 
