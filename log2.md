@@ -1,3 +1,37 @@
+### May 29th, 2023
+
+**Today's Progress**:
+
+#100daysOfCode Day 6
+
+1.  Anki 🎴
+2.  Pushing on Intermediate Unit Tests with #codesquid 🦑
+3.  Jest SpyOn and Mocking 🃏
+
+### May 28th, 2023
+
+**Today's Progress**:
+
+#100daysOfCode Day 5
+
+1.  Anki 🎴
+2.  Finished Sign In/Sign Up on firebase
+3.  Reading: React Testing Library
+    Really nice intro to that by freecodecamp here:
+    https://www.freecodecamp.org/news/react-testing-library-tutorial-javascript-example-code/
+
+### May 27th, 2023
+
+**Today's Progress**:
+
+#100daysOfCode Day 5
+
+1.  Anki 🎴
+2.  Reading: OOP 📖
+3.  Built out Nav and Router for a project 🚧
+4.  Reading : Auth/Authentication with firebase.
+5.  Reading: React Testing Library
+
 ### May 26th, 2023
 
 **Today's Progress**:
