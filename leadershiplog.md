@@ -1,3 +1,14 @@
+### January 31, 2024
+
+**Today's Progress**:
+
+#100daysOfLeadership Day 3
+
+1. Read Ch3 of The Reflective Practitioners Guide 📖
+2. A tough anki day with over 60 cards
+3. Read through the 12 Duties and read through Senior Leader KSBs
+4. Researched Systems Thinking
+
 ### January 30, 2024
 
 **Today's Progress**:
